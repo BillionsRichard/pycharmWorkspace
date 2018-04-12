@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {%if num > 5 %}
+    <h1>Sunk is a good man</h1>
+    {% endif %}
+    <h1>{{stu.sname}}</h1>
+    <h1>{{stu.getName}}</h1>
+    <h1>{{num}}</h1>
+    {{code}}
+    {{code|escape}}
+    {{code|safe}}
+
+    {% autoescape off %}
+        {{code}}
+    {% endautoescape%}
+
+    {% autoescape on %}
+        {{code}}
+    {% endautoescape%}
+</body>
+</html>

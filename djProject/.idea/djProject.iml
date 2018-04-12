@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Demo" />
+    <orderEntry type="module" module-name="devstack" />
+    <orderEntry type="module" module-name="packstack" />
+    <orderEntry type="module" module-name="scrapy_demo" />
+    <orderEntry type="module" module-name="upgradeEvaluation" />
+    <orderEntry type="module" module-name="baidufanyi" />
+    <orderEntry type="module" module-name="collect" />
+    <orderEntry type="module" module-name="expansion" />
+    <orderEntry type="module" module-name="dj_demo01" />
+    <orderEntry type="module" module-name="djDemo_day35" />
+    <orderEntry type="module" module-name="djDemo_day38" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

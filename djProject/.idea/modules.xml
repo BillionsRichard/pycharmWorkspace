@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Demo/.idea/Demo.iml" filepath="$PROJECT_DIR$/../Demo/.idea/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baidufanyi/.idea/baidufanyi.iml" filepath="$PROJECT_DIR$/../baidufanyi/.idea/baidufanyi.iml" />
+      <module fileurl="file://C:/Huawei OceanStor Toolkit/tools/collect/packages/collect/.idea/collect.iml" filepath="C:/Huawei OceanStor Toolkit/tools/collect/packages/collect/.idea/collect.iml" />
+      <module fileurl="file://F:/OpenStack/openstack/.idea/devstack.iml" filepath="F:/OpenStack/openstack/.idea/devstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../djDemo_day35/.idea/djDemo_day35.iml" filepath="$PROJECT_DIR$/../djDemo_day35/.idea/djDemo_day35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../djDemo_day38/.idea/djDemo_day38.iml" filepath="$PROJECT_DIR$/../djDemo_day38/.idea/djDemo_day38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/djProject.iml" filepath="$PROJECT_DIR$/.idea/djProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/.idea/dj_demo01.iml" filepath="$PROJECT_DIR$/../djproDemo01/dj_demo01/.idea/dj_demo01.iml" />
+      <module fileurl="file://C:/Huawei OceanStor Toolkit/tools/expansion/packages/expansion/.idea/expansion.iml" filepath="C:/Huawei OceanStor Toolkit/tools/expansion/packages/expansion/.idea/expansion.iml" />
+      <module fileurl="file://F:/OpenStack/packstack/.idea/packstack.iml" filepath="F:/OpenStack/packstack/.idea/packstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy_demo/.idea/scrapy_demo.iml" filepath="$PROJECT_DIR$/../scrapy_demo/.idea/scrapy_demo.iml" />
+      <module fileurl="file://C:/Huawei OceanStor Toolkit/tools/upgradeEvaluation/packages/upgradeEvaluation/.idea/upgradeEvaluation.iml" filepath="C:/Huawei OceanStor Toolkit/tools/upgradeEvaluation/packages/upgradeEvaluation/.idea/upgradeEvaluation.iml" />
+    </modules>
+  </component>
+</project>
