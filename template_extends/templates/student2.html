@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block %}
+    {% for student in student_list %}
+        <h2>学生{{ student }}</h2>
+    {% endfor %}
+{% endblock %}

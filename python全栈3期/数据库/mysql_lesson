@@ -1,0 +1,288 @@
+
+CREATE TABLE if not exists emp(
+  id TINYINT PRIMARY KEY auto_increment,
+  name VARCHAR(25),
+  gender boolean,
+  age INT,
+  department VARCHAR(20),
+  salary DOUBLE(7,2)
+);
+
+insert into emp (name, salary, depart)
+          values("xialv", 30000, "python");
+
+INSERT INTO emp (name, salary, depart) VALUES
+  ("xiaoyu", 30000, "python");
+
+INSERT INTO emp (name, salary, depart)
+VALUES ("xiaolv", 3000, "python"),
+      ("xiaoyu", 5000, "销售部"),
+      ("冰冰", 9000, "销售部");
+
+
+INSERT INTO emp VALUES (10, 29, "丹丹", 0, 3000, "销售部", 1);
+
+INSERT INTO emp (name, gender, salary, depart)
+  values ("sam", 1, 3000, "Manage one");
+
+
+INSERT INTO emp SET name="姗姗";
+
+
+UPDATE emp SET salary=30000 WHERE name="sam";
+
+UPDATE emp SET salary=2000,depart="保安部" where name="xiaolv";
+
+
+DELETE FROM emp WHERE id=2;
+
+CREATE TABLE ExamResult(
+
+ id INT PRIMARY KEY  auto_increment,
+ name VARCHAR (20),
+ JS DOUBLE ,
+ Django DOUBLE ,
+ OpenStack DOUBLE
+);
+
+
+INSERT INTO ExamResult VALUES  (1,"yuan",98,98,98),
+                               (2,"xialv",35,98,67),
+                               (3,"alex",59,59,62),
+                               (4,"wusir",88,89,82),
+                               (5,"alvin",88,98,67),
+                               (6,"yuan",86,100,55);
+
+INSERT INTO ExamResult VALUES  (7, "yuan",98,98,98);
+
+CREATE TABLE ClassCharger(
+id TINYINT PRIMARY KEY auto_increment,
+name VARCHAR(20),
+age INT,
+is_married boolean
+);
+
+
+ALTER TABLE ClassCharger CHANGE column is_married is_marriged boolean;
+
+
+
+ALTER TABLE ClassCharger modify column name varchar(20) character set utf8;
+
+INSERT INTO ClassCharger (name,age,is_marriged) VALUES ("冰冰",12,0),
+                                                       ("丹丹",14,0),
+                                                       ("歪歪",22,0),
+                                                       ("姗姗",20,0),
+                                                       ("小雨",21,0);
+
+
+CREATE TABLE Student(
+       id INT PRIMARY KEY auto_increment,
+       name VARCHAR (20),
+       charger_id TINYINT
+) ENGINE=INNODB;
+
+--切记:作为外键一定要和关联主键的数据类型保持一致
+-- [ADD CONSTRAINT charger_fk_stu]FOREIGN KEY (charger_id) REFERENCES ClassCharger(id)
+
+INSERT INTO Student(name,charger_id) VALUES ("alvin1",2),
+                                            ("alvin2",4),
+                                            ("alvin3",1),
+                                            ("alvin4",3),
+                                            ("alvin5",1),
+                                            ("alvin6",3),
+                                            ("alvin7",2);
+
+ALTER TABLE Student MODIFY COLUMN name VARCHAR(20) CHARACTER SET utf8;
+
+INSERT INTO Student (name, charger_id) values ("袁先生", 1);
+
+ALTER TABLE Student  ADD CONSTRAINT abc
+                     FOREIGN KEY(charger_id) --括号不能少啊。。。
+                     REFERENCES  classcharger(id);
+
+CREATE TABLE Student1(
+       id INT PRIMARY KEY auto_increment,
+       name VARCHAR (20) CHARACTER SET utf8,
+       charger_id TINYINT,
+       FOREIGN KEY (charger_id) REFERENCES ClassCharger(id)
+) ENGINE=INNODB;
+
+
+CREATE TABLE Student2(
+       id INT PRIMARY KEY auto_increment,
+       name VARCHAR (20) CHARACTER SET utf8,
+       charger_id TINYINT,
+       FOREIGN KEY (charger_id) REFERENCES ClassCharger(id) on delete cascade
+) ENGINE=INNODB;
+
+
+INSERT INTO Student2(name,charger_id) VALUES ("alvin1",3),
+                                            ("alvin2",4),
+                                            ("alvin3",5),
+                                            ("alvin4",3),
+                                            ("alvin5",4),
+                                            ("alvin6",3),
+                                            ("alvin7",2);
+
+
+-- 演示级联删除-------------------begin
+CREATE TABLE CC(
+id TINYINT PRIMARY KEY auto_increment,
+name VARCHAR(20),
+age INT,
+is_married boolean
+);
+
+CREATE TABLE S3(
+       id INT PRIMARY KEY auto_increment,
+       name VARCHAR (20) CHARACTER SET utf8,
+       charger_id TINYINT,
+       FOREIGN KEY (charger_id) REFERENCES CC(id) on delete cascade
+) ENGINE=INNODB;
+
+
+INSERT INTO CC (name,age,is_married) VALUES ("冰冰",12,0),
+                                                       ("丹丹",14,0),
+                                                       ("歪歪",22,0),
+                                                       ("姗姗",20,0),
+                                                       ("小雨",21,0);
+
+ALTER TABLE CC modify column name VARCHAR(20) CHARACTER SET UTF8;
+INSERT INTO S3(name,charger_id) VALUES ("alvin1",3),
+                                            ("alvin2",4),
+                                            ("alvin3",5),
+                                            ("alvin4",3),
+                                            ("alvin5",4),
+                                            ("alvin6",3),
+                                            ("alvin7",2);
+
+- 演示级联删除--------on delete cascade------------end
+
+- 演示级联删除--------on delete set null------------begin
+
+ALTER TABLE s3 drop foreign key s3_ibfk_1; - 演示级联删除
+
+ALTER TABLE S3 ADD CONSTRAINT AA
+  FOREIGN KEY (charger_id) references CC(id) on delete set null ;
+
+- 演示级联删除--------on delete set null------------end
+
+
+/* 多表查询
+  连接查询：
+  1）内连接：
+  2）外连接：
+  3）
+ */
+
+create table employee(
+emp_id int auto_increment primary key not null,
+emp_name varchar(50),
+age int,
+dept_id int
+);
+
+insert into employee(emp_name,age,dept_id) values
+  ('A',19,200),
+  ('B',26,201),
+  ('C',30,201),
+  ('D',24,202),
+  ('E',20,200),
+  ('F',38,204);
+
+
+create table department(
+ dept_id int,
+ dept_name varchar(100)
+);
+
+alter TABLE department MODIFY column dept_name varchar(100) character set utf8;
+insert into department values
+(200,'人事部'),
+(201,'技术部'),
+(202,'销售部'),
+(203,'财政部');
+
+
+/*
+内外连接---全连接
+http://www.cnblogs.com/yuanchenqi/articles/6357507.html
+
+ */
+
+select * from employee;
+select * from department;
+
+select * from employee where dept_id in (select department.dept_id from department);
+
+create table employee_copy (select * from employee);
+
+select * from employee_copy;
+
+CREATE TABLE tes1 (
+  id INT PRIMARY KEY auto_increment,
+  name VARCHAR(20),
+  salary INT default 1000
+);
+
+RENAME TABLE tes1 to test1;
+
+INSERT INTO test1(name) values ("111"),
+("111"),
+("222"),
+("333"),
+("444");
+
+ALTER TABLE test1 modify name varchar(20) unique key ;
+
+-- 创建索引
+CREATE TABLE emp1(
+  id int,
+  name varchar(20),
+  index index_name (name) -- [unique] key|index index_name(<idx_name>)
+);
+
+-- 创建多列索引
+CREATE TABLE emp4(
+  id INT,
+  name varchar(20),
+  resume VARCHAR(50),
+  INDEX index_name_resume (name, resume)
+);
+
+--创建表
+create table t1(id int,name varchar(20));
+
+
+--存储过程
+
+delimiter $$
+create procedure autoinsert()
+BEGIN
+declare i int default 1;
+while(i<500000)do
+insert into t1 values(i,'yuan');
+set i=i+1;
+end while;
+END$$
+
+delimiter ;
+
+--调用函数
+call autoinsert();
+
+-- 花费时间比较：
+-- 创建索引前
+   select * from t1 where id=300000;--0.32s
+-- 添加索引
+   create index index_id on t1(id);
+
+   drop index index_id on t1;
+-- 创建索引后
+   select * from t1 where id=400000;--0.00s
+
+
+show create table t1;
+
+CREATE index idx1_name on t1(name);

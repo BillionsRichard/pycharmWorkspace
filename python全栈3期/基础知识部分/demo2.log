@@ -1,0 +1,68 @@
+2018-05-06 11:08:01,938 logging模块的学习2.py[40] this is a error message
+2018-05-06 11:09:42,804 logging模块的学习2.py[40] this is a error message
+2018-05-06 11:10:29,038 logging模块的学习2.py[40] this is a debug message
+2018-05-06 11:10:29,038 logging模块的学习2.py[41] this is a info message
+2018-05-06 11:10:29,038 logging模块的学习2.py[42] this is a error message
+2018-05-06 11:12:19,525 [DEBUG] logging模块的学习2.py[40] this is a debug message
+2018-05-06 11:12:19,525 [INFO] logging模块的学习2.py[41] this is a info message
+2018-05-06 11:12:19,526 [ERROR] logging模块的学习2.py[42] this is a error message
+2018-05-06 11:13:50,769 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[40] this is a debug message
+2018-05-06 11:13:50,771 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[41] this is a info message
+2018-05-06 11:13:50,771 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[42] this is a error message
+2018-05-06 11:14:01,564 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[40] this is a debug message
+2018-05-06 11:14:01,564 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[41] this is a info message
+2018-05-06 11:14:01,564 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[42] this is a error message
+2018-05-06 11:15:12,328 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[41] this is a debug message
+2018-05-06 11:15:12,328 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[42] this is a info message
+2018-05-06 11:15:12,329 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[43] this is a error message
+2018-05-06 11:15:45,617 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[42] this is a debug message
+2018-05-06 11:15:45,617 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[43] this is a info message
+2018-05-06 11:15:45,617 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习2.py[44] this is a error message
+2018-05-06 11:23:46,389 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[42] this is a debug message
+2018-05-06 11:23:46,389 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[43] this is a info message
+2018-05-06 11:23:46,389 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[44] this is a error message
+2018-05-06 11:26:54,555 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[26] this is a debug message
+2018-05-06 11:26:54,555 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[27] this is a info message
+2018-05-06 11:26:54,555 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a error message
+2018-05-06 11:27:12,450 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[26] this is a debug message
+2018-05-06 11:27:12,450 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[27] this is a info message
+2018-05-06 11:27:12,450 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a error message
+2018-05-06 11:28:41,214 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[26] this is a debug message printed by logger1
+2018-05-06 11:28:41,215 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[27] this is a info message printed by logger1
+2018-05-06 11:28:41,215 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a error message printed by logger1
+2018-05-06 11:30:03,550 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[27] this is a debug message printed by logger1
+2018-05-06 11:30:03,550 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[27] this is a debug message printed by logger1
+2018-05-06 11:30:03,550 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a info message printed by logger1
+2018-05-06 11:30:03,550 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a info message printed by logger1
+2018-05-06 11:30:03,551 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[29] this is a error message printed by logger1
+2018-05-06 11:30:03,551 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[29] this is a error message printed by logger1
+2018-05-06 11:30:03,551 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[31] this is a debug message printed by logger2
+2018-05-06 11:30:03,551 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[31] this is a debug message printed by logger2
+2018-05-06 11:30:03,551 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[32] this is a info message printed by logger2
+2018-05-06 11:30:03,551 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[32] this is a info message printed by logger2
+2018-05-06 11:30:03,551 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[33] this is a error message printed by logger2
+2018-05-06 11:30:03,551 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[33] this is a error message printed by logger2
+2018-05-06 11:31:08,417 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[27] this is a debug message printed by logger1
+2018-05-06 11:31:08,417 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[27] this is a debug message printed by logger1
+2018-05-06 11:31:08,417 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a info message printed by logger1
+2018-05-06 11:31:08,417 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a info message printed by logger1
+2018-05-06 11:31:08,417 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[29] this is a error message printed by logger1
+2018-05-06 11:31:08,417 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[29] this is a error message printed by logger1
+2018-05-06 11:31:32,896 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a debug message printed by logger1
+2018-05-06 11:31:32,896 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a debug message printed by logger1
+2018-05-06 11:31:32,896 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[29] this is a info message printed by logger1
+2018-05-06 11:31:32,896 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[29] this is a info message printed by logger1
+2018-05-06 11:31:32,896 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[30] this is a error message printed by logger1
+2018-05-06 11:31:32,896 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[30] this is a error message printed by logger1
+2018-05-06 11:32:11,093 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[28] this is a debug message printed by logger1
+2018-05-06 11:32:11,093 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[29] this is a info message printed by logger1
+2018-05-06 11:32:11,093 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[30] this is a error message printed by logger1
+2018-05-06 11:32:11,093 [DEBUG] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[32] this is a debug message printed by logger2
+2018-05-06 11:32:11,093 [INFO] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[33] this is a info message printed by logger2
+2018-05-06 11:32:11,093 [ERROR] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[34] this is a error message printed by logger2
+2018-05-06 11:39:39,941 [DEBUG] [mylogger1] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[14] this is a debug message printed by logger1
+2018-05-06 11:39:39,941 [INFO] [mylogger1] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[15] this is a info message printed by logger1
+2018-05-06 11:39:39,941 [ERROR] [mylogger1] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[16] this is a error message printed by logger1
+2018-05-06 11:39:39,941 [DEBUG] [mylogger2] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[18] this is a debug message printed by logger2
+2018-05-06 11:39:39,941 [INFO] [mylogger2] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[19] this is a info message printed by logger2
+2018-05-06 11:39:39,941 [ERROR] [mylogger2] D:/Python/pycharmWorkspace/python全栈3期/demos/logging模块的学习3.py[20] this is a error message printed by logger2

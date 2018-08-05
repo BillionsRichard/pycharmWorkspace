@@ -15,6 +15,10 @@
     <orderEntry type="module" module-name="dj_demo01" />
     <orderEntry type="module" module-name="djDemo_day35" />
     <orderEntry type="module" module-name="djDemo_day38" />
+    <orderEntry type="module" module-name="AnacondaProjects" />
+    <orderEntry type="module" module-name="day39_axf" />
+    <orderEntry type="module" module-name="python全栈3期" />
+    <orderEntry type="module" module-name="expansion" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

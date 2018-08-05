@@ -1,0 +1,6 @@
+[2018-05-06 10:52:50,734] logging模块的学习.py[34] this is a warning message to log file
+[2018-05-06 10:52:50,735] logging模块的学习.py[35] this is an error message to log file
+[2018-05-06 10:52:50,735] logging模块的学习.py[36] this is a critical message to log file
+[2018-05-06 10:54:17,644] logging模块的学习.py[34] this is a warning message to log file
+[2018-05-06 10:54:17,644] logging模块的学习.py[35] this is an error message to log file
+[2018-05-06 10:54:17,644] logging模块的学习.py[36] this is a critical message to log file

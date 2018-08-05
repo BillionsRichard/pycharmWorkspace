@@ -6,6 +6,17 @@
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/../Demo/线程/1.启动一个线程.py" line="16" />
     <bookmark url="file://$PROJECT_DIR$/../Demo/线程/1.启动一个线程.py" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/基础知识部分/时间模块.py" line="33" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/基础知识部分/时间模块.py" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/基础知识部分/日期时间模块学习.py" line="4" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/基础知识部分/json_demo01.py" line="7" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/基础知识部分/xml学习.py" line="13" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/基础知识部分/logging模块的学习3.py" line="16" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/面向对象/类的静态属性.py" line="11" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/面向对象/testPeople.py" line="9" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/属性描述符/利用描述符自定制property.py" line="16" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/元类/元类引子.py" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/../python全栈3期/数据库/pymysql_demo01.py" line="32" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f57cb78-442b-4775-8a66-237b833a7a6f" name="Default" comment="" />
@@ -16,112 +27,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/djProject$wsgiDemo01.coverage" NAME="wsgiDemo01 Coverage Results" MODIFIED="1529626972997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python全栈3期/web框架基础" />
+    <SUITE FILE_PATH="coverage/djProject$server.coverage" NAME="server Coverage Results" MODIFIED="1529367852415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python全栈3期/day37_html基础" />
+    <SUITE FILE_PATH="coverage/djProject$pymysql_demo01.coverage" NAME="pymysql_demo01 Coverage Results" MODIFIED="1529369139404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python全栈3期/数据库" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/models.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite1/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="模型数据" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day35/djDemo_day35/模型数据">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day38/djDemo_day38/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day38/djDemo_day38/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="154">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
-                <element signature="e#646#686#0" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/views.py">
+      <file leaf-file-name="shortcuts.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite1/venv/Lib/site-packages/django/shortcuts.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sites.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/contrib/admin/sites.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../mysite1/mysite1/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="273" column="36" lean-forward="false" selection-start-line="273" selection-start-column="32" selection-end-line="273" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="684">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mysite1/mysite1/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day35/djDemo_day35/urls.py">
+        <entry file="file://$PROJECT_DIR$/../mysite1/mysite1/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
               <folding>
-                <element signature="e#646#686#0" expanded="true" />
+                <element signature="e#631#663#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../djDemo_day38/djDemo_day38/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -131,8 +104,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -153,11 +127,17 @@
       <find>HttpRespon</find>
       <find>day</find>
       <find>day35</find>
+      <find>内存</find>
+      <find>setItem\.*boardsList</find>
+      <find>setItem.*&quot;boardsList</find>
+      <find>checkMemory</find>
+      <find>memory</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Python\pycharmWorkspace\djproDemo01\dj_demo01</dir>
       <dir>C:\Program Files (x86)\Python36-32\Lib\site-packages\django</dir>
       <dir>D:\Python\pycharmWorkspace\djDemo_day38</dir>
+      <dir>C:\Huawei OceanStor Toolkit\tools\expansion\packages\expansion\products\V3V300R006C00</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -166,64 +146,78 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Demo/ihuyi-sms-3.1/互亿无线-短信验证码接口文档/DEMO/python/sms.py" />
-        <option value="$PROJECT_DIR$/../Demo/ihuyi-sms-3.1/互亿无线-短信验证码接口文档/DEMO/python/发短信.py" />
-        <option value="$PROJECT_DIR$/../Demo/编解码/字符串编解码.py" />
-        <option value="$PROJECT_DIR$/../Demo/多进程/多进程创建.py" />
-        <option value="$PROJECT_DIR$/../Demo/多进程/进程等待.py" />
-        <option value="$PROJECT_DIR$/../Demo/多进程/5,全局变量在多个进程中不能共享.py" />
-        <option value="$PROJECT_DIR$/../Demo/多进程/6.启动大量子进程.py" />
-        <option value="$PROJECT_DIR$/../Demo/多进程/7.拷贝文件.py" />
-        <option value="$PROJECT_DIR$/../Demo/多进程/8.进程的继承实现.py" />
-        <option value="$PROJECT_DIR$/../Demo/多进程/9.进程间通信queue.py" />
-        <option value="$PROJECT_DIR$/../Demo/线程/1.启动一个线程.py" />
-        <option value="$PROJECT_DIR$/../Demo/线程/3.线程间共享数据.py" />
-        <option value="$PROJECT_DIR$/../Demo/线程/4、线程锁解决数据共享问题.py" />
-        <option value="$PROJECT_DIR$/../Demo/线程/5、ThreadLocal.py" />
-        <option value="$PROJECT_DIR$/../Demo/客户端与服务端通信/clien.py" />
-        <option value="$PROJECT_DIR$/../Demo/客户端与服务端通信/server.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/dj_demo01/__init__.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/grades.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/students.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/upfile.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/studentpage.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/static/myApp/js/sunk.js" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/ajaxstudents.html" />
-        <option value="$PROJECT_DIR$/../Demo/商品退货算法.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/dj_demo01/settings.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/admin.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/edit.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/models.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/students1.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/main.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/detail.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/base.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/index.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/showinfo.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/urls.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/postfile.html" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/views.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/djDemo_day35/__init__.py" />
-        <option value="$PROJECT_DIR$/../djproDemo01/dj_demo01/dj_demo01/urls.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/djDemo_day35/urls.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/djDemo_day35/settings.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/myApp/models.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/myApp/urls.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/myApp/views.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/djDemo_day35/模型数据" />
-        <option value="$PROJECT_DIR$/../djDemo_day35/myApp/__init__.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day38/djDemo_day38/__init__.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day38/djDemo_day38/settings.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day38/djDemo_day38/urls.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day38/myApp/urls.py" />
-        <option value="$PROJECT_DIR$/../djDemo_day38/myApp/views.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/元类/call方法.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/线程demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/线程demo02.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/锁.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/线程demo03.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/死锁demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/event的使用Demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/信号量demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/多线程利器-队列demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/多线程利器-队列demo02.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/多线程利器-队列-lifo.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/生产者消费者模型.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/线程/生产者消费者模型--通知模式.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/多进程/多进程demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/多进程/多进程启动方式2.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/多进程/父进程与子进程.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/多进程/进程间通信demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/多进程/进程间通信-管道.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/协程/协程demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/click.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/selectServer.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/事件驱动模型.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/selectorsDemo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/client.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/作业介绍.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/ftpClientWithSelector.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/IO模型/ftpServerWithSelector.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/day37_html基础/原理介绍.txt" />
+        <option value="$PROJECT_DIR$/../python全栈3期/day37_html基础/server.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/day37_html基础/test.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/day37_html基础/form_tag.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/day37_html基础/table_tag.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/test1.css" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/css_引入方式.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/css_选择器.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/伪类.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/border.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/文本属性.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/列表标签.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/float.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/浮动.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css/定位属性.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/css作业抽屉/抽屉示例.html" />
+        <option value="$PROJECT_DIR$/../python全栈3期/数据库/数据库理论基础.txt" />
+        <option value="$PROJECT_DIR$/../python全栈3期/数据库/mysql_lesson" />
+        <option value="$PROJECT_DIR$/../python全栈3期/数据库/pymysql_demo01.py" />
+        <option value="$PROJECT_DIR$/../python全栈3期/数据库/py_mysql_lesson" />
+        <option value="$PROJECT_DIR$/../python全栈3期/web框架基础/wsgiDemo01.py" />
+        <option value="$PROJECT_DIR$/../mysite1/mysite1/urls.py" />
+        <option value="$PROJECT_DIR$/../mysite1/templates/show_time.html" />
+        <option value="$PROJECT_DIR$/../mysite1/blog/views.py" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/../Demo/ihuyi-sms-3.1/互亿无线-短信验证码接口文档/DEMO/node.js/package.json" />
+      <path value="F:/OpenStack/openstack/horizon/package.json" />
+      <path value="F:/OpenStack/openstack/noVNC/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="width" value="1288" />
-    <option name="height" value="694" />
+    <option name="x" value="773" />
+    <option name="y" value="33" />
+    <option name="width" value="1162" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -249,121 +243,19 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
+    <navigator proportions="" version="1">
       <autoscrollToSource ProjectPane="true" />
       <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djDemo_day38" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djDemo_day38" type="462c0819:PsiDirectoryNode" />
-              <item name="djDemo_day38" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djDemo_day38" type="462c0819:PsiDirectoryNode" />
-              <item name="myApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="Python36-32" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="contrib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="contrib" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="python全栈3期" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,12 +264,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djDemo_day38" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.39237058" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Python/pycharmWorkspace/djproDemo01/dj_demo01/dj_demo01/urls.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="JSON-Groovy.json.groovy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysite2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.39237058" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -390,14 +287,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\pycharmWorkspace\python全栈3期\面向对象\bb" />
       <recent name="D:\Python\pycharmWorkspace\djproDemo01\dj_demo01\static\myApp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\pycharmWorkspace\python全栈3期\css作业抽屉\images" />
+      <recent name="D:\Python\pycharmWorkspace\python全栈3期\线程" />
+      <recent name="D:\Python\pycharmWorkspace\python全栈3期\demos" />
+      <recent name="D:\Python\pycharmWorkspace\day39_axf\axf" />
       <recent name="D:\Python\pycharmWorkspace\djDemo_day38\djDemo_day38" />
-      <recent name="D:\Python\pycharmWorkspace\djDemo_day38\myApp" />
-      <recent name="D:\Python\pycharmWorkspace" />
-      <recent name="D:\Python\pycharmWorkspace\djDemo_day35\templates\myApp" />
-      <recent name="D:\Python\pycharmWorkspace\kaikai" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -412,120 +310,121 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4、线程锁解决数据共享问题">
-    <configuration name="4、线程锁解决数据共享问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python全栈3期" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Demo/线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python全栈3期/IO模型" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Demo/线程/4、线程锁解决数据共享问题.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python全栈3期/IO模型/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5、ThreadLocal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pymysql_demo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python全栈3期" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Demo/线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python全栈3期/数据库" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Demo/线程/5、ThreadLocal.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python全栈3期/数据库/pymysql_demo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="clien" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selectorsDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python全栈3期" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Demo/客户端与服务端通信" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python全栈3期/IO模型" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Demo/客户端与服务端通信/clien.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="clien1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Demo/客户端与服务端通信" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Demo/客户端与服务端通信/clien1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python全栈3期/IO模型/selectorsDemo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python全栈3期" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Demo/客户端与服务端通信" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python全栈3期/day37_html基础" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Demo/客户端与服务端通信/server.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python全栈3期/day37_html基础/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4、线程锁解决数据共享问题" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5、ThreadLocal" />
-      <item index="2" class="java.lang.String" itemvalue="Python.server" />
-      <item index="3" class="java.lang.String" itemvalue="Python.clien" />
-      <item index="4" class="java.lang.String" itemvalue="Python.clien1" />
+    <configuration name="wsgiDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python全栈3期" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python全栈3期/web框架基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python全栈3期/web框架基础/wsgiDemo01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.selectorsDemo01" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.pymysql_demo01" />
+      <item itemvalue="Python.wsgiDemo01" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4、线程锁解决数据共享问题" />
-        <item index="1" class="java.lang.String" itemvalue="Python.clien1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.clien" />
-        <item index="3" class="java.lang.String" itemvalue="Python.server" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5、ThreadLocal" />
+      <list>
+        <item itemvalue="Python.wsgiDemo01" />
+        <item itemvalue="Python.pymysql_demo01" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.selectorsDemo01" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
-    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
     <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR,SHOW_INHERITED" />
   </component>
   <component name="SvnConfiguration">
@@ -542,51 +441,60 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.3853403" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24352941" sideWeight="0.178125" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15111111" sideWeight="0.821875" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25458467" sideWeight="0.49479166" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Unicode Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.009375" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22198953" sideWeight="0.49791667" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2317647" sideWeight="0.6119792" order="11" side_tool="false" content_ui="tabs" x="-76" y="476" width="1920" height="393" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08512931" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.14910227" side_tool="true" weight="1.0" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.821875" weight="0.15111111" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.64270836" weight="0.41125542" />
+      <window_info anchor="bottom" x="0" y="341" width="1920" height="368" id="Run" order="2" sideWeight="0.852459" weight="0.1981982" />
+      <window_info id="Unicode Browser" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49791667" weight="0.22198953" />
+      <window_info anchor="bottom" id="Database Console" order="7" sideWeight="0.8508977" weight="0.4689165" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.3853403" visible="true" weight="0.164155" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Structure" order="4" side_tool="true" visible="true" weight="0.11840689" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" x="-76" y="476" width="1920" height="393" id="Debug" order="11" sideWeight="0.7552083" weight="0.40367964" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.08512931" />
+      <window_info anchor="right" id="Data View" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4890625" weight="0.19805194" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24420677" sideWeight="0.178125" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25458467" sideWeight="0.49479166" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15111111" sideWeight="0.821875" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Unicode Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22198953" sideWeight="0.49791667" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20625" sideWeight="0.3853403" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08512931" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.009375" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2317647" sideWeight="0.6119792" order="11" side_tool="false" content_ui="tabs" x="-76" y="476" width="1920" height="393" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49479166" weight="0.25458467" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.3853403" visible="true" weight="0.20625" />
+      <window_info anchor="right" id="Structure" order="4" visible="true" weight="0.009375" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info id="Unicode Browser" order="2" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.821875" weight="0.15111111" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.08512931" />
+      <window_info anchor="right" id="Data View" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" x="-76" y="476" width="1920" height="393" id="Debug" order="11" sideWeight="0.6119792" visible="true" weight="0.2317647" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49791667" weight="0.22198953" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.178125" side_tool="true" weight="0.24420677" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32984293" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
@@ -639,7 +547,7 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://C:/Program Files (x86)/Python36-32/Lib/site-packages/oslo_service/wsgi.py</url>
+          <url />
           <line>19</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -698,415 +606,396 @@
           <line>43</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/基础知识部分/生成器_send.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/基础知识部分/生成器_send.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/基础知识部分/生成器_send.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/基础知识部分/生成器_send.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/基础知识部分/logging模块的学习2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/configParser模块的学习.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/面向对象/类的doc属性无法继承.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/元类/元类1.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/元类/元类1.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python全栈3期/元类/元类1.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="37" />
+      <option name="time" value="55" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="ver_list_tag.XML_FORMATTERS" />
+        <watch expression="first" language="Python" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>first</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Foo</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/shortcuts.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1402888915/_socket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-921">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="200">
+          <caret line="609" column="8" selection-start-line="609" selection-start-column="8" selection-end-line="609" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/grades.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/day37_html基础/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="264">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/static/myApp/js/sunk.js">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/test1.css" />
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/css_引入方式.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="244">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/studentpage.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/day37_html基础/table_tag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="176">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/edit.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/day37_html基础/form_tag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="310">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/dj_demo01/wsgi.py">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/day37_html基础/原理介绍.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="88">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/main.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/css_选择器.html" />
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/伪类.html" />
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/border.html" />
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/文本属性.html" />
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/列表标签.html" />
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/day37_html基础/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="662">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/detail.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/浮动.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="660">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/base.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css作业抽屉/抽屉示例.html" />
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/float.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="330">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/students1.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/css/定位属性.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="384">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/index.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="242" column="16" selection-start-line="242" selection-start-column="16" selection-end-line="242" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/数据库/数据库理论基础.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/数据库/mysql_lesson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="280" column="29" lean-forward="true" selection-start-line="280" selection-start-column="29" selection-end-line="280" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/数据库/pymysql_demo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#204#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite2/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/showinfo.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/web框架基础/wsgiDemo01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/postfile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="103" column="47" lean-forward="true" selection-start-line="103" selection-start-column="47" selection-end-line="103" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/migrations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/db/models/fields/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31892">
-          <caret line="1178" column="53" lean-forward="false" selection-start-line="1178" selection-start-column="53" selection-end-line="1178" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/djDemo_day35/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/myApp/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/dj_demo01/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/ajaxstudents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/dj_demo01/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="288">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
-            <element signature="e#0#39#0" expanded="false" />
+            <element signature="e#199#229#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djproDemo01/dj_demo01/templates/myApp/students.html">
+    <entry file="file://$PROJECT_DIR$/../python全栈3期/数据库/py_mysql_lesson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="70" lean-forward="false" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-          <folding />
+        <state relative-caret-position="418">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/templates/myApp/students.html">
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="213">
+          <caret line="755" column="18" selection-start-line="755" selection-start-column="10" selection-end-line="755" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1402888915/builtins.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/mysite2/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="1174" column="8" lean-forward="false" selection-start-line="1174" selection-start-column="8" selection-end-line="1174" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="286">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
-            <element signature="e#0#32#0" expanded="false" />
+            <element signature="e#224#233#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/.idea/misc.xml">
+    <entry file="file://$PROJECT_DIR$/../mysite2/blog/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite2/blog/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/views.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#35#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/db/models/manager.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/blog/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="174" column="6" lean-forward="false" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/__init__.py">
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/core/management/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-1304">
+          <caret line="283" column="8" selection-start-line="283" selection-start-column="8" selection-end-line="283" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/djDemo_day35/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="440">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/djDemo_day38/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/mysite2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/djDemo_day35/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/myApp/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/djDemo_day35/模型数据">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/djDemo_day38/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day35/djDemo_day35/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#646#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/djDemo_day38/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#646#686#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/django/contrib/admin/sites.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="273" column="36" lean-forward="false" selection-start-line="273" selection-start-column="32" selection-end-line="273" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="279" column="24" selection-start-line="279" selection-start-column="20" selection-end-line="279" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/urls.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/mysite2/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="286">
+          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#641#673#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/models.py">
+    <entry file="file://$PROJECT_DIR$/../mysite2/blog/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../djDemo_day38/myApp/views.py">
+    <entry file="file://$PROJECT_DIR$/../mysite1/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/blog/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/blog/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/templates/show_time.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/mysite1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/mysite1/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/venv/Lib/site-packages/django/shortcuts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mysite1/mysite1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
         </state>
       </provider>
     </entry>

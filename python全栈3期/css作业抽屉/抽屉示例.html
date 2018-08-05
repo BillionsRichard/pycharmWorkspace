@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0
+    }
+
+    a {
+        text-decoration: none;
+
+    }
+
+    body {
+        font-family: "Times New Roman";
+        font-size: 12px;
+    }
+
+    /*------------------------------head部分开始-----------------*/
+    .head-box {
+        background-color: #2459a2;
+        height: 44px;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+
+    }
+
+    .head-content{
+        width: 1016px;
+        /*height: 44px;*/
+        /*background-color: blueviolet;*/
+        line-height: 44px;
+        margin: 0 auto; /*居中*/
+        border: 1px solid;
+        position: relative;
+    }
+
+    .head-content .logo{
+        display: inline-block;
+        background: url("images/logo.png");
+        width: 121px ;
+        height: 23px;
+        float: left;
+        margin: 11px;
+    }
+
+    .head-content .action-menu{
+        float: left;
+        margin-left: 10px;
+    }
+
+    .head-content .action-menu a.tb{
+        display: inline-block;
+        /*background-color: white;*/
+        margin-left: -3px;
+        /*border: 1px solid yellow;*/
+        padding: 0 16px 0 13px;
+        color: gray;
+
+    }
+
+    .head-content .action-menu a.tb:hover{
+        color:white;
+        background-color: #396bb3;
+
+    }
+    .head-content .action-menu a.active, .head-content .action-menu a.active:hover {
+        color: white;
+        background-color: #204982;
+    }
+
+    .key-search{
+        float: right;
+        margin-top: 5px;
+    }
+
+    .key-search .search-text{
+        float: left;
+        height: 25px;
+        width: 91px;
+        padding: 2px 2px 2px 5px;
+
+    }
+
+    .key-search a{
+        display: inline-block;
+        width: 31px;
+        height: 32px;
+        background-color: #f4f4f4;
+    }
+
+    .key-search a span.ico{
+        display: inline-block;
+        width: 11px;
+        height: 13px;
+        background: url("images/logo.png") no-repeat 0 -195px;
+        margin-left: 10px;
+        margin-top: 10px;
+        border: 1px solid red;
+    }
+
+    .action-nav{
+        position: absolute;
+        right: 150px;
+
+    }
+
+    .main-content-box{
+        background-color: lightgray;
+        padding-top: 44px;
+    }
+
+    .main-content{
+        background-color: white;
+        margin: auto;
+        width: 1016px;
+        height: auto!important;
+        min-height: 700px;
+        overflow: hidden;
+    }
+
+
+
+</style>
+<body>
+<div class="head-box">
+    <div class="head-content">
+        <a href="#" class="logo"></a>
+
+        <div class="action-menu">
+            <a href="#" class="tb active">全部</a>
+            <a href="#" class="tb">42区</a>
+            <a href="#" class="tb">段子</a>
+            <a href="#" class="tb">图片</a>
+            <a href="#" class="tb">挨踢1024</a>
+            <a href="#" class="tb">你问我答</a>
+        </div>
+
+        <div class="key-search">
+            <form action="/" method="post">
+                <input type="text" class="search-text">
+
+                <a href="#" class="i">
+                    <span class="ico"></span>
+                </a>
+            </form>
+        </div>
+
+        <div class="action-nav">
+
+            <a href="#" class="register-btn">注册</a>
+            <a href="#" class="login-btn">登录</a>
+        </div>
+    </div>
+</div>
+
+<div class="main-content-box">
+    <div class="main-content">
+        <div class="content-L"></div>
+        <div class="content-R"></div>
+        <div class="footer-box">
+            <div class="foot-nav"></div>
+            <div class="foot-nav2"></div>
+        </div>
+</div>
+</div>
+</body>
+</html>

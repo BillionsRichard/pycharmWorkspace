@@ -1,0 +1,66 @@
+数据库：存储数据的仓库。
+
+redis memcache 内存数据库
+
+DDL
+    create dabase if not exists s3;
+    show warning;
+
+    show create database s3;
+
+删除表： DROP TABLE <tbl_name>
+
+修改表名： RENAME TABLE <old_tbl_name> TO <new_table_name>
+        rename table employee emp;
+
+修改表列：ALTER TABLE <table_name>
+    1、添加列：ADD <column_name>
+            ALTER TABLE （表名table_name） ADD column_name type [约束条件]
+        alter table employee add is_married tinyint(1);
+        alter table employee add entry_date date NOT NULL;
+
+        一次添加多个子段：
+        alter table employee ADD A int,
+        -> ADD B varchar(20);
+
+    2、删除列：DROP column
+        alter table employee drop A, drop B;
+
+    3、修改列属性：MODIFY column
+        ALTER TABLE employee MODIFY age smallint not null default 18   id;
+
+        ***
+        插入中文错误：ERROR 1366 (HY000): Incorrect string value:
+        ALTER TABLE emp MODIFY name varchar(25) CHARACTER SET utf8;
+        ***
+
+    3、修改列名 CHANGE column
+        ALTER TABLE employee CHANGE department depart varchar(20) after salary;
+
+
+表记录的操作：
+    1、插入记录（行）:
+        INSERT INTO <tbl_name> (<col_1, col_2,...>)
+                        VALUES (<val1, val2, ...>)
+        insert into emp (id, age, name, gender, salary, depart, is_married)
+                   values(1, 38, "alex", 0, 1700, "技术部", 1);
+
+        insert into emp (name, salary, depart)
+                   values(1, 38, "alex", 0, 1700, "技术部", 1);
+
+
+修改：
+    UPDATE <tbl_name> SET <col_name=col_value， col_name1=col_value1，...> WHERE <col_name=col_val>;
+
+删除：
+    DELETE FROM <tbl_name> WHERE col_name=col_val;
+
+    DELETE FROM <tbl_name>; 一条一条删除表记录。
+    TRUNCATE TABLE <tbl_name>; 直接销毁表，然后重建空表。----速度快。
+
+
+    select name, js+10 [AS] jsPlus10, Openstack+10 as op from examresult;
+
+
+
+SELECT * FROM emp WHERE emp_name REGEXP '^yu';

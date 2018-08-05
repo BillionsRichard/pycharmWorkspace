@@ -1,0 +1,10 @@
+HTML CSS JS(网络三剑客）
+
+上网：就是下载网页。
+
+浏览器：就是解释器。
+
+
+CS模式： client--->server
+
+bs模式： broswer--->server

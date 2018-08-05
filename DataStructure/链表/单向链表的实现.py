@@ -100,7 +100,7 @@ class Link(object):
 
         print('link list:', end='\t')
         while cursor_ptr:
-            # print('[%s]' % cursor_ptr.data, end='-->')
+            # print('[%ls]' % cursor_ptr.data, end='-->')
             data_list.append(cursor_ptr.data)
             cursor_ptr = cursor_ptr.next
 

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>注册页面</h1>
+
+<form action="http://127.0.0.1:8080/inex" method="post">
+    <p>用户名<input type="text" name="username"></p>
+    <p>密码<input type="password" name="password"></p>
+    <p>
+        爱好 音乐<input type="checkbox" name="hobby" value="music">
+        电影<input type="checkbox" name="hobboy" value="movie">
+    </p>
+    <p>
+        性别: 男<input type="radio" name="gender" value="man">
+        女<input type="radio" name="gender" value="woman">
+    </p>
+
+    省<select name="province" size="4">
+    <optgroup label="河北省">河北省
+        <option value="bj">邯郸</option>
+        <option value="hb">廊坊</option>
+        <option value="sd">保定</option>
+        <option value="hb" selected>唐山</option>
+    </optgroup>
+
+    <optgroup label="湖北省">湖北省
+        <option value="bj" >十堰市</option>
+        <option value="hb" >襄陽市</option>
+        <option value="sd" >武漢市</option>
+        <option value="hb" selected>黃岡市</option>
+    </optgroup>
+
+    <p>
+        <input type="submit" value="提交注册">
+    </p>
+    <p>
+        <input type="button" value="提交注册">
+    </p>
+    <p>
+        <input type="reset" value="重置">
+    </p>
+    <p>
+        <input type="file" value="头像" name="figure">
+    </p>
+</form>
+</body>
+</html>

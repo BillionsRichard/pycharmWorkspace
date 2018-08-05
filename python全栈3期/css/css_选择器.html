@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        /** {*/
+            /*color: red;*/
+        /*}*/
+
+        div {
+            color: red;
+        }
+
+        #littleP{
+            background-color: aqua;
+        }
+
+        .cuihua{
+            color: darkgray;
+        }
+
+        div.cuihua{
+            background-color: bisque;
+        }
+
+        #littleP,div.cuihua{
+            color: red;
+        }
+
+        .div1 div {
+            color: red;
+        }
+
+        p[alex="alex"]{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+hello body
+<div>hello div</div>
+
+<p id="littleP">pppp</p>
+<p>pppp1</p>
+<p class="cuihua">pppp2</p>
+<p class="cuihua" >pppp3</p>
+<div class="cuihua" >div</div>
+
+<div class="div1">
+    <div class="son">
+        <a href="a">a</a>
+        <p>p in nest</p>
+        <div>div3</div>
+    </div>
+</div>
+
+<div alex="alex">div1</div>
+<div >div2</div>
+<div >div2</div>
+<div >div2</div>
+<div alex="alex">div1 with alex</div>
+<p alex="alex">div1 in p</p>
+
+</body>
+</html>

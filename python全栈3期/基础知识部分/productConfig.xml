@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<productname>CSE</productname>
+		<supporttypes>V100R002C00LHWY01,V100R003C00,V100R003C10</supporttypes>
+	</product>
+	<product>
+		<productname>Dorado2100G2</productname>
+		<supporttypes>V100R001C00</supporttypes>
+	</product>
+	<product>
+		<productname>Dorado5100</productname>
+		<supporttypes>V100R001C00</supporttypes>
+	</product>
+	<product>
+		<productname>OceanStor9000</productname>
+		<supporttypes>V100R001C20,V100R001C30,V300R005C00</supporttypes>
+	</product>
+	<product>
+		<productname>UDS</productname>
+		<supporttypes>V100R002C01LHWS01</supporttypes>
+	</product>
+	<product>
+		<productname>S2100</productname>
+		<supporttypes>V100R001</supporttypes>
+	</product>
+	<product>
+		<productname>S2300</productname>
+		<supporttypes>V100R001</supporttypes>
+	</product>
+	<product>
+		<productname>S2300E</productname>
+		<supporttypes>V100R001</supporttypes>
+	</product>
+	<product>
+		<productname>S5100</productname>
+		<supporttypes>V100R001,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S2600</productname>
+		<supporttypes>V100R001,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S5300</productname>
+		<supporttypes>V100R001,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S5500</productname>
+		<supporttypes>V100R001,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S5600</productname>
+		<supporttypes>V100R001,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S6800E</productname>
+		<supporttypes>V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S2200T</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S2200T-S</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S2600T</productname>
+		<supporttypes>V100R001,V100R002,V100R005,V200R002C20,V200R002C30,V200R002C00</supporttypes>
+	</product>
+	<product>
+		<productname>S2900</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S3900-M200</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S3900-M300</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S5500T</productname>
+		<supporttypes>V100R001,V100R002,V100R005,V200R002C20,V200R002C30,V200R002C00</supporttypes>
+	</product>
+	<product>
+		<productname>S5600T</productname>
+		<supporttypes>V100R001,V100R002,V100R005,V200R002C20,V200R002C30,V200R002C00</supporttypes>
+	</product>
+	<product>
+		<productname>S5800T</productname>
+		<supporttypes>V100R001,V100R002,V100R005,V200R002C20,V200R002C30,V200R002C00</supporttypes>
+	</product>
+	<product>
+		<productname>S5900-M100</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S5900-M200</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S6800T</productname>
+		<supporttypes>V100R001,V100R002,V100R005,V200R002C20,V200R002C30,V200R002C00</supporttypes>
+	</product>
+	<product>
+		<productname>S6900-M100</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>S8000-I</productname>
+		<supporttypes>V100R001,V100R002,V100R005</supporttypes>
+	</product>
+	<product>
+		<productname>5300 V3</productname>
+		<supporttypes>V300R001C10,V300R001C20,V300R002C00,V300R002C10,V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>5500 V3</productname>
+		<supporttypes>V300R001C10,V300R001C20,V300R002C00,V300R002C10,V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>5600 V3</productname>
+		<supporttypes>V300R001C10,V300R001C20,V300R002C00,V300R002C10,V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>5800 V3</productname>
+		<supporttypes>V300R001C10,V300R001C20,V300R002C00,V300R002C10,V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>6800 V3</productname>
+		<supporttypes>V300R001C10,V300R001C20,V300R002C00,V300R002C10,V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>6900 V3</productname>
+		<supporttypes>V300R001C10,V300R001C20</supporttypes>
+	</product>
+	<product>
+		<productname>2200 V3</productname>
+		<supporttypes>V300R005C00,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>2600 V3</productname>
+		<supporttypes>V300R005C00,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>2600 V3 for Video</productname>
+		<supporttypes>V300R005C01,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>2800 V3</productname>
+		<supporttypes>V300R001C00,V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>Dorado5000 V3</productname>
+		<supporttypes>V300R001C00,V300R001C01,V300R001C20</supporttypes>
+	</product>
+	<product>
+		<productname>Dorado6000 V3</productname>
+		<supporttypes>V300R001C00,V300R001C01,V300R001C20</supporttypes>
+	</product>
+	<product>
+		<productname>2600F V3</productname>
+		<supporttypes>V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>5500F V3</productname>
+		<supporttypes>V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>5600F V3</productname>
+		<supporttypes>V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>5800F V3</productname>
+		<supporttypes>V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>6800F V3</productname>
+		<supporttypes>V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>18500 V3</productname>
+		<supporttypes>V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>18500F V3</productname>
+		<supporttypes>V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>18800 V3</productname>
+		<supporttypes>V300R003C00,V300R003C10,V300R003C20,V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+		<productname>18800F V3</productname>
+		<supporttypes>V300R006C00,V300R006C10</supporttypes>
+	</product>
+	<product>
+        <productname>2800 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>2800 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+    <product>
+        <productname>5300 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>5500 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>5600 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>5800 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>6800 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>18500 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>18800 V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>5300F V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>5500F V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>5600F V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>5800F V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>6800F V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>18500F V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	<product>
+        <productname>18800F V5</productname>
+        <supporttypes>V500R007C00</supporttypes>
+    </product>
+	
+</products>
