@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="course">
+        <RemoteCourse>
+          <option name="adaptive" value="false" />
+          <option name="additionalMaterialsUpdateDate" value="1533396078000" />
+          <option name="authors">
+            <list>
+              <StepicUser>
+                <option name="accessToken" value="" />
+                <option name="firstName" value="Oliver" />
+                <option name="guest" value="false" />
+                <option name="id" value="53515218" />
+                <option name="lastName" value="Probst" />
+                <option name="refreshToken" value="" />
+              </StepicUser>
+            </list>
+          </option>
+          <option name="compatible" value="true" />
+          <option name="courseMode" value="Study" />
+          <option name="courseType" value="PyCharm" />
+          <option name="customPresentableName" />
+          <option name="description" value="Unterrichtsmaterial für das Grundlagenfach Informatik (1. Jahr, 1. Semester) an der Kantonsschule Wettingen.&#10;&#10;Note: We’re sorry, but this course feels a little incomplete. If you are the owner of the course please &lt;a href=&quot;mailto:Tatiana.Vasilyeva@jetbrains.com&quot;&gt;get in touch with us&lt;/a&gt;, we would like to verify this with you; we think with improvement this can be listed as a featured course in the future." />
+          <option name="id" value="23108" />
+          <option name="index" value="-1" />
+          <option name="instructors">
+            <list>
+              <option value="53515218" />
+            </list>
+          </option>
+          <option name="language" value="Python" />
+          <option name="languageCode" value="en" />
+          <option name="loadSolutions" value="true" />
+          <option name="name" value="KSWE-Ginf-1-1" />
+          <option name="public" value="true" />
+          <option name="sectionIds">
+            <list />
+          </option>
+          <option name="stepikChangeStatus" value="Up to date" />
+          <option name="type" value="pycharm5 Python" />
+          <option name="updateDate" value="1533396078000" />
+          <option name="items">
+            <list>
+              <Section>
+                <option name="course" value="23108" />
+                <option name="customPresentableName" />
+                <option name="id" value="35357" />
+                <option name="index" value="1" />
+                <option name="name" value="auftrag-01" />
+                <option name="position" value="1" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="1533396011000" />
+                <option name="units">
+                  <list>
+                    <option value="96940" />
+                  </list>
+                </option>
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="122548" />
+                      <option name="index" value="1" />
+                      <option name="name" value="3 Hello World" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="1533396011000" />
+                      <option name="taskList">
+                        <list>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Aufbau PyCharm Edu&#10;&#10;In diesem Task geht es darum, die wichtigsten Funktionsweisen von PyCharm Edu kennenzulernen.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Lesen Sie diese Beschreibung um den Aufbau von PyCharm Edu zu verstehen.&#10;&#10;***&#10;&#10;### Übersicht&#10;&#10;Wenn Sie mit PyCharm Edu arbeiten, werden Sie zunächst mit folgenden **vier** Fenstern in Kontakt kommen:&#10;&#10;![](pycharm-edu-01.png)&#10;&#10;Links ist das **Project**-Fenster (gelb), in der Mitte der **Editor** (blau) und&#10;rechts die **Task**-Beschreibung (grün), d.h. das Fenster mit dem Text den Sie gerade lesen.&#10;Das **Run**-Fenster im unteren Bereich (orange) ist zu Beginn noch nicht geöffnet.&#10;&#10;### Project&#10;&#10;Für den Anfang arbeiten wir mit PyCharm Edu im *Course*-Modus.&#10;Sie erkennen dies daran, dass links oben `Course` angezeigt wird (siehe gelb hervorgehobene 1).&#10;&#10;![](pycharm-edu-02.png)&#10;&#10;Darunter befindet sich die `Course`-Struktur mit den Inhalten.&#10;Ein `Course` ist aufgeteilt in `Sections`, `Lessons` und `Tasks`. Jeder **Task** ist mit&#10;einem kleinen Quadrat versehen und besitzt eine **Python-Datei** mit&#10;der **Dateiendung &quot;.py&quot;** (und eventuell noch weitere Dateien, siehe 2).&#10;&#10;*Beispiel*: Dieser Kurs hat den  Titel &quot;KSWE Ginf 1&quot;. Es gibt momentan nur die Section &quot;auftrag-01&quot;.&#10;Diese wiederum besitzt die Lesson &quot;3 Hello World&quot; mit zwei Tasks. Ein Task ist beispielsweise&#10;&quot;3.1 Aufbau PyCharm Edu&quot; mit der Python-Datei &quot;helloWorld.py&quot;.&#10;&#10;Die **Titel** werden immer passend zum **ausgedruckten Auftragsblatt** gewählt&#10;(vergleichen Sie dies mit dem Ihnen vorliegenden Auftragsblatt):&#10;&#10;* Der `Section`-Titel lautet immer Auftrag gefolgt von der Nummerierung.&#10;* Der `Lesson`-Titel entspricht dem Titel einer Aufgabe.&#10;* Der `Task`-Titel ist immer innerhalb der entsprechende Aufgabe auf dem Auftragsblatt zu finden.&#10;&#10;Mit einem Doppelklick auf einen `Course` können Sie den Inhalt öffnen,&#10;mit einem Doppelklick auf einen `Task`, können Sie die Beschreibung zum&#10;Task öffnen (siehe grüner Kasten bzw. den Bereich den Sie hier gerade lesen).&#10;Ein Doppelklick auf die Python-Datei öffnet den Inhalt der Datei im **Editor**&#10;(siehe blauer Kasten und nächster Abschnitt).&#10;&#10;Das `Project`-Fenster können Sie mit einem Klick auf `Project` (siehe 3) ein- und ausblenden&#10;(falls Sie zum Beispiel mehr Platz für ein anderes Fenster möchten).&#10;&#10;### Editor&#10;&#10;Dieses Fenster (blauer Kasten) wird dazu verwendet, um eine Python-Datei zu editieren.&#10;Sie sehen oben einen Tab (siehe blau hervorgehobene 4) mit dem Dateinamen der Python-Datei&#10;die Sie gerade im Editor bearbeiten.&#10;&#10;![](pycharm-edu-03.png)&#10;&#10;*Beispiel*: Im Editor ist gerade die Datei &quot;helloWorld.py&quot; geöffnet. Die Datei besitzt&#10;exakt einen Befehl als Inhalt. Die Datei besitzt somit ein **Programm**,&#10;welches aus **einem Befehl** besteht.&#10;&#10;Der Editor besitzt links Zeilennummern (siehe 5), welche wir verwenden können um über ein Programm zu sprechen.&#10;&#10;*Beispiel*: Fügen Sie in Zeile 2 folgenden Befehl ein: ...&#10;&#10;Das Betrachten eines Programms im Editor führt noch **nicht** dazu, dass das&#10;Programm auch **ausgeführt** wird. Dazu ist ein separater Vorgang notwendig,&#10;welcher im nächsten Abschnitt erklärt wird.&#10;&#10;### Run-Fenster&#10;&#10;Sie können ein Programm direkt aus dem Editor ausführen in dem Sie im Editor links auf den grünen `Execute`-Button&#10;(siehe blau hervorgehobene 6) klicken:&#10;&#10;![](pycharm-edu-04.png)&#10;&#10;***&#10;2. **Arbeitsanweisung**: Führen Sie das Programm, welches sich in der Datei `helloWorld.py` befindet, nun aus.&#10;&#10;***&#10;&#10;Für die Ausführung des Programms öffnet sich das `Run`-Fenster im unteren Teil von PyCharm Edu (siehe oranger Kasten).&#10;&#10;![](pycharm-edu-05.png)&#10;&#10;Der Befehl&#10;&#10;``` python&#10;print(&quot;Hello World!&quot;)&#10;```&#10;&#10;bewirkt, dass `Hello World!` in der Konsole angezeigt wird. Die Konsole ist orange-transparent eingefärbt.&#10;Mehr zur Konsole erfahren Sie im nächsten Task. Das `Run`-Fenster können Sie mit einem Klick auf den&#10;Tab `Run` (siehe orange hervorgehobene 7) ein- und ausblenden.&#10;Im oberen Tab (siehe 8) sehen Sie den Python-Dateinamen. Der Inhalt dieser Datei wurde ausgeführt.&#10;Falls Sie dasselbe Programm erneut ausführen möchten, dann können Sie den `Rerun`-Button (siehe 9) verwenden.&#10;&#10;### Task Beschreibung&#10;&#10;Der grüne Kasten beinhaltet die Arbeitsanweisungen. Oben (siehe grün hervorgehobene 10) haben Sie ein **Navigationsmenü** mit den folgenden Buttons:&#10;&#10;* **Check Task** (siehe 11): Sie können eine Aufgabe als erledigt markieren.&#10;* **Previous Task** (siehe 12) und **Next Task** (siehe 13): Sie können zum vorherigen bzw. nächsten Task springen.&#10;* **Reset Task File** (siehe 14): Setzt einen Task wieder in den Anfangszustand zurück.&#10;&#10;![](pycharm-edu-06.png)&#10;&#10;***&#10;3. **Arbeitsanweisung**: Sie haben diesen Task erfolgreich abgeschlossen, sofern Sie den Text gelesen haben und das Programm erfolgreich ausgeführt wurde. Markieren Sie den Task als erledigt und&#10;fahren Sie nun mit dem Abschnitt &quot;3.3 Begriffe&quot; auf dem Auftragsblatt fort.&#10;&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="1" />
+                            <option name="name" value="3.1 Aufbau PyCharm Edu" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="412790" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1533396010000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="helloWorld.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="helloWorld.py" />
+                                      <option name="text" value="print(&quot;Hello World!&quot;)&#10;" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-01.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-01.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-02.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-02.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-03.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-03.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-04.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-04.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-05.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-05.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-06.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-06.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Das Hello-World-Programm&#10;&#10;Ein typisches Programm, welches man in einer Programmiersprache zuerst schreibt&#10;(es gibt dazu auch einen [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Hallo-Welt-Programm)),&#10;ist das *Hello World*-Programm. Sie haben bereits in einem vorherigen Task solch ein Programm kennengelernt.&#10;Das Ziel dieses Programms ist es, dass der Computer die Welt &quot;begrüsst&quot; und Sie prüfen können, ob alles korrekt installiert wurde.&#10;In diesem Task geht es nun darum, dass Sie nochmals solch ein Programm selbst schreiben und erweitern.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Lesen Sie diese Beschreibung und führen Sie die Anweisungen selbstständig durch.&#10;***&#10;&#10;### Programm abtippen und ausführen&#10;&#10;1. Falls noch nicht getan, öffnen Sie die Python-Datei `halloWelt.py` im Editor.&#10;1. Tippen Sie das folgende Programm (es besteht aus einem einzigen Befehl) mit Hilfe des Editors in die erste Zeile der Datei `task.py` ab:&#10;&#10;    ```python&#10;    print(&quot;Hallo, Python-Welt!&quot;)&#10;    ```&#10;&#10;    **Hinweis 1**: Sie können die Datei mit einem Doppelklick im Editor öffnen.&#10;    **Hinweis 2**: Versuchen Sie die Befehle **nicht** einfach zu kopieren und in den Editor einzufügen. Dieses Vorgehen hat zwei Schwächen:&#10;    * Manchmal wird ein Befehl nicht korrekt eingefügt, z.B. werden zusätzliche Leerzeichen hinzugefügt oder entfernt. Dies liegt an der&#10;    Formatierung des Befehls und führt dazu, das der Befehl nicht korrekt ausgeführt wird.&#10;    * Sie können sich unter Umständen durch das Kopieren und Einfügen von Befehlen weniger gut an die Befehle erinnern&#10;    (insbesondere desssen Schreibweise). Dies ist dann wichtig, wenn es darum geht eigene Programme zu schreiben und&#10;    die Befehle **selbstständig** und ohne Hilfe einzugeben.&#10;1. Führen Sie das Programm aus.&#10;1. Prüfen Sie ob in der Konsole `Hallo, Python-Welt!` angezeigt wird. Es sollte wie folgt aussehen:&#10;&#10;![](pycharm-edu-01.png)&#10;&#10;##### Zusammengefasst:&#10;&#10;&gt; Die **Konsole** ist ein Programm, welches für die **Ausgabe** und **Eingabe** von **Daten** verwendet werden kann.&#10;Der Befehl `print()` kann dazu verwendet werden, Daten in der Konsole auszugeben. Zwischen den beiden runden Klammern&#10;müssen die Daten für die Ausgabe notiert werden.&#10;&#10;In unserem Fall waren die Daten der Text `Hallo, Python-Welt!`. Möchte man Text ausgeben,&#10;dann muss man diesen mit **doppelten Anführungszeichen** (`&quot;`),&#10;d.h. ein doppeltes Anführungszeichen zu Beginn und ein doppeltes Anführungszeichen am Ende zwischen&#10;den runden Klammern des `print()`-Befehls notieren. Die doppelten Anführungszeichen werden dabei nicht in der Konsole ausgegeben.&#10;&#10;### Programm erweitern&#10;&#10;Sie werden nun die neuen Konzepte anwenden, um das bestehende Programm zu erweitern.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Verwenden Sie den `print()`-Befehl erneut um folgenden Text in der Konsole auszugeben:&#10;&#10;* Welches Jahr schreiben wir heute?&#10;&#10;**Hinweis:** Wir möchten uns angewöhnen, dass in jeder Zeile höchstens ein Befehl steht (damit alles übersichtlich bleibt).&#10;Notieren Sie deshalb mit Hilfe des Editors den **zweiten Befehl** in die **zweite** Zeile der Datei `halloWelt.py`.&#10;***&#10;&#10;Nun soll der `print()`-Befehl dazu verwendet werden eine Zahl auszugeben.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Verwenden Sie den `print()`-Befehl erneut um die Zahl 2018 auf der Konsole auszugeben. Notieren Sie den&#10;Befehl in die Datei `halloWelt.py` in die **dritte** Zeile.&#10;&#10;**Hinweis:** Für die Ausgabe einer Zahl benötigen Sie keine Anführungszeichen.&#10;***&#10;&#10;### Abschluss&#10;&#10;Führen Sie das Programm nun aus. Die Ausgabe in der Konsole muss wie folgt aussehen:&#10;&#10;![](pycharm-edu-02.png)&#10;&#10;Fahren Sie mit der nächsten Arbeitsanweisung erst dann fort, falls Ihre Ausgabe **übereinstimmt**. Falls nicht, **überprüfen** Sie die Befehle und **korrigieren** Sie diese.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Sie haben diesen Task erfolgreich abgeschlossen. Sie können diesen als erledigt markieren.&#10;Fahren Sie nun mit dem Abschnitt &quot;3.4 Zusammenfassung und Quiz&quot; auf dem Auftragsblatt fort.&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="2" />
+                            <option name="name" value="3.3 Das Hello-World-Programm" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="412791" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1533396011000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="halloWelt.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="halloWelt.py" />
+                                      <option name="text" value="" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-01.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-01.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="pycharm-edu-02.png">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="true" />
+                                      <option name="name" value="pycharm-edu-02.png" />
+                                      <option name="text" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                        </list>
+                      </option>
+                      <option name="unitId" value="96940" />
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+            </list>
+          </option>
+        </RemoteCourse>
+      </option>
+      <option name="VERSION" value="9" />
+      <option name="myUserTests">
+        <map />
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
