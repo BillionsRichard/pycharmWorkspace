@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5595fb10-975e-4825-b73f-e615a6fef27b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/堆栈/ArrayStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆栈/LinkStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆栈/UnLimitedArrayStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆栈/八皇后问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆栈/表达式转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/bubbleSorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/selectSorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/KSWE-Ginf-1-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/study_project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/helloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/pycharm-edu-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/pycharm-edu-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/pycharm-edu-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/pycharm-edu-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/pycharm-edu-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/pycharm-edu-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.1 Aufbau PyCharm Edu/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.3 Das Hello-World-Programm/halloWelt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.3 Das Hello-World-Programm/pycharm-edu-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.3 Das Hello-World-Programm/pycharm-edu-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/auftrag-01/3 Hello World/3.3 Das Hello-World-Programm/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/test_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/LinkQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/ListQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructure.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,9 +21,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DataStructure$ArrayStack.coverage" NAME="ArrayStack Coverage Results" MODIFIED="1534586595355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/堆栈" />
-    <SUITE FILE_PATH="coverage/DataStructure$.coverage" NAME="表达式转换 Coverage Results" MODIFIED="1534591392166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/堆栈" />
+    <SUITE FILE_PATH="coverage/DataStructure$.coverage" NAME="表达式转换 Coverage Results" MODIFIED="1535269225062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/堆栈" />
+    <SUITE FILE_PATH="coverage/DataStructure$link.coverage" NAME="link Coverage Results" MODIFIED="1535275221983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/link" />
     <SUITE FILE_PATH="coverage/DataStructure$_.coverage" NAME="堆栈的应用-迷宫游戏 Coverage Results" MODIFIED="1533471322376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/堆栈" />
+    <SUITE FILE_PATH="coverage/DataStructure$ListQueue.coverage" NAME="ListQueue Coverage Results" MODIFIED="1535271468550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/queue" />
     <SUITE FILE_PATH="coverage/DataStructure$selectSorting.coverage" NAME="selectSorting Coverage Results" MODIFIED="1533688571953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
+    <SUITE FILE_PATH="coverage/DataStructure$LinkQueue.coverage" NAME="LinkQueue Coverage Results" MODIFIED="1535275558352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/queue" />
     <SUITE FILE_PATH="coverage/DataStructure$bubbleSorting.coverage" NAME="bubbleSorting Coverage Results" MODIFIED="1533682991951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
     <SUITE FILE_PATH="coverage/DataStructure$_2.coverage" NAME="无穷大堆栈的数组实现_栈顶指向栈顶元素2 Coverage Results" MODIFIED="1533464229702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/堆栈" />
   </component>
@@ -61,23 +45,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="10870" />
+          <entry key="py" value="12461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="10870" />
+          <entry key="Python" value="12461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="32" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="32" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -85,20 +69,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/堆栈/表达式转换.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queue/ListQueue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+            <state relative-caret-position="160">
+              <caret line="64" lean-forward="true" selection-start-line="62" selection-end-line="78" />
+              <folding>
+                <marker date="1535273089855" expanded="true" signature="235:240" ph="..." />
+                <marker date="1535273089855" expanded="true" signature="428:432" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/堆栈/ArrayStack.py">
+        <entry file="file://$PROJECT_DIR$/queue/LinkQueue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <marker date="1535275644503" expanded="true" signature="289:325" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/link/link.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1384">
+              <caret line="80" column="27" lean-forward="true" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+              <folding>
+                <marker date="1535275221863" expanded="true" signature="2873:2878" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,6 +135,9 @@
         <option value="$PROJECT_DIR$/堆栈/LinkStack.py" />
         <option value="$PROJECT_DIR$/堆栈/ArrayStack.py" />
         <option value="$PROJECT_DIR$/堆栈/表达式转换.py" />
+        <option value="$PROJECT_DIR$/queue/ListQueue.py" />
+        <option value="$PROJECT_DIR$/link/link.py" />
+        <option value="$PROJECT_DIR$/queue/LinkQueue.py" />
       </list>
     </option>
   </component>
@@ -141,7 +147,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="-7" />
     <option name="width" value="1295" />
@@ -166,12 +172,7 @@
             <path>
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="堆栈" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="排序" type="462c0819:PsiDirectoryNode" />
+              <item name="link" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -189,6 +190,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -208,8 +210,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bubbleSorting">
-    <configuration name="八皇后问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LinkQueue">
+    <configuration name="表达式转换" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,7 +224,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/堆栈/八皇后问题.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/堆栈/表达式转换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,6 +255,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LinkQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/LinkQueue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ListQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/ListQueue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="表达式转换" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubbleSorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="link" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,34 +329,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/link" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/bubbleSorting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="selectSorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataStructure" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/selectSorting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/link/link.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,17 +344,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.bubbleSorting" />
-      <item itemvalue="Python.selectSorting" />
-      <item itemvalue="Python.八皇后问题" />
       <item itemvalue="Python.ArrayStack" />
+      <item itemvalue="Python.表达式转换" />
+      <item itemvalue="Python.ListQueue" />
+      <item itemvalue="Python.link" />
+      <item itemvalue="Python.LinkQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinkQueue" />
+        <item itemvalue="Python.link" />
+        <item itemvalue="Python.ListQueue" />
+        <item itemvalue="Python.表达式转换" />
         <item itemvalue="Python.ArrayStack" />
-        <item itemvalue="Python.八皇后问题" />
-        <item itemvalue="Python.selectSorting" />
-        <item itemvalue="Python.bubbleSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -357,16 +383,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17168999" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27287406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Unicode Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.75565124" weight="0.123873875" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6953714" visible="true" weight="0.1891892" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6189451" visible="true" weight="0.1599099" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7814855" weight="0.4234234" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,7 +401,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.054054055" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30462864" side_tool="true" visible="true" weight="0.11824324" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3810549" side_tool="true" weight="0.15202703" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32995495" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.19887641" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -427,13 +454,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/链表/单向链表的实现.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="52" column="36" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/链表/双向链表的实现.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1584">
@@ -525,6 +545,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="11" selection-end-line="80" selection-end-column="36" />
+          <folding>
+            <marker date="1533455314030" expanded="true" signature="241:247" ph="..." />
+            <marker date="1533455314030" expanded="true" signature="374:380" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,8 +589,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/堆栈/表达式转换.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        <state relative-caret-position="368">
+          <caret line="79" column="71" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/单向链表的实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="13" lean-forward="true" selection-start-line="12" selection-end-line="140" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/ListQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="64" lean-forward="true" selection-start-line="62" selection-end-line="78" />
+          <folding>
+            <marker date="1535273089855" expanded="true" signature="235:240" ph="..." />
+            <marker date="1535273089855" expanded="true" signature="428:432" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/LinkQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1535275644503" expanded="true" signature="289:325" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/link/link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1384">
+          <caret line="80" column="27" lean-forward="true" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <marker date="1535275221863" expanded="true" signature="2873:2878" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
