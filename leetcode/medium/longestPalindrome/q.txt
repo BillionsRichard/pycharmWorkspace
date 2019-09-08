@@ -1,0 +1,57 @@
+给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为 1000。
+
+示例 1：
+
+输入: "babad"
+输出: "bab"
+注意: "aba" 也是一个有效答案。
+示例 2：
+
+输入: "cbbd"
+输出: "bb"
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/longest-palindromic-substring
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+思路：
+s 长度为l: l = len(s)
+
+最长回文子串长度为 n
+1) n为奇数：[a,b,a]
+    回文中心为 n / 2 = 3 / 2 = 1
+     回文特征：c-2  c-1 [c] c+1 c+2 ...
+
+2) n 为偶： [a,b,b,a]
+    回文中心：n /2 = 2
+      回文特征：c-1  C c+1 c+2 ...
+
+
+a   b   c   d   e   f   e   d   g   a   b   c   d   a
+
+
+a   b   c   [d   e   f   e   d]   g   a   b   c   d   a
+0   1   2    3   4   5   6   7    8   9   10  11  12  13
+
+a:0 [13,9]
+  1 12 No
+  1 8  No
+b 1 [10,]
+  2 9 No
+c 2 [11,]
+  3 10 No
+d 3 [12, 7]
+  4 11 No
+  4 6 Yes
+  5 5 Yes==> 3:7 yes
+e 4 [6, ] 3 < [4] < [6] <7 ==> No
+f 5 []
+
+a   b   c   [d   e   f   e   d]   (g)   d   e   f  e   d   a
+0   1   2    3   4   5   6   7    8   9   10  11  12  13
+
+
+
+
+
+
