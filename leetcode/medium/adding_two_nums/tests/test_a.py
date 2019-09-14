@@ -10,9 +10,9 @@
 @time: 2019/9/1 11:08 
 """
 import unittest
-from srcs.medium.adding_two_nums.srcs.answer import Solution
-from srcs.medium.adding_two_nums.srcs.answer import ListNode
-from srcs.medium.adding_two_nums.srcs.answer import get_list_value
+from medium.adding_two_nums.srcs.answer import Solution
+from medium.adding_two_nums.srcs.answer import ListNode
+from medium.adding_two_nums.srcs.answer import get_list_value
 
 class TestAnaswer(unittest.TestCase):
     def setUp(self):

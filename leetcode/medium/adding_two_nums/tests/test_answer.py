@@ -10,8 +10,8 @@
 @time: 2019/9/1 11:08 
 """
 import unittest
-from srcs.medium.adding_two_nums.srcs.answer1 import Solution
-from srcs.medium.adding_two_nums.srcs.answer1 import ListNode
+from medium.adding_two_nums.srcs.answer import Solution
+from medium.adding_two_nums.srcs.answer import ListNode
 
 
 class TestAnaswer(unittest.TestCase):

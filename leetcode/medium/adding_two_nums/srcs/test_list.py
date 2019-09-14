@@ -10,9 +10,8 @@
 @time: 2019/9/1 11:49 
 """
 
-from srcs.medium.adding_two_nums.srcs.answer import ListNode
-from srcs.medium.adding_two_nums.srcs.answer import get_list_value
-# from srcs.medium.adding_two_nums.answer import box_into_list
+from medium.adding_two_nums.srcs.answer import ListNode
+from medium.adding_two_nums.srcs.answer import get_list_value
 import unittest
 
 

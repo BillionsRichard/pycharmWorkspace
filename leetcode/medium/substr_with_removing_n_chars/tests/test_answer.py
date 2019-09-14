@@ -9,9 +9,10 @@
 @software: PyCharm 
 @time: 2019/9/8 9:38 
 """
-from pprint import pprint as pp
 import unittest
-from srcs.medium.substr_with_removing_n_chars.srcs.answer import remove_n_chars_to_be_sub_str
+
+from medium.substr_with_removing_n_chars.srcs.answer import remove_n_chars_to_be_sub_str
+
 
 class TestRemoveNCharsToBeSubStr(unittest.TestCase):
     def setUp(self):
