@@ -6,17 +6,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc914e3-fd1c-4534-b88d-3bef8fad9283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medium/least_bricks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/least_bricks/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/least_bricks/srcs/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/least_bricks/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/map_analysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/map_analysis/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/map_analysis/srcs/big_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/map_analysis/srcs/q_with_bfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/map_analysis/srcs/q_with_brute_force.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/map_analysis/srcs/q_with_recursive_no_bfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/map_analysis/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/srcs/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests/test_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/srcs/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests/test_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/inverse_bt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/inverse_bt/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/inverse_bt/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/inverse_bt/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/inverse_bt/tests/test_my_anwer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/merge_bt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/merge_bt/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/merge_bt/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/merge_bt/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/merge_bt/tests/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/range_sum_of_bst/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/range_sum_of_bst/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/range_sum_of_bst/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/same_tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/same_tree/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/same_tree/srcs/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/same_tree/srcs/a_offical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/same_tree/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/same_tree/tests/test_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/same_tree/tests/test_offical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/symmetric_tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/symmetric_tree/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/symmetric_tree/tests/test_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/easy/symmetric_tree/tests/test_a_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/hard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/max_bt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/max_bt/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/max_bt/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/max_bt/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/max_bt/tests/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/pre_order_bt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/pre_order_bt/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/pre_order_bt/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/pre_order_bt/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/pre_order_bt/tests/test_my_answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hadoop-book" beforeDir="false" afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -27,191 +80,213 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxBtree.coverage" NAME="Twisted Trial for test_my_answer.TestMaxBtree Coverage Results" MODIFIED="1569927039459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/max_bt/tests" />
     <SUITE FILE_PATH="coverage/leetcode$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1568474816296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/least_bricks/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$answer_with_heapq.coverage" NAME="answer_with_heapq Coverage Results" MODIFIED="1568384072023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer_test_solution2.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer.test_solution2 Coverage Results" MODIFIED="1567320229317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/adding_two_nums" />
     <SUITE FILE_PATH="coverage/leetcode$q_with_brute_force.coverage" NAME="q_with_brute_force Coverage Results" MODIFIED="1568458860750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$answer.coverage" NAME="answer Coverage Results" MODIFIED="1567910866029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst.test_1 Coverage Results" MODIFIED="1569902481188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
     <SUITE FILE_PATH="coverage/leetcode$q_with_no_cache.coverage" NAME="q_with_no_cache Coverage Results" MODIFIED="1568452017327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_4.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_4 Coverage Results" MODIFIED="1567928868106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_04.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_04 Coverage Results" MODIFIED="1567931653421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_3.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_3 Coverage Results" MODIFIED="1567910926287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode.coverage" NAME="Twisted Trial for test_list.TestListNode Coverage Results" MODIFIED="1567937158956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_q_and_ordered_dict.coverage" NAME="a_with_q_and_ordered_dict Coverage Results" MODIFIED="1568353080401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_0.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_0 Coverage Results" MODIFIED="1567929703660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$heapq.coverage" NAME="heapq Coverage Results" MODIFIED="1568379794256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/Python36-32/Lib" />
-    <SUITE FILE_PATH="coverage/leetcode$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1567929125129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$a.coverage" NAME="a Coverage Results" MODIFIED="1568386221628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy/find_learned_words_len/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_5.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_5 Coverage Results" MODIFIED="1567929281639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode_test_list1.coverage" NAME="Twisted Trial for test_list.TestListNode.test_list1 Coverage Results" MODIFIED="1567312270483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/adding_two_nums" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree__1_.coverage" NAME="Twisted Trial for test_a.TestIsSameTree (1) Coverage Results" MODIFIED="1569137427957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree_test_1.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree.test_1 Coverage Results" MODIFIED="1569138772361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$q_with_recursive_no_bfs.coverage" NAME="q_with_recursive_no_bfs Coverage Results" MODIFIED="1568459146501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer_test_solution1.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer.test_solution1 Coverage Results" MODIFIED="1567320099031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/adding_two_nums" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_11.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_11 Coverage Results" MODIFIED="1567933336288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome Coverage Results" MODIFIED="1567936141781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$cnt_of_num.coverage" NAME="cnt_of_num Coverage Results" MODIFIED="1568065864313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/cnt_of_nums_not_contain_digit" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode_test_box_into_list1.coverage" NAME="Twisted Trial for test_list.TestListNode.test_box_into_list1 Coverage Results" MODIFIED="1567314557042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/adding_two_nums" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestAnaswer.coverage" NAME="Twisted Trial for test_answer.TestAnaswer Coverage Results" MODIFIED="1567937326230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict.coverage" NAME="a_with_ordered_dict Coverage Results" MODIFIED="1568355276833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$a_with_q.coverage" NAME="a_with_q Coverage Results" MODIFIED="1568377709768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_2.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_2 Coverage Results" MODIFIED="1567910875957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$q.coverage" NAME="q Coverage Results" MODIFIED="1568452860009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree Coverage Results" MODIFIED="1569140722657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST.test_1 Coverage Results" MODIFIED="1569913501513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_TestIsSameTree.coverage" NAME="Twisted Trial for test_offical.TestIsSameTree Coverage Results" MODIFIED="1569125670276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$a0.coverage" NAME="a0 Coverage Results" MODIFIED="1568347995696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict_optimize.coverage" NAME="a_with_ordered_dict_optimize Coverage Results" MODIFIED="1568377783887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a.TestIsSymmetricTree Coverage Results" MODIFIED="1569137501816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_a_py.coverage" NAME="Twisted Trial in test_a.py Coverage Results" MODIFIED="1569124066435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestDepthOfBinayTree.coverage" NAME="Twisted Trial for test_a.TestDepthOfBinayTree Coverage Results" MODIFIED="1569146109325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_answer_py.coverage" NAME="Twisted Trial in test_answer.py Coverage Results" MODIFIED="1567929255130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_1.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_1 Coverage Results" MODIFIED="1567935297730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr Coverage Results" MODIFIED="1567910957022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree_test_1.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree.test_1 Coverage Results" MODIFIED="1569920107968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree.coverage" NAME="Twisted Trial for test_my_answer.TestPreOrderBinaryTree Coverage Results" MODIFIED="1569929673430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/pre_order_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer_test_solution2.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer.test_solution2 Coverage Results" MODIFIED="1567320229317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/adding_two_nums" />
+    <SUITE FILE_PATH="coverage/leetcode$answer.coverage" NAME="answer Coverage Results" MODIFIED="1567910866029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST Coverage Results" MODIFIED="1569913507783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree_test_1.coverage" NAME="Twisted Trial for test_a.TestIsSameTree.test_1 Coverage Results" MODIFIED="1569123836653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_0.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_0 Coverage Results" MODIFIED="1567929703660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$heapq.coverage" NAME="heapq Coverage Results" MODIFIED="1568379794256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/Python36-32/Lib" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst Coverage Results" MODIFIED="1569904637230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1567929125129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$a.coverage" NAME="a Coverage Results" MODIFIED="1568386221628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy/find_learned_words_len/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestPreorderNaryTree.coverage" NAME="Twisted Trial for test_my_answer.TestPreorderNaryTree Coverage Results" MODIFIED="1569922034228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree Coverage Results" MODIFIED="1569920235052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_5.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_5 Coverage Results" MODIFIED="1567929281639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestLevelOrderTraverseTree.coverage" NAME="Twisted Trial for test_a.TestLevelOrderTraverseTree Coverage Results" MODIFIED="1569627892552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode_test_list1.coverage" NAME="Twisted Trial for test_list.TestListNode.test_list1 Coverage Results" MODIFIED="1567312270483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/adding_two_nums" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_11.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_11 Coverage Results" MODIFIED="1567933336288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome Coverage Results" MODIFIED="1567936141781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode_test_box_into_list1.coverage" NAME="Twisted Trial for test_list.TestListNode.test_box_into_list1 Coverage Results" MODIFIED="1567314557042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/adding_two_nums" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestAnaswer.coverage" NAME="Twisted Trial for test_answer.TestAnaswer Coverage Results" MODIFIED="1567937326230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees_test_2.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees.test_2 Coverage Results" MODIFIED="1569917840757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict.coverage" NAME="a_with_ordered_dict Coverage Results" MODIFIED="1568355276833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$a_with_q.coverage" NAME="a_with_q Coverage Results" MODIFIED="1568377709768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees Coverage Results" MODIFIED="1569918121969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$q.coverage" NAME="q Coverage Results" MODIFIED="1568452860009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree.coverage" NAME="Twisted Trial for test_a.TestIsSameTree Coverage Results" MODIFIED="1569125394835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$heap_demo01.coverage" NAME="heap_demo01 Coverage Results" MODIFIED="1568383150065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reivew/data_structure/heap" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestAnaswer.coverage" NAME="Twisted Trial for test_a.TestAnaswer Coverage Results" MODIFIED="1567937078840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_3.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_3 Coverage Results" MODIFIED="1567928335457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_answer_py.coverage" NAME="Twisted Trial in test_answer.py Coverage Results" MODIFIED="1567929255130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_01.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_01 Coverage Results" MODIFIED="1567929849534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_1.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_1 Coverage Results" MODIFIED="1567935297730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree_test_2.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree.test_2 Coverage Results" MODIFIED="1569139084295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer Coverage Results" MODIFIED="1567937245457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr Coverage Results" MODIFIED="1567910957022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1904280748">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="63" />
+          <entry key="py" value="121" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="63" />
+          <entry key="Python" value="121" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="31" />
-          <entry key="py" value="15569" />
+          <entry key="py" value="26463" />
           <entry key="txt" value="1096" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1127" />
-          <entry key="Python" value="15568" />
+          <entry key="Python" value="26462" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8623189">
+    <splitter split-orientation="horizontal" split-proportion="0.5086114">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/hard/smallest_range/srcs/answer_with_heapq.py">
+            <entry file="file://$PROJECT_DIR$/tree/easy/merge_bt/srcs/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="768">
-                  <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+                <state relative-caret-position="1892">
+                  <caret line="86" column="18" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="18" />
                   <folding>
-                    <element signature="e#178#209#0" expanded="true" />
+                    <marker date="1569918368482" expanded="true" signature="974:975" ph="..." />
+                    <marker date="1569918368482" expanded="true" signature="974:983" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/easy/find_learned_words_len/srcs/a.py">
+            <entry file="file://$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/srcs/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="594">
-                  <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+                <state relative-caret-position="652">
+                  <caret line="44" column="20" selection-start-line="44" selection-end-line="55" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/reivew/data_structure/heap/heap_demo01.py">
+            <entry file="file://$PROJECT_DIR$/tree/medium/max_bt/srcs/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="858">
-                  <caret line="39" column="63" lean-forward="true" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
-                  <folding>
-                    <element signature="e#178#209#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/q_with_brute_force.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="209">
-                  <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-                  <folding>
-                    <element signature="e#177#208#0" expanded="true" />
-                    <marker date="1568458860568" expanded="true" signature="1240:1309" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/q_with_recursive_no_bfs.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="472">
-                  <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-                  <folding>
-                    <element signature="e#177#208#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="324">
+                  <caret line="52" column="19" selection-start-line="52" selection-end-line="60" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/medium/least_bricks/srcs/a.py">
+            <entry file="file://$PROJECT_DIR$/tree/medium/pre_order_bt/srcs/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
-                  <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+                <state relative-caret-position="356">
+                  <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/q_with_bfs.py">
+            <entry file="file://$PROJECT_DIR$/tree/medium/pre_order_bt/tests/test_my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1628">
-                  <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+                <state relative-caret-position="506">
+                  <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
                   <folding>
-                    <element signature="e#177#208#0" expanded="true" />
+                    <marker date="1569929496041" expanded="true" signature="367:372" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/builtins.py">
+            <entry file="file://$PROJECT_DIR$/tree/medium/max_bt/tests/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/easy/inverse_bt/tests/test_my_anwer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="161">
-                  <caret line="2841" column="8" selection-start-line="2841" selection-start-column="8" selection-end-line="2841" selection-end-column="8" />
+                <state relative-caret-position="1056">
+                  <caret line="48" column="68" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
+                  <folding>
+                    <element signature="e#178#209#0" expanded="true" />
+                    <marker date="1569920234152" expanded="true" signature="388:1193" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/big_matrix.py">
+            <entry file="file://$PROJECT_DIR$/tree/easy/merge_bt/tests/test_my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="88">
-                  <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+                <state relative-caret-position="154">
+                  <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#178#193#0" expanded="true" />
+                    <marker date="1569918264534" expanded="true" signature="347:352" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://C:/Program Files (x86)/Python36-32/Lib/heapq.py">
+            <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/case.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="248">
-                  <caret line="525" lean-forward="true" selection-start-line="525" selection-end-line="525" />
+                <state relative-caret-position="187">
+                  <caret line="604" selection-start-line="604" selection-end-line="604" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="377">
+                  <caret line="30" selection-start-line="30" selection-end-line="30" />
+                  <folding>
+                    <element signature="e#178#209#0" expanded="true" />
+                    <marker date="1569922034178" expanded="true" signature="404:409" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -219,15 +294,83 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/reivew/data_structure/heap/heap_demo01.py">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="159">
-                  <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+                <state relative-caret-position="440">
+                  <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests/test_a.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="616">
+                  <caret line="31" selection-start-line="31" selection-end-line="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/easy/merge_bt/tests/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1078">
+                  <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
                   <folding>
-                    <element signature="e#178#209#0" expanded="true" />
+                    <element signature="e#178#193#0" expanded="true" />
+                    <marker date="1569918264534" expanded="true" signature="347:352" ph="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/srcs/a.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="924">
+                  <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/easy/inverse_bt/srcs/my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/tree/medium/pre_order_bt/tests/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="532">
+                  <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+                  <folding>
+                    <element signature="e#178#193#0" expanded="true" />
+                    <marker date="1569929496041" expanded="true" signature="367:372" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/medium/pre_order_bt/srcs/my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-270">
+                  <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree/medium/max_bt/srcs/my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-536">
+                  <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -268,24 +411,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/srcs/two_num_sum/two_num_sum_eq_tgt_num.py" />
-        <option value="$PROJECT_DIR$/srcs/two_num_sum/q.txt" />
-        <option value="$PROJECT_DIR$/srcs/two_num_sum/two_num_sum_eq_tgt_num1.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/adding_two_nums/anaswer.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/adding_two_nums/q.txt" />
-        <option value="$PROJECT_DIR$/srcs/medium/adding_two_nums/answer.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/adding_two_nums/test_list.py" />
-        <option value="$PROJECT_DIR$/tests/medium/adding_two_nums/test_answer1.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/adding_two_nums/answer1.py" />
-        <option value="$PROJECT_DIR$/tests/medium/adding_two_nums/test_a.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests/test_answer.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/longestPalindrome/answer.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/longestPalindrome/q.txt" />
-        <option value="$PROJECT_DIR$/srcs/medium/longestPalindrome/a1.py" />
-        <option value="$PROJECT_DIR$/tests/medium/longestPalindrome/test_answer.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/longestPalindrome/a2.py" />
-        <option value="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/srcs/answer.py" />
-        <option value="$PROJECT_DIR$/medium/adding_two_nums/tests/test_a.py" />
         <option value="$PROJECT_DIR$/medium/adding_two_nums/srcs/answer1.py" />
         <option value="$PROJECT_DIR$/medium/adding_two_nums/srcs/test_list.py" />
         <option value="$PROJECT_DIR$/medium/adding_two_nums/tests/test_answer1.py" />
@@ -309,6 +434,34 @@
         <option value="$PROJECT_DIR$/medium/map_analysis/srcs/q_with_brute_force.py" />
         <option value="$PROJECT_DIR$/medium/map_analysis/srcs/q_with_recursive_no_bfs.py" />
         <option value="$PROJECT_DIR$/medium/least_bricks/srcs/a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/same_tree/tests/test_a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/same_tree/tests/test_offical.py" />
+        <option value="$PROJECT_DIR$/tree/easy/same_tree/srcs/a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/same_tree/srcs/a_offical.py" />
+        <option value="$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/symmetric_tree/tests/test_a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/symmetric_tree/tests/test_a_iter.py" />
+        <option value="$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a_iter.py" />
+        <option value="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/srcs/a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests/test_a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/srcs/a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests/test_a.py" />
+        <option value="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/range-sum-of-bst/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/range-sum-of-bst/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/range_sum_of_bst/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/merge_bt/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/merge_bt/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/inverse_bt/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/inverse_bt/tests/test_my_anwer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/medium/max_bt/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/medium/max_bt/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/medium/pre_order_bt/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/tree/medium/pre_order_bt/srcs/my_answer.py" />
       </list>
     </option>
   </component>
@@ -319,9 +472,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1546" />
-    <option name="height" value="839" />
+    <option name="x" value="-396" />
+    <option name="y" value="175" />
+    <option name="width" value="1934" />
+    <option name="height" value="880" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -333,7 +487,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -344,38 +497,34 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="least_bricks" type="462c0819:PsiDirectoryNode" />
+              <item name="pre_order_bt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="least_bricks" type="462c0819:PsiDirectoryNode" />
-              <item name="srcs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="reivew" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="reivew" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="reivew" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="heap" type="462c0819:PsiDirectoryNode" />
+              <item name="pre_order_bt" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -403,12 +552,48 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Python36-32" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Python36-32" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="twisted" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Python36-32" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="twisted" type="462c0819:PsiDirectoryNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Python36-32" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="1402888915" type="70582d5e:PySkeletonsNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,22 +601,22 @@
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/Python/Python36/Scripts/flake8.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python\pycharmWorkspace\leetcode\medium\map_analysis\srcs" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\hard\smallest_range\srcs" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\longestPalindrome" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\tests\medium\adding_two_nums" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\adding_two_nums" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\adding_two_nums\tests" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\adding_two_nums\srcs" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\easy\two_num_sum\srcs" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\tests\easy" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\easy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\pycharmWorkspace\leetcode\tree\easy\symmetric_tree\tests" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\tree\easy\symmetric_tree\srcs" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\tree\easy\same_tree\tests" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\tree\easy\same_tree\srcs" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\medium\map_analysis\srcs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -446,131 +631,96 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a (1)">
-    <configuration name="a (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Twisted Trial for test_my_answer.TestPreOrderBinaryTree">
+    <configuration name="Twisted Trial for test_my_answer.TestMaxBtree" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium/least_bricks/srcs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/medium/max_bt/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/least_bricks/srcs/a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestMaxBtree&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="q" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Twisted Trial for test_my_answer.TestPreOrderBinaryTree" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium/map_analysis/srcs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/medium/pre_order_bt/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Python\pycharmWorkspace\leetcode\medium\map_analysis\srcs\q_with_brute_force.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestPreOrderBinaryTree&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="q_with_brute_force" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Twisted Trial for test_my_answer.TestPreorderNaryTree" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium/map_analysis/srcs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/map_analysis/srcs/q_with_brute_force.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestPreorderNaryTree&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="q_with_no_cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Twisted Trial for test_my_anwer.TestInverseBinaryTree" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium/map_analysis/srcs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Python\pycharmWorkspace\leetcode\medium\map_analysis\srcs\q_with_bfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_anwer.TestInverseBinaryTree&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="q_with_recursive_no_bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Twisted Trial for test_my_anwer.TestInverseBinaryTree.test_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium/map_analysis/srcs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/map_analysis/srcs/q_with_recursive_no_bfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_anwer.TestInverseBinaryTree.test_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.q" />
-      <item itemvalue="Python.q_with_no_cache" />
-      <item itemvalue="Python.q_with_recursive_no_bfs" />
-      <item itemvalue="Python.q_with_brute_force" />
-      <item itemvalue="Python.a (1)" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_anwer.TestInverseBinaryTree" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_anwer.TestInverseBinaryTree.test_1" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestPreorderNaryTree" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestMaxBtree" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestPreOrderBinaryTree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.a (1)" />
-        <item itemvalue="Python.q_with_recursive_no_bfs" />
-        <item itemvalue="Python.q_with_brute_force" />
-        <item itemvalue="Python.q" />
-        <item itemvalue="Python.q_with_no_cache" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestPreOrderBinaryTree" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestMaxBtree" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestPreorderNaryTree" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_anwer.TestInverseBinaryTree" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_anwer.TestInverseBinaryTree.test_1" />
       </list>
     </recent_temporary>
   </component>
@@ -588,55 +738,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome - 2019.09.08 at 17h 35m 41s.xml">
-      <configuration name="Twisted Trial for test_answer.TestSolutionLongestPalindrome" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreorderNaryTree - 2019.10.01 at 17h 26m 19s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreorderNaryTree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome - 2019.09.08 at 17h 39m 05s.xml">
-      <configuration name="Twisted Trial for test_answer.TestSolutionLongestPalindrome" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreorderNaryTree - 2019.10.01 at 17h 27m 15s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreorderNaryTree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome - 2019.09.08 at 17h 43m 16s.xml">
-      <configuration name="Twisted Trial for test_answer.TestSolutionLongestPalindrome" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestMaxBtree - 2019.10.01 at 18h 49m 18s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestMaxBtree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome - 2019.09.08 at 17h 45m 56s.xml">
-      <configuration name="Twisted Trial for test_answer.TestSolutionLongestPalindrome" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestMaxBtree - 2019.10.01 at 18h 50m 40s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestMaxBtree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome - 2019.09.08 at 17h 47m 15s.xml">
-      <configuration name="Twisted Trial for test_answer.TestSolutionLongestPalindrome" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree - 2019.10.01 at 19h 08m 21s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreOrderBinaryTree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome - 2019.09.08 at 17h 49m 02s.xml">
-      <configuration name="Twisted Trial for test_answer.TestSolutionLongestPalindrome" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree - 2019.10.01 at 19h 26m 37s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreOrderBinaryTree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_a_TestAnaswer - 2019.09.08 at 18h 04m 40s.xml">
-      <configuration name="Twisted Trial for test_a.TestAnaswer" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree - 2019.10.01 at 19h 26m 58s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreOrderBinaryTree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_list_TestListNode - 2019.09.08 at 18h 06m 00s.xml">
-      <configuration name="Twisted Trial for test_list.TestListNode" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree - 2019.10.01 at 19h 31m 37s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreOrderBinaryTree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_answer1_TestAnaswer - 2019.09.08 at 18h 07m 26s.xml">
-      <configuration name="Twisted Trial for test_answer1.TestAnaswer" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree - 2019.10.01 at 19h 33m 29s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreOrderBinaryTree" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_answer_TestAnaswer - 2019.09.08 at 18h 08m 47s.xml">
-      <configuration name="Twisted Trial for test_answer.TestAnaswer" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree - 2019.10.01 at 19h 34m 34s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestPreOrderBinaryTree" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25672767" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23681378" />
       <window_info id="Unicode Browser" order="1" weight="0.32992464" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29617116" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3051802" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.32995495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.85844994" visible="true" weight="0.13175675" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994618" weight="0.2195946" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053823" side_tool="true" weight="0.38513514" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
@@ -695,10 +845,58 @@
           <line>75</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a_iter.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests/test_a.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/test_my_answer.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree/easy/merge_bt/srcs/my_answer.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree/easy/inverse_bt/tests/test_my_anwer.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="t1.val" language="Python" />
+        <watch expression="t2.val" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>t2.val</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>t1.val</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>t.val</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
       <expression>
         <expression-string>next(small_palindrom_iter)</expression-string>
@@ -708,100 +906,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/srcs/easy/two_num_sum/srcs/q.txt" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/adding_two_nums/srcs/test_list.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/adding_two_nums/tests/test_answer1.py" />
-    <entry file="file://$PROJECT_DIR$/tests/medium/longestPalindrome/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests/test_answer.py" />
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="1082" column="8" selection-start-line="1082" selection-start-column="8" selection-end-line="1082" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/srcs/medium/longestPalindrome/a1.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/longestPalindrome/answer.py" />
-    <entry file="file://$PROJECT_DIR$/tests/medium/longestPalindrome/test_answer.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/longestPalindrome/a2.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/srcs/answer.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/easy/two_num_sum/srcs/two_num_sum_eq_tgt_num.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/easy/two_num_sum/srcs/two_num_sum_eq_tgt_num1.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/easy/two_num_sum/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/adding_two_nums/srcs/q.txt" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/adding_two_nums/srcs/answer1.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/adding_two_nums/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/adding_two_nums/tests/test_a.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/longestPalindrome/q.txt" />
-    <entry file="file://$PROJECT_DIR$/srcs/easy/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/srcs/medium/adding_two_nums/srcs/answer.py" />
-    <entry file="file://$PROJECT_DIR$/easy/two_num_sum/srcs/two_num_sum_eq_tgt_num.py" />
-    <entry file="file://$PROJECT_DIR$/easy/two_num_sum/srcs/two_num_sum_eq_tgt_num1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/adding_two_nums/srcs/q.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/substr_with_removing_n_chars/srcs/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/substr_with_removing_n_chars/tests/test_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/adding_two_nums/srcs/test_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/adding_two_nums/tests/test_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/cnt_of_nums_not_contain_digit/cnt_of_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <marker date="1568065864112" expanded="true" signature="370:375" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/adding_two_nums/srcs/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medium/adding_two_nums/tests/test_a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-          <folding>
-            <element signature="e#177#192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,9 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="e#178#209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -839,9 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-880">
           <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
-          <folding>
-            <element signature="e#178#209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,9 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#60#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,9 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
           <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
-          <folding>
-            <element signature="e#178#209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,16 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reivew/data_structure/heap/heap_demo01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="63" lean-forward="true" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
-          <folding>
-            <element signature="e#178#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/big_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -920,13 +1006,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/medium/least_bricks/srcs/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/q_with_bfs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1628">
           <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="e#177#208#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/q_with_recursive_no_bfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -934,34 +1031,267 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-          <folding>
-            <element signature="e#177#208#0" expanded="true" />
-            <marker date="1568458860568" expanded="true" signature="1240:1309" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medium/map_analysis/srcs/q_with_recursive_no_bfs.py">
+    <entry file="file://$PROJECT_DIR$/reivew/data_structure/heap/heap_demo01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="e#177#208#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="814">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/same_tree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/same_tree/tests/test_offical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/same_tree/srcs/a_offical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="23" selection-start-line="46" selection-end-line="56" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/same_tree/tests/test_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" selection-start-line="11" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="2841" column="8" selection-start-line="2841" selection-start-column="8" selection-end-line="2841" selection-end-column="8" />
+        <state relative-caret-position="370">
+          <caret line="3632" column="8" selection-start-line="3632" selection-start-column="8" selection-end-line="3632" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medium/least_bricks/srcs/a.py">
+    <entry file="file://$PROJECT_DIR$/tree/easy/same_tree/srcs/a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="-344">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1569125594218" expanded="true" signature="710:977" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/depth_of_binary_tree/srcs/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1569142302237" expanded="true" signature="710:746" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/symmetric_tree/tests/test_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="37" selection-start-line="11" selection-end-line="37" />
+          <folding>
+            <element signature="e#178#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/twisted/trial/_asyncrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/twisted/trial/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4136">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/srcs/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a_iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/sorted_array_to_bst/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1569904637086" expanded="true" signature="581:582" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding>
+            <marker date="1569903231540" expanded="true" signature="405:410" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/symmetric_tree/tests/test_a_iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="e#178#209#0" expanded="true" />
+            <marker date="1569912897670" expanded="true" signature="396:401" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests/test_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests/test_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/merge_bt/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#178#193#0" expanded="true" />
+            <marker date="1569918264534" expanded="true" signature="347:352" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/inverse_bt/tests/test_my_anwer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="68" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
+          <folding>
+            <element signature="e#178#209#0" expanded="true" />
+            <marker date="1569920234152" expanded="true" signature="388:1193" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/range_sum_of_bst/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/merge_bt/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="18" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <marker date="1569918368482" expanded="true" signature="974:975" ph="..." />
+            <marker date="1569918368482" expanded="true" signature="974:983" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="44" column="20" selection-start-line="44" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/medium/max_bt/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="52" column="19" selection-start-line="52" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/medium/max_bt/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#178#209#0" expanded="true" />
+            <marker date="1569922034178" expanded="true" signature="404:409" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/easy/inverse_bt/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/medium/pre_order_bt/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1569929496041" expanded="true" signature="367:372" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/medium/pre_order_bt/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
         </state>
       </provider>
     </entry>
