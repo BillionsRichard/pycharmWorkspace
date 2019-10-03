@@ -6,48 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc914e3-fd1c-4534-b88d-3bef8fad9283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/hard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/medium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests/test_offical_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/easy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/easy/find_the_town_judge/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/easy/find_the_town_judge/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/easy/find_the_town_judge/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/easy/find_the_town_judge/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/easy/find_the_town_judge/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/srcs/official_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests/test_offical_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/insert_into_bt/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/insert_into_bt/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/insert_into_bt/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/insert_into_bt/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/insert_into_bt/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/max_level_sum_of_bt/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/max_level_sum_of_bt/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/max_level_sum_of_bt/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/max_level_sum_of_bt/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/medium/max_level_sum_of_bt/tests/test_my_answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hadoop-book" beforeDir="false" afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +110,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="log" value="1" />
-          <entry key="py" value="160" />
+          <entry key="py" value="161" />
           <entry key="symlink" value="1" />
           <entry key="txt" value="10" />
         </counts>
@@ -158,20 +118,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="160" />
+          <entry key="Python" value="161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="31" />
-          <entry key="py" value="34156" />
+          <entry key="py" value="34233" />
           <entry key="txt" value="1096" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1127" />
-          <entry key="Python" value="34155" />
+          <entry key="Python" value="34232" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -184,8 +144,21 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="518">
-                  <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+                <state relative-caret-position="342">
+                  <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests/test_offical_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="570">
+                  <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#178#209#0" expanded="true" />
+                    <marker date="1570115410315" expanded="true" signature="363:616" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -340,81 +313,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_partitioned_array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_partitioned_array" type="462c0819:PsiDirectoryNode" />
-              <item name="srcs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_partitioned_array" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="reconstruct_itinerary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="reconstruct_itinerary" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="regions_cut_by_slashes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="regions_cut_by_slashes" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -616,13 +514,13 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19052745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19052745" />
       <window_info id="Unicode Browser" order="1" weight="0.32992464" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.631324" visible="true" weight="0.0731982" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.631324" visible="true" weight="0.0731982" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994618" weight="0.2759009" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1111,7 +1009,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests/test_offical_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
+        <state relative-caret-position="570">
           <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding>
             <element signature="e#178#209#0" expanded="true" />
@@ -1122,8 +1020,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+        <state relative-caret-position="342">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
         </state>
       </provider>
     </entry>

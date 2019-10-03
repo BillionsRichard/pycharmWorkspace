@@ -57,6 +57,9 @@ class Solution:
 
                 """
                 DP 关键点： 如何从 res[i-j] 到 res[i]
+                
+                对于 j=1,2,...K 的 K 种方案，分别使用了不同的 res[i-j] 值。
+                 
                 res[0] ... res[i-j], res[i-j+1] ... res[i]
                                      |<-------j个元素---->|
                 """
