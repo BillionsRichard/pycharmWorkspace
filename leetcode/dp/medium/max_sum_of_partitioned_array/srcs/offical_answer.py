@@ -50,7 +50,10 @@ class Solution:
 
         for i in range(a_len):
             j = 1
+
             # (i-j + 1 > = 0 保证 A[i] 左边 至少有 j (1 <= j <= K) 个元素
+            # A[i-j] A[i-j+1] A[i-j+2]     ...        A[i]
+            #        |<----[i-(i-j+1) + 1) = j] 个元素--->|
             while j <= K and i - j + 1 >= 0:
                 # 从 A[i] 向左（包含 A[i] ）的连续 j 个元素
                 j_left_array = A[i - j + 1:i + 1]
