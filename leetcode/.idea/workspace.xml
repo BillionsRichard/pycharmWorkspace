@@ -7,41 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc914e3-fd1c-4534-b88d-3bef8fad9283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_stairs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_stairs/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_stairs/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_stairs/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_stairs/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/divisor_game/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/divisor_game/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/divisor_game/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/divisor_game/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/divisor_game/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/house_robber/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/house_robber/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/house_robber/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/house_robber/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/house_robber/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_official_answer_with_divide_and_conquer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/range_sum_query/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/range_sum_query/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/range_sum_query/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/range_sum_query/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/easy/range_sum_query/tests/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/easy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/hard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/medium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/number_of_islands_200/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/number_of_islands_200/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hadoop-book" beforeDir="false" afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +52,7 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode.coverage" NAME="Twisted Trial for test_list.TestListNode Coverage Results" MODIFIED="1567937158956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_q_and_ordered_dict.coverage" NAME="a_with_q_and_ordered_dict Coverage Results" MODIFIED="1568353080401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree__1_.coverage" NAME="Twisted Trial for test_a.TestIsSameTree (1) Coverage Results" MODIFIED="1569137427957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands.test_1 Coverage Results" MODIFIED="1570805279764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree_test_1.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree.test_1 Coverage Results" MODIFIED="1569138772361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary__1_.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary (1) Coverage Results" MODIFIED="1570094456217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestDivisorGame.coverage" NAME="Twisted Trial for test_my_answer.TestDivisorGame Coverage Results" MODIFIED="1570158402196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/divisor_game/tests" />
@@ -76,21 +63,25 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary Coverage Results" MODIFIED="1570174016066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/range_sum_query/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfPartitionedArray_test_2.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray.test_2 Coverage Results" MODIFIED="1570239881592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindJudgeOfTheTow.coverage" NAME="Twisted Trial for test_my_answer.TestFindJudgeOfTheTow Coverage Results" MODIFIED="1569934039661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/easy/find_the_town_judge/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool Coverage Results" MODIFIED="1570372525102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_3 Coverage Results" MODIFIED="1569986342863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_2.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_2 Coverage Results" MODIFIED="1567910875957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree Coverage Results" MODIFIED="1569140722657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST.test_1 Coverage Results" MODIFIED="1569913501513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_TestIsSameTree.coverage" NAME="Twisted Trial for test_offical.TestIsSameTree Coverage Results" MODIFIED="1569125670276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands_test_2.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands.test_2 Coverage Results" MODIFIED="1570805493714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray Coverage Results" MODIFIED="1570242470072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$a0.coverage" NAME="a0 Coverage Results" MODIFIED="1568347995696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict_optimize.coverage" NAME="a_with_ordered_dict_optimize Coverage Results" MODIFIED="1568377783887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a.TestIsSymmetricTree Coverage Results" MODIFIED="1569137501816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestClimbingStairsWithMinCost__1_.coverage" NAME="Twisted Trial for test_my_answer.TestClimbingStairsWithMinCost (1) Coverage Results" MODIFIED="1570182084222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/house_robber/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands Coverage Results" MODIFIED="1570805510141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_a_py.coverage" NAME="Twisted Trial in test_a.py Coverage Results" MODIFIED="1569124066435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestDepthOfBinayTree.coverage" NAME="Twisted Trial for test_a.TestDepthOfBinayTree Coverage Results" MODIFIED="1569146109325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_answer_py.coverage" NAME="Twisted Trial in test_answer.py Coverage Results" MODIFIED="1567929255130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_1.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_1 Coverage Results" MODIFIED="1567935297730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_my_answer_py.coverage" NAME="Twisted Trial in test_my_answer.py Coverage Results" MODIFIED="1570077299967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3 Coverage Results" MODIFIED="1570372326722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570238392458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr Coverage Results" MODIFIED="1567910957022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570114397472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
@@ -121,6 +112,7 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestAnaswer.coverage" NAME="Twisted Trial for test_answer.TestAnaswer Coverage Results" MODIFIED="1567937326230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees_test_2.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees.test_2 Coverage Results" MODIFIED="1569917840757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxSumOfPartitionedArray_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray.test_1 Coverage Results" MODIFIED="1570234190549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$my_answer.coverage" NAME="my_answer Coverage Results" MODIFIED="1570462034248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict.coverage" NAME="a_with_ordered_dict Coverage Results" MODIFIED="1568355276833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_q.coverage" NAME="a_with_q Coverage Results" MODIFIED="1568377709768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees Coverage Results" MODIFIED="1569918121969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
@@ -154,7 +146,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="log" value="1" />
-          <entry key="py" value="182" />
+          <entry key="py" value="195" />
           <entry key="symlink" value="1" />
           <entry key="txt" value="10" />
         </counts>
@@ -162,38 +154,29 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="182" />
+          <entry key="Python" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="32" />
-          <entry key="py" value="37641" />
+          <entry key="py" value="40565" />
           <entry key="txt" value="1096" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1128" />
-          <entry key="Python" value="37640" />
+          <entry key="Python" value="40564" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6759814">
+    <splitter split-orientation="horizontal" split-proportion="0.5711436">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/divisor_game/srcs/my_answer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="305">
-                  <caret line="19" column="29" selection-start-line="15" selection-end-line="25" selection-end-column="32" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dp/easy/range_sum_query/srcs/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -208,58 +191,60 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/climbing_stairs/srcs/my_answer.py">
+            <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="259">
-                  <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+                <state relative-caret-position="-86">
+                  <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/srcs/my_answer.py">
+            <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="560">
+                  <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+                  <folding>
+                    <element signature="e#1028#1041#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="352">
-                  <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/house_robber/srcs/my_answer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="16" column="8" selection-start-line="15" selection-end-line="27" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/my_answer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="638">
-                  <caret line="29" selection-start-line="29" selection-end-line="29" />
+                  <caret line="16" column="12" selection-start-line="15" selection-end-line="49" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py">
+            <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="444">
-                  <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+                <state relative-caret-position="-1437" />
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="83">
+                  <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#178#244#0" expanded="true" />
+                    <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_official_answer_with_divide_and_conquer.py">
+            <entry file="file://C:/Program Files (x86)/Python36-32/Lib/bisect.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="31" column="22" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#177#192#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="252">
+                  <caret line="21" selection-start-line="21" selection-end-line="21" />
                 </state>
               </provider>
             </entry>
@@ -327,13 +312,38 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_official_answer_with_divide_and_conquer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
+                <state relative-caret-position="363">
                   <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
                   <folding>
                     <element signature="e#177#192#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="63">
+                  <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#178#244#0" expanded="true" />
+                    <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="381">
+                  <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#179#194#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -379,11 +389,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a_iter.py" />
-        <option value="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/srcs/a.py" />
-        <option value="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests/test_a.py" />
-        <option value="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/srcs/a.py" />
-        <option value="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests/test_a.py" />
         <option value="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/test_my_answer.py" />
         <option value="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/tree/easy/range-sum-of-bst/srcs/my_answer.py" />
@@ -430,6 +435,11 @@
         <option value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_official_answer_with_divide_and_conquer.py" />
         <option value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py" />
+        <option value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/medium/number_of_islands_200/my_answer.py" />
       </list>
     </option>
   </component>
@@ -464,106 +474,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="divisor_game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="divisor_game" type="462c0819:PsiDirectoryNode" />
-              <item name="srcs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="house_robber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="house_robber" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_subarray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_subarray" type="462c0819:PsiDirectoryNode" />
-              <item name="srcs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_subarray" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="range_sum_query" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="range_sum_query" type="462c0819:PsiDirectoryNode" />
-              <item name="srcs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_partitioned_array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="max_sum_of_partitioned_array" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -577,15 +487,14 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="graph" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="reconstruct_itinerary" type="462c0819:PsiDirectoryNode" />
+              <item name="number_of_islands_200" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="graph" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="reconstruct_itinerary" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="surrounded_regions_130" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -647,11 +556,11 @@
       <recent name="D:\Python\pycharmWorkspace\leetcode\tests\easy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium\surrounded_regions_130" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\dp\easy\max_sum_of_subarray\tests" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\dp\easy\max_sum_of_subarray\srcs" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\dp\easy\house_robber\tests" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium\regions_cut_by_slashes\tests" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium\reconstruct_itinerary\tests" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -666,96 +575,103 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray">
-    <configuration name="Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Twisted Trial for test_my_answer.TestNumIslands">
+    <configuration name="my_answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for test_my_answer.TestNumIslands" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_my_answer.TestMaxSumOfPartitionedArray&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestNumIslands&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray.test_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_my_answer.TestMaxSumOfPartitionedArray.test_1&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestNumIslands.test_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_2" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestNumIslands.test_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray.test_2" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray.test_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestSwimInRisingPool&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray.test_1" />
-      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray" />
-      <item itemvalue="Python tests.Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray" />
-      <item itemvalue="Python tests.Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray.test_2" />
-      <item itemvalue="Python tests.Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSwimInRisingPool" />
+      <item itemvalue="Python.my_answer" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_1" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" />
-        <item itemvalue="Python tests.Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray.test_2" />
-        <item itemvalue="Python tests.Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray" />
-        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray" />
-        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray.test_1" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_2" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_1" />
+        <item itemvalue="Python.my_answer" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSwimInRisingPool" />
       </list>
     </recent_temporary>
   </component>
@@ -773,55 +689,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 09h 51m 25s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3 - 2019.10.06 at 22h 23m 24s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 09h 52m 20s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3 - 2019.10.06 at 22h 32m 07s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 09h 53m 18s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSwimInRisingPool - 2019.10.06 at 22h 35m 26s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 09h 56m 40s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 39m 09s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 09h 57m 38s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 41m 02s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 10h 10m 40s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands_test_1 - 2019.10.11 at 22h 48m 01s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_1" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 10h 10m 53s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands_test_2 - 2019.10.11 at 22h 48m 25s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 10h 18m 10s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands_test_2 - 2019.10.11 at 22h 51m 35s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 10h 21m 00s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 51m 39s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray - 2019.10.05 at 10h 25m 19s.xml">
-      <configuration name="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 51m 51s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19052745" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30247578" />
       <window_info id="Unicode Browser" order="1" weight="0.32992464" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.631324" visible="true" weight="0.08220721" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.861141" visible="true" weight="0.24324325" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994618" weight="0.2635135" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.368676" side_tool="true" visible="true" weight="0.08220721" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.13885899" side_tool="true" weight="0.14977477" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
@@ -905,11 +821,6 @@
           <line>23</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -949,58 +860,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/easy/sorted_array_to_bst/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1085">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-          <folding>
-            <marker date="1569903231540" expanded="true" signature="405:410" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/symmetric_tree/tests/test_a_iter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests/test_a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests/test_a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/symmetric_tree/srcs/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/easy/inverse_bt/tests/test_my_anwer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
@@ -1144,16 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="3632" column="8" selection-start-line="3632" selection-start-column="8" selection-end-line="3632" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests/test_offical_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-          <folding>
-            <element signature="e#178#193#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1311,7 +1160,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dp/easy/divisor_game/srcs/my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="418">
           <caret line="19" column="29" selection-start-line="15" selection-end-line="25" selection-end-column="32" />
         </state>
       </provider>
@@ -1336,8 +1185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_official_answer_with_divide_and_conquer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="363">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="e#177#192#0" expanded="true" />
           </folding>
@@ -1346,9 +1195,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+        <state relative-caret-position="-86">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/bisect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#178#244#0" expanded="true" />
+            <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+          <folding>
+            <element signature="e#1028#1041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="12" selection-start-line="15" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests/test_offical_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="8" selection-start-line="11" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/number_of_islands_200/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" column="33" lean-forward="true" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+          <folding>
+            <marker date="1570805619055" expanded="true" signature="1053:1066" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#179#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1437" />
       </provider>
     </entry>
   </component>
