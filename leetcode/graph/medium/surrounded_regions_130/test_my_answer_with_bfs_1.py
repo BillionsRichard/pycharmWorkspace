@@ -10,7 +10,7 @@
 @time: 2019/10/11 22:01 
 """
 import unittest
-from graph.medium.surrounded_regions_130.my_answer_with_bfs import Solution
+from graph.medium.surrounded_regions_130.my_answer_with_bfs_1 import Solution
 
 
 class TestSurroundedRegions(unittest.TestCase):
@@ -22,9 +22,9 @@ class TestSurroundedRegions(unittest.TestCase):
 
     def test_1(self):
         board = [['X', 'X', 'X', 'X'],
-                ['X', 'O', 'O', 'X'],
-                ['X', 'X', 'O', 'X'],
-                ['X', 'O', 'X', 'X']]
+                 ['X', 'O', 'O', 'X'],
+                 ['X', 'X', 'O', 'X'],
+                 ['X', 'O', 'X', 'X']]
 
         exp = [['X', 'X', 'X', 'X'],
                ['X', 'X', 'X', 'X'],
@@ -36,14 +36,14 @@ class TestSurroundedRegions(unittest.TestCase):
 
     def test_2(self):
         board = [['X', 'X', 'X', 'X'],
-                ['X', 'O', 'O', 'X'],
-                ['X', 'X', 'O', 'O'],
-                ['X', 'O', 'X', 'X']]
+                 ['X', 'O', 'O', 'X'],
+                 ['X', 'X', 'O', 'O'],
+                 ['X', 'O', 'X', 'X']]
 
         exp = [['X', 'X', 'X', 'X'],
-                ['X', 'O', 'O', 'X'],
-                ['X', 'X', 'O', 'O'],
-                ['X', 'O', 'X', 'X']]
+               ['X', 'O', 'O', 'X'],
+               ['X', 'X', 'O', 'O'],
+               ['X', 'O', 'X', 'X']]
         Solution().solve(board)
 
         self.assertEqual(board, exp)
@@ -80,3 +80,21 @@ class TestSurroundedRegions(unittest.TestCase):
 
         self.assertEqual(board, exp)
 
+    def test_4(self):
+        """
+
+        :return:
+        """
+        board = [["X", "X", "X"],
+                 ["X", "O", "X"],
+                 ["X", "X", "X"]]
+
+        exp = [["X", "X", "X"],
+               ["X", "X", "X"],
+               ["X", "X", "X"]]
+        Solution().solve(board)
+        from pprint import pprint as pp
+        print('board')
+        pp(board)
+
+        self.assertEqual(board, exp)
