@@ -10,7 +10,7 @@
 @time: 2019/10/11 22:01 
 """
 import unittest
-from graph.medium.surrounded_regions_130.my_answer_with_bfs import Solution
+from graph.medium.surrounded_regions_130.my_bad_answer_with_dfs import Solution
 
 
 class TestSurroundedRegions(unittest.TestCase):

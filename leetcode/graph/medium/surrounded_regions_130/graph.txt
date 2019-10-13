@@ -1,0 +1,14 @@
+X X X X X X X X
+X O O X X O O O
+X X O X X X O O
+X O X X X O X X
+
+DFS:
+从中间‘O’搜索：
+如果搜索到边界，则丢弃路径。
+否则记录搜索路径并标记。
+
+BFS：
+从所有中间O搜索
+
+

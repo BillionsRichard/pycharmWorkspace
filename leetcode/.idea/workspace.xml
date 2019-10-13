@@ -7,27 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc914e3-fd1c-4534-b88d-3bef8fad9283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dsu/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsu/easy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsu/hard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsu/medium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsu/medium/accounts_merge/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/number_of_islands_200/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/number_of_islands_200/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/graph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_bad_answer_with_dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_bad_answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hadoop-book" beforeDir="false" afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,24 +26,64 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxBtree.coverage" NAME="Twisted Trial for test_my_answer.TestMaxBtree Coverage Results" MODIFIED="1569927039459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/max_bt/tests" />
     <SUITE FILE_PATH="coverage/leetcode$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1568474816296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/least_bricks/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfParittionedArray.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfParittionedArray Coverage Results" MODIFIED="1570110100756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$answer_with_heapq.coverage" NAME="answer_with_heapq Coverage Results" MODIFIED="1568384072023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$q_with_brute_force.coverage" NAME="q_with_brute_force Coverage Results" MODIFIED="1568458860750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst.test_1 Coverage Results" MODIFIED="1569902481188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_4.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_4 Coverage Results" MODIFIED="1569987741626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$q_with_no_cache.coverage" NAME="q_with_no_cache Coverage Results" MODIFIED="1568452017327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_1 Coverage Results" MODIFIED="1570092921966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSurroundedRegions_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestSurroundedRegions.test_1 Coverage Results" MODIFIED="1570954626517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_4.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_4 Coverage Results" MODIFIED="1567928868106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_04.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_04 Coverage Results" MODIFIED="1567931653421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestInsertIntoBinaryTree.coverage" NAME="Twisted Trial for test_my_answer.TestInsertIntoBinaryTree Coverage Results" MODIFIED="1569932322259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/insert_into_bt/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_3.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_3 Coverage Results" MODIFIED="1567910926287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode.coverage" NAME="Twisted Trial for test_list.TestListNode Coverage Results" MODIFIED="1567937158956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_q_and_ordered_dict.coverage" NAME="a_with_q_and_ordered_dict Coverage Results" MODIFIED="1568353080401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSurroundedRegions.coverage" NAME="Twisted Trial for test_my_answer.TestSurroundedRegions Coverage Results" MODIFIED="1570954934182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary__1_.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary (1) Coverage Results" MODIFIED="1570094456217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray_test_2.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray.test_2 Coverage Results" MODIFIED="1570115410438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_3 Coverage Results" MODIFIED="1569986342863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST.test_1 Coverage Results" MODIFIED="1569913501513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray Coverage Results" MODIFIED="1570242470072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict_optimize.coverage" NAME="a_with_ordered_dict_optimize Coverage Results" MODIFIED="1568377783887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a.TestIsSymmetricTree Coverage Results" MODIFIED="1569137501816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands Coverage Results" MODIFIED="1570805510141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_a_py.coverage" NAME="Twisted Trial in test_a.py Coverage Results" MODIFIED="1569124066435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_answer_py.coverage" NAME="Twisted Trial in test_answer.py Coverage Results" MODIFIED="1567929255130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_my_answer_py.coverage" NAME="Twisted Trial in test_my_answer.py Coverage Results" MODIFIED="1570077299967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3 Coverage Results" MODIFIED="1570372326722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570238392458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570114397472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree_test_1.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree.test_1 Coverage Results" MODIFIED="1569920107968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree.coverage" NAME="Twisted Trial for test_my_answer.TestPreOrderBinaryTree Coverage Results" MODIFIED="1569929673430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/pre_order_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer_test_solution2.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer.test_solution2 Coverage Results" MODIFIED="1567320229317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/adding_two_nums" />
+    <SUITE FILE_PATH="coverage/leetcode$answer.coverage" NAME="answer Coverage Results" MODIFIED="1567910866029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST Coverage Results" MODIFIED="1569913507783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_0.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_0 Coverage Results" MODIFIED="1567929703660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$heapq.coverage" NAME="heapq Coverage Results" MODIFIED="1568379794256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/Python36-32/Lib" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst Coverage Results" MODIFIED="1569904637230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1567929125129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree Coverage Results" MODIFIED="1569920235052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_5.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_5 Coverage Results" MODIFIED="1567929281639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestLevelOrderTraverseTree.coverage" NAME="Twisted Trial for test_a.TestLevelOrderTraverseTree Coverage Results" MODIFIED="1569627892552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestFindItinerary.coverage" NAME="Twisted Trial for test_offical_answer.TestFindItinerary Coverage Results" MODIFIED="1570076249602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestAnaswer.coverage" NAME="Twisted Trial for test_answer.TestAnaswer Coverage Results" MODIFIED="1567937326230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees_test_2.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees.test_2 Coverage Results" MODIFIED="1569917840757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict.coverage" NAME="a_with_ordered_dict Coverage Results" MODIFIED="1568355276833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$q.coverage" NAME="q Coverage Results" MODIFIED="1568452860009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree.coverage" NAME="Twisted Trial for test_a.TestIsSameTree Coverage Results" MODIFIED="1569125394835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestAnaswer.coverage" NAME="Twisted Trial for test_a.TestAnaswer Coverage Results" MODIFIED="1567937078840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_3.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_3 Coverage Results" MODIFIED="1567928335457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestClimbingStairsWithMinCost.coverage" NAME="Twisted Trial for test_my_answer.TestClimbingStairsWithMinCost Coverage Results" MODIFIED="1570179055276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_01.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_01 Coverage Results" MODIFIED="1567929849534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570234265866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer Coverage Results" MODIFIED="1567937245457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray_test_1.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray.test_1 Coverage Results" MODIFIED="1570114447130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_6.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_6 Coverage Results" MODIFIED="1570024277761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$answer_with_heapq.coverage" NAME="answer_with_heapq Coverage Results" MODIFIED="1568384072023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$q_with_brute_force.coverage" NAME="q_with_brute_force Coverage Results" MODIFIED="1568458860750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst.test_1 Coverage Results" MODIFIED="1569902481188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$q_with_no_cache.coverage" NAME="q_with_no_cache Coverage Results" MODIFIED="1568452017327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_1 Coverage Results" MODIFIED="1570092921966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_3.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_3 Coverage Results" MODIFIED="1567910926287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree__1_.coverage" NAME="Twisted Trial for test_a.TestIsSameTree (1) Coverage Results" MODIFIED="1569137427957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands.test_1 Coverage Results" MODIFIED="1570805279764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree_test_1.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree.test_1 Coverage Results" MODIFIED="1569138772361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary__1_.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary (1) Coverage Results" MODIFIED="1570094456217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestDivisorGame.coverage" NAME="Twisted Trial for test_my_answer.TestDivisorGame Coverage Results" MODIFIED="1570158402196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/divisor_game/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray_test_2.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray.test_2 Coverage Results" MODIFIED="1570115410438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
     <SUITE FILE_PATH="coverage/leetcode$q_with_recursive_no_bfs.coverage" NAME="q_with_recursive_no_bfs Coverage Results" MODIFIED="1568459146501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer_test_solution1.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer.test_solution1 Coverage Results" MODIFIED="1567320099031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/adding_two_nums" />
     <SUITE FILE_PATH="coverage/leetcode$cnt_of_num.coverage" NAME="cnt_of_num Coverage Results" MODIFIED="1568065864313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/cnt_of_nums_not_contain_digit" />
@@ -64,70 +91,35 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfPartitionedArray_test_2.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray.test_2 Coverage Results" MODIFIED="1570239881592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindJudgeOfTheTow.coverage" NAME="Twisted Trial for test_my_answer.TestFindJudgeOfTheTow Coverage Results" MODIFIED="1569934039661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/easy/find_the_town_judge/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool Coverage Results" MODIFIED="1570372525102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_3 Coverage Results" MODIFIED="1569986342863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_2.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_2 Coverage Results" MODIFIED="1567910875957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree Coverage Results" MODIFIED="1569140722657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST.test_1 Coverage Results" MODIFIED="1569913501513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_TestIsSameTree.coverage" NAME="Twisted Trial for test_offical.TestIsSameTree Coverage Results" MODIFIED="1569125670276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands_test_2.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands.test_2 Coverage Results" MODIFIED="1570805493714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray Coverage Results" MODIFIED="1570242470072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$a0.coverage" NAME="a0 Coverage Results" MODIFIED="1568347995696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict_optimize.coverage" NAME="a_with_ordered_dict_optimize Coverage Results" MODIFIED="1568377783887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a.TestIsSymmetricTree Coverage Results" MODIFIED="1569137501816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestClimbingStairsWithMinCost__1_.coverage" NAME="Twisted Trial for test_my_answer.TestClimbingStairsWithMinCost (1) Coverage Results" MODIFIED="1570182084222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/house_robber/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands Coverage Results" MODIFIED="1570805510141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_a_py.coverage" NAME="Twisted Trial in test_a.py Coverage Results" MODIFIED="1569124066435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestDepthOfBinayTree.coverage" NAME="Twisted Trial for test_a.TestDepthOfBinayTree Coverage Results" MODIFIED="1569146109325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/depth_of_binary_tree/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_answer_py.coverage" NAME="Twisted Trial in test_answer.py Coverage Results" MODIFIED="1567929255130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_1.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_1 Coverage Results" MODIFIED="1567935297730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_my_answer_py.coverage" NAME="Twisted Trial in test_my_answer.py Coverage Results" MODIFIED="1570077299967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3 Coverage Results" MODIFIED="1570372326722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570238392458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr Coverage Results" MODIFIED="1567910957022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570114397472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree_test_1.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree.test_1 Coverage Results" MODIFIED="1569920107968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestPreOrderBinaryTree.coverage" NAME="Twisted Trial for test_my_answer.TestPreOrderBinaryTree Coverage Results" MODIFIED="1569929673430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/pre_order_bt/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer_test_solution2.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer.test_solution2 Coverage Results" MODIFIED="1567320229317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/adding_two_nums" />
-    <SUITE FILE_PATH="coverage/leetcode$answer.coverage" NAME="answer Coverage Results" MODIFIED="1567910866029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxLevelSum.coverage" NAME="Twisted Trial for test_my_answer.TestMaxLevelSum Coverage Results" MODIFIED="1569936055335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/max_level_sum_of_bt/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST Coverage Results" MODIFIED="1569913507783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree_test_1.coverage" NAME="Twisted Trial for test_a.TestIsSameTree.test_1 Coverage Results" MODIFIED="1569123836653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_0.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_0 Coverage Results" MODIFIED="1567929703660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$heapq.coverage" NAME="heapq Coverage Results" MODIFIED="1568379794256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/Python36-32/Lib" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst Coverage Results" MODIFIED="1569904637230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_5.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_5 Coverage Results" MODIFIED="1569988210384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1567929125129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$a.coverage" NAME="a Coverage Results" MODIFIED="1568386221628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy/find_learned_words_len/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestPreorderNaryTree.coverage" NAME="Twisted Trial for test_my_answer.TestPreorderNaryTree Coverage Results" MODIFIED="1569922034228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestClimbingStairsWithMinCost_test_0.coverage" NAME="Twisted Trial for test_my_answer.TestClimbingStairsWithMinCost.test_0 Coverage Results" MODIFIED="1570181995756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/house_robber/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestClibmingStairs.coverage" NAME="Twisted Trial for test_my_answer.TestClibmingStairs Coverage Results" MODIFIED="1570175224096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/climbing_stairs/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree Coverage Results" MODIFIED="1569920235052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_5.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_5 Coverage Results" MODIFIED="1567929281639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestLevelOrderTraverseTree.coverage" NAME="Twisted Trial for test_a.TestLevelOrderTraverseTree Coverage Results" MODIFIED="1569627892552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/b_tree_level_order_traverse/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode_test_list1.coverage" NAME="Twisted Trial for test_list.TestListNode.test_list1 Coverage Results" MODIFIED="1567312270483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/adding_two_nums" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_11.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_11 Coverage Results" MODIFIED="1567933336288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome Coverage Results" MODIFIED="1567936141781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestFindItinerary.coverage" NAME="Twisted Trial for test_offical_answer.TestFindItinerary Coverage Results" MODIFIED="1570076249602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands_test_1__1_.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands.test_1 (1) Coverage Results" MODIFIED="1570933386157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode_test_box_into_list1.coverage" NAME="Twisted Trial for test_list.TestListNode.test_box_into_list1 Coverage Results" MODIFIED="1567314557042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/adding_two_nums" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestAnaswer.coverage" NAME="Twisted Trial for test_answer.TestAnaswer Coverage Results" MODIFIED="1567937326230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees_test_2.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees.test_2 Coverage Results" MODIFIED="1569917840757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxSumOfPartitionedArray_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray.test_1 Coverage Results" MODIFIED="1570234190549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$my_answer.coverage" NAME="my_answer Coverage Results" MODIFIED="1570462034248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict.coverage" NAME="a_with_ordered_dict Coverage Results" MODIFIED="1568355276833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSurroundedRegions_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestSurroundedRegions.test_3 Coverage Results" MODIFIED="1570954204542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_q.coverage" NAME="a_with_q Coverage Results" MODIFIED="1568377709768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees Coverage Results" MODIFIED="1569918121969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$q.coverage" NAME="q Coverage Results" MODIFIED="1568452860009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree.coverage" NAME="Twisted Trial for test_a.TestIsSameTree Coverage Results" MODIFIED="1569125394835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands__1_.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands (1) Coverage Results" MODIFIED="1570933619698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$heap_demo01.coverage" NAME="heap_demo01 Coverage Results" MODIFIED="1568383150065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reivew/data_structure/heap" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestAnaswer.coverage" NAME="Twisted Trial for test_a.TestAnaswer Coverage Results" MODIFIED="1567937078840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_3.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_3 Coverage Results" MODIFIED="1567928335457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestClimbingStairsWithMinCost.coverage" NAME="Twisted Trial for test_my_answer.TestClimbingStairsWithMinCost Coverage Results" MODIFIED="1570179055276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_01.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_01 Coverage Results" MODIFIED="1567929849534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree_test_2.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree.test_2 Coverage Results" MODIFIED="1569139084295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_my_answer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570234265866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer1_TestAnaswer.coverage" NAME="Twisted Trial for test_answer1.TestAnaswer Coverage Results" MODIFIED="1567937245457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray_test_1.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray.test_1 Coverage Results" MODIFIED="1570114447130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_6.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_6 Coverage Results" MODIFIED="1570024277761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1904280748">
@@ -146,105 +138,64 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="log" value="1" />
-          <entry key="py" value="195" />
+          <entry key="py" value="204" />
           <entry key="symlink" value="1" />
-          <entry key="txt" value="10" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="195" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="32" />
-          <entry key="py" value="40565" />
-          <entry key="txt" value="1096" />
+          <entry key="dummy" value="45" />
+          <entry key="py" value="45117" />
+          <entry key="txt" value="1188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1128" />
-          <entry key="Python" value="40564" />
+          <entry key="PLAIN_TEXT" value="1233" />
+          <entry key="Python" value="45116" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5711436">
+    <splitter split-orientation="horizontal" split-proportion="0.62970936">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/range_sum_query/srcs/my_answer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="129">
-                  <caret line="19" column="16" selection-start-line="19" selection-end-line="20" selection-end-column="28" />
-                  <folding>
-                    <marker date="1570174016005" expanded="true" signature="232:542" ph="..." />
-                    <marker date="1570174016005" expanded="true" signature="340:506" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-86">
-                  <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="560">
-                  <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
-                  <folding>
-                    <element signature="e#1028#1041#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="16" column="12" selection-start-line="15" selection-end-line="49" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py">
+            <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1437" />
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="83">
-                  <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-                  <folding>
-                    <element signature="e#178#244#0" expanded="true" />
-                    <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
-                  </folding>
+                <state relative-caret-position="429">
+                  <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://C:/Program Files (x86)/Python36-32/Lib/bisect.py">
+            <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_bad_answer_with_dfs.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="21" selection-start-line="21" selection-end-line="21" />
+                <state relative-caret-position="-1287">
+                  <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1496">
+                  <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
+                  <folding>
+                    <element signature="e#179#194#0" expanded="true" />
+                    <marker date="1570954934120" expanded="true" signature="1208:1213" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -337,13 +288,35 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="381">
+                <state relative-caret-position="383">
                   <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
                   <folding>
                     <element signature="e#179#194#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/graph.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="99">
+                  <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="364">
+                  <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
+                  <folding>
+                    <element signature="e#179#194#0" expanded="true" />
+                    <marker date="1570954934120" expanded="true" signature="1208:1213" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -374,6 +347,7 @@
       <find>pp</find>
       <find>True</find>
       <find>[1, 15, 7, 9, 2, 5, 10]</find>
+      <find>['11110', '11010', '11000', '00000']</find>
     </findStrings>
     <replaceStrings>
       <replace>head.get_list_value()</replace>
@@ -389,12 +363,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests/test_my_answer.py" />
-        <option value="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/srcs/my_answer.py" />
-        <option value="$PROJECT_DIR$/tree/easy/range-sum-of-bst/srcs/my_answer.py" />
-        <option value="$PROJECT_DIR$/tree/easy/range-sum-of-bst/tests/test_my_answer.py" />
-        <option value="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests/test_my_answer.py" />
-        <option value="$PROJECT_DIR$/tree/easy/range_sum_of_bst/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/tree/easy/merge_bt/tests/test_my_answer.py" />
         <option value="$PROJECT_DIR$/tree/easy/merge_bt/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/tree/easy/inverse_bt/srcs/my_answer.py" />
@@ -440,6 +408,12 @@
         <option value="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py" />
         <option value="$PROJECT_DIR$/graph/medium/number_of_islands_200/my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/graph.txt" />
+        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_bad_answer.py" />
+        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_bad_answer_with_dfs.py" />
+        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs.py" />
       </list>
     </option>
   </component>
@@ -450,10 +424,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="903" />
-    <option name="y" value="32" />
-    <option name="width" value="1934" />
-    <option name="height" value="880" />
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1295" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -481,13 +455,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="graph" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="number_of_islands_200" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -575,35 +542,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Twisted Trial for test_my_answer.TestNumIslands">
-    <configuration name="my_answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Twisted Trial for test_my_answer.TestSurroundedRegions">
     <configuration name="Twisted Trial for test_my_answer.TestNumIslands" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -618,7 +563,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -628,50 +573,65 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_2" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_my_answer.TestNumIslands.test_2&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestSurroundedRegions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions.test_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_my_answer.TestSwimInRisingPool&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestSurroundedRegions.test_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions.test_3" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_answer.TestSurroundedRegions.test_3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSwimInRisingPool" />
-      <item itemvalue="Python.my_answer" />
-      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands" />
-      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_1" />
-      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_2" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands (1)" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_1 (1)" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSurroundedRegions" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSurroundedRegions.test_1" />
+      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSurroundedRegions.test_3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands" />
-        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_2" />
-        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_1" />
-        <item itemvalue="Python.my_answer" />
-        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSwimInRisingPool" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSurroundedRegions" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSurroundedRegions.test_1" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestSurroundedRegions.test_3" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands (1)" />
+        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestNumIslands.test_1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -689,55 +649,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3 - 2019.10.06 at 22h 23m 24s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions_test_3 - 2019.10.13 at 16h 10m 49s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions.test_3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3 - 2019.10.06 at 22h 32m 07s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions - 2019.10.13 at 16h 11m 01s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestSwimInRisingPool - 2019.10.06 at 22h 35m 26s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestSwimInRisingPool" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions - 2019.10.13 at 16h 12m 56s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 39m 09s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions - 2019.10.13 at 16h 15m 23s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 41m 02s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions_test_1 - 2019.10.13 at 16h 16m 52s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions.test_1" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands_test_1 - 2019.10.11 at 22h 48m 01s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_1" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions_test_1 - 2019.10.13 at 16h 17m 39s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions.test_1" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands_test_2 - 2019.10.11 at 22h 48m 25s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_2" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions - 2019.10.13 at 16h 17m 54s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands_test_2 - 2019.10.11 at 22h 51m 35s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestNumIslands.test_2" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions - 2019.10.13 at 16h 20m 02s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 51m 39s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions - 2019.10.13 at 16h 21m 33s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestNumIslands - 2019.10.11 at 22h 51m 51s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestNumIslands" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_my_answer_TestSurroundedRegions - 2019.10.13 at 16h 22m 15s.xml">
+      <configuration name="Twisted Trial for test_my_answer.TestSurroundedRegions" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30247578" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06781486" />
       <window_info id="Unicode Browser" order="1" weight="0.32992464" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.861141" visible="true" weight="0.24324325" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994618" weight="0.2635135" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.23085585" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.861141" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892357" weight="0.34346846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.13885899" side_tool="true" weight="0.14977477" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010764" side_tool="true" weight="0.4391892" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
@@ -821,6 +781,11 @@
           <line>23</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -834,6 +799,13 @@
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>x,y == 1,2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="watch">
       <expression>
         <expression-string>t2.val</expression-string>
@@ -860,37 +832,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/easy/inverse_bt/tests/test_my_anwer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="68" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
-          <folding>
-            <element signature="e#178#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/range_sum_of_bst/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/easy/merge_bt/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1892">
-          <caret line="86" column="18" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="18" />
-          <folding>
-            <marker date="1569918368482" expanded="true" signature="974:975" ph="..." />
-            <marker date="1569918368482" expanded="true" signature="974:983" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/medium/max_bt/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/easy/pre_order_n_ary_tree/tests/test_my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -979,6 +920,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+          <folding>
+            <element signature="e#178#209#0" expanded="true" />
+            <marker date="1569936141963" expanded="true" signature="405:410" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1070,13 +1015,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="823" column="8" selection-start-line="823" selection-start-column="8" selection-end-line="823" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dp/easy/climbing_stairs/tests/test_my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -1165,17 +1103,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/range_sum_query/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="19" column="16" selection-start-line="19" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <marker date="1570174016005" expanded="true" signature="232:542" ph="..." />
-            <marker date="1570174016005" expanded="true" signature="340:506" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dp/easy/house_robber/tests/test_my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -1193,45 +1120,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program Files (x86)/Python36-32/Lib/bisect.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="e#178#244#0" expanded="true" />
-            <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
-          <folding>
-            <element signature="e#1028#1041#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="12" selection-start-line="15" selection-end-line="49" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1252,9 +1144,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#178#244#0" expanded="true" />
+            <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="12" selection-start-line="15" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+          <folding>
+            <element signature="e#1028#1041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
+        <state relative-caret-position="383">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="e#179#194#0" expanded="true" />
@@ -1262,9 +1189,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer.py">
+    <entry file="file://$PROJECT_DIR$/dp/easy/range_sum_query/srcs/my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1437" />
+        <state relative-caret-position="320">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <marker date="1570174016005" expanded="true" signature="232:542" ph="..." />
+            <marker date="1570174016005" expanded="true" signature="340:506" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_bad_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="e#179#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_bad_answer_with_dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1287">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
+          <folding>
+            <element signature="e#179#194#0" expanded="true" />
+            <marker date="1570954934120" expanded="true" signature="1208:1213" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+        </state>
       </provider>
     </entry>
   </component>
