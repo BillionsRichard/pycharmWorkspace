@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc914e3-fd1c-4534-b88d-3bef8fad9283" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/hard/dungeon_game_174/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hadoop-book" beforeDir="false" afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +163,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="117" />
-          <entry key="py" value="52970" />
+          <entry key="py" value="53080" />
           <entry key="txt" value="1349" />
           <entry key="wrong_ans" value="6" />
         </counts>
@@ -174,7 +171,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1472" />
-          <entry key="Python" value="52969" />
+          <entry key="Python" value="53079" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -218,8 +215,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="487">
-                  <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+                <state relative-caret-position="531">
+                  <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -1191,8 +1188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="531">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
         </state>
       </provider>
     </entry>

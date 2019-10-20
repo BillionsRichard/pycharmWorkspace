@@ -28,7 +28,16 @@ class Solution:
             cur_x,cur_y = queue.pop()
             cur_h = h[cur_x][cur_y]
 
+            # 计算上一格最低的 h 值
             up_x,up_y = cur_x-1, cur_y
+
+            h_up_right_cons, h_down_cons = 1, 1
             if up_y < n-1:# has right
                 h_up_right = h[up_x][up_y+1]
-                h_up_right_min = 
+                h_up_right_cons = max(h_up_right - d[up_x][up_y], 1)
+
+            if up_x < m-1:# has down
+                h_down = h[up_x+1][up_y]
+                h_down_cons = max(1, h_down - d[up_x][up_y])
+            
+            # 计算左一格最低的 h 值
