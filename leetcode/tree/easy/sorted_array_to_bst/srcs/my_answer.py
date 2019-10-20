@@ -24,7 +24,7 @@ class Solution:
     """有序数组转换成平衡二叉搜索树。采用二分查找递归创建左右子树的思路。
     和官方题解一直：
 
-    https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
+    https://leetcode-cn.com/problems/convert-sorted-num_array-to-binary-search-tree/
     """
 
     def sortedArrayToBST(self, nums: list) -> TreeNode:

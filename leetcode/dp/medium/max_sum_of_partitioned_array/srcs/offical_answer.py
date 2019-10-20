@@ -12,7 +12,7 @@
 from pprint import pprint as pp
 
 """
-题解：https://leetcode-cn.com/problems/partition-array-for-maximum-sum/comments/
+题解：https://leetcode-cn.com/problems/partition-num_array-for-maximum-sum/comments/
 
 对于数组求 最大  最小问题 一般为 动态规划问题
 
