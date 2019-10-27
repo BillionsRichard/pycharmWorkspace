@@ -1,15 +1,6 @@
 # encoding: utf-8  
 
-""" 
-@version: v1.0 
-@author: Richard
-@license: Apache Licence  
-@contact: billions.richard@qq.com 
-@site:  
-@software: PyCharm 
-@time: 2019/10/6 21:50 
-"""
-from graph.hard.swim_in_rising_pool.srcs.my_answer import Solution
+from graph.hard.swim_in_rising_pool.srcs.my_answer_1 import Solution
 import unittest
 
 

@@ -39,5 +39,5 @@ class Solution:
             if up_x < m-1:# has down
                 h_down = h[up_x+1][up_y]
                 h_down_cons = max(1, h_down - d[up_x][up_y])
-            
+
             # 计算左一格最低的 h 值

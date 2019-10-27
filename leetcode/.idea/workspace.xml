@@ -7,8 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc914e3-fd1c-4534-b88d-3bef8fad9283" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/graph/hard/bus_routes_815/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/bus_routes_815/bus_routes_815.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/bus_routes_815/bus_routes_815_wa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/bus_routes_815/test_bus_routes_815.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/bus_routes_815/test_bus_routes_815_wa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_handle/medium/phone_num_comb_17/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_handle/medium/phone_num_comb_17/phone_num_comb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_handle/medium/phone_num_comb_17/test_phone_num_comb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_handle/medium/restore_ip_93/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_handle/medium/restore_ip_93/restore_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_handle/medium/restore_ip_93/test_restore_ip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hadoop-book" beforeDir="false" afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +55,8 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_with_bfs_1_TestSurroundedRegions_test_4.coverage" NAME="Twisted Trial for test_my_answer_with_bfs_1.TestSurroundedRegions.test_4 Coverage Results" MODIFIED="1570958320386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_answer_py.coverage" NAME="Twisted Trial in test_answer.py Coverage Results" MODIFIED="1567929255130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_in_test_my_answer_py.coverage" NAME="Twisted Trial in test_my_answer.py Coverage Results" MODIFIED="1570077299967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3 Coverage Results" MODIFIED="1570372326722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_phone_num_comb_TestPhoneNumCom_test_1.coverage" NAME="Twisted Trial for test_phone_num_comb.TestPhoneNumCom.test_1 Coverage Results" MODIFIED="1572159757222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_handle/medium/phone_num_comb" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool.test_3 Coverage Results" MODIFIED="1572001296840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570238392458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray Coverage Results" MODIFIED="1570114397472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree_test_1.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree.test_1 Coverage Results" MODIFIED="1569920107968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
@@ -57,6 +72,7 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst Coverage Results" MODIFIED="1569904637230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_compare_versions_TestVersionCompare.coverage" NAME="Twisted Trial for test_compare_versions.TestVersionCompare Coverage Results" MODIFIED="1571496380580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_handle/medium/compare_versions" />
     <SUITE FILE_PATH="coverage/leetcode$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1567929125129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/longestPalindrome" />
+    <SUITE FILE_PATH="coverage/leetcode$bus_routes_815__1_.coverage" NAME="bus_routes_815 (1) Coverage Results" MODIFIED="1572189874879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/bus_routes_815" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_anwer_TestInverseBinaryTree.coverage" NAME="Twisted Trial for test_my_anwer.TestInverseBinaryTree Coverage Results" MODIFIED="1569920235052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/inverse_bt/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_bsearch_TestMyBsearch.coverage" NAME="Twisted Trial for test_my_bsearch.TestMyBsearch Coverage Results" MODIFIED="1571537417369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/num_array/medium/three_sum_15" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_5.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_5 Coverage Results" MODIFIED="1567929281639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
@@ -69,6 +85,7 @@
     <SUITE FILE_PATH="coverage/leetcode$q.coverage" NAME="q Coverage Results" MODIFIED="1568452860009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree.coverage" NAME="Twisted Trial for test_a.TestIsSameTree Coverage Results" MODIFIED="1569125394835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestAnaswer.coverage" NAME="Twisted Trial for test_a.TestAnaswer Coverage Results" MODIFIED="1567937078840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_bus_routes_815_TestBusRoutes.coverage" NAME="Twisted Trial for test_bus_routes_815.TestBusRoutes Coverage Results" MODIFIED="1572190238672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/bus_routes_815" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_3.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_3 Coverage Results" MODIFIED="1567928335457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestClimbingStairsWithMinCost.coverage" NAME="Twisted Trial for test_my_answer.TestClimbingStairsWithMinCost Coverage Results" MODIFIED="1570179055276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestSolutionLongestPalindrome_test_case_01.coverage" NAME="Twisted Trial for test_answer.TestSolutionLongestPalindrome.test_case_01 Coverage Results" MODIFIED="1567929849534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/medium/longestPalindrome" />
@@ -81,12 +98,15 @@
     <SUITE FILE_PATH="coverage/leetcode$answer_with_heapq.coverage" NAME="answer_with_heapq Coverage Results" MODIFIED="1568384072023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$q_with_brute_force.coverage" NAME="q_with_brute_force Coverage Results" MODIFIED="1568458860750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSortedArrayToBst_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestSortedArrayToBst.test_1 Coverage Results" MODIFIED="1569902481188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/sorted_array_to_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_phone_num_comb_TestPhoneNumCom.coverage" NAME="Twisted Trial for test_phone_num_comb.TestPhoneNumCom Coverage Results" MODIFIED="1572160123879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_handle/medium/phone_num_comb" />
     <SUITE FILE_PATH="coverage/leetcode$q_with_no_cache.coverage" NAME="q_with_no_cache Coverage Results" MODIFIED="1568452017327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_1 Coverage Results" MODIFIED="1570092921966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$bus_routes_815.coverage" NAME="bus_routes_815 Coverage Results" MODIFIED="1572162502723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/bus_routes_815" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_3.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_3 Coverage Results" MODIFIED="1567910926287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree__1_.coverage" NAME="Twisted Trial for test_a.TestIsSameTree (1) Coverage Results" MODIFIED="1569137427957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_with_bfs_1_TestSurroundedRegions.coverage" NAME="Twisted Trial for test_my_answer_with_bfs_1.TestSurroundedRegions Coverage Results" MODIFIED="1570958510832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands.test_1 Coverage Results" MODIFIED="1570805279764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/number_of_islands_200" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_bus_routes_815_TestBusRoutes_test_3.coverage" NAME="Twisted Trial for test_bus_routes_815.TestBusRoutes.test_3 Coverage Results" MODIFIED="1572163194151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/bus_routes_815" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree_test_1.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree.test_1 Coverage Results" MODIFIED="1569138772361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestDivisorGame.coverage" NAME="Twisted Trial for test_my_answer.TestDivisorGame Coverage Results" MODIFIED="1570158402196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/divisor_game/tests" />
     <SUITE FILE_PATH="coverage/leetcode$q_with_recursive_no_bfs.coverage" NAME="q_with_recursive_no_bfs Coverage Results" MODIFIED="1568459146501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
@@ -95,7 +115,7 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary Coverage Results" MODIFIED="1570174016066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/range_sum_query/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfPartitionedArray_test_2.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfPartitionedArray.test_2 Coverage Results" MODIFIED="1570239881592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindJudgeOfTheTow.coverage" NAME="Twisted Trial for test_my_answer.TestFindJudgeOfTheTow Coverage Results" MODIFIED="1569934039661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/easy/find_the_town_judge/tests" />
-    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool Coverage Results" MODIFIED="1570372525102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSwimInRisingPool.coverage" NAME="Twisted Trial for test_my_answer.TestSwimInRisingPool Coverage Results" MODIFIED="1572001310801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_2.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_2 Coverage Results" MODIFIED="1567910875957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree Coverage Results" MODIFIED="1569140722657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_TestIsSameTree.coverage" NAME="Twisted Trial for test_offical.TestIsSameTree Coverage Results" MODIFIED="1569125670276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
@@ -125,6 +145,7 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSurroundedRegions_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestSurroundedRegions.test_3 Coverage Results" MODIFIED="1570954204542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_q.coverage" NAME="a_with_q Coverage Results" MODIFIED="1568377709768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMergeTrees.coverage" NAME="Twisted Trial for test_my_answer.TestMergeTrees Coverage Results" MODIFIED="1569918121969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/merge_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_restore_ip_TestRestoreIP.coverage" NAME="Twisted Trial for test_restore_ip.TestRestoreIP Coverage Results" MODIFIED="1572151586363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_handle/medium/restore_ip_93" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands__1_.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands (1) Coverage Results" MODIFIED="1570933619698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$heap_demo01.coverage" NAME="heap_demo01 Coverage Results" MODIFIED="1568383150065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reivew/data_structure/heap" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_OA_01_TestThreeSum.coverage" NAME="Twisted Trial for test_OA_01.TestThreeSum Coverage Results" MODIFIED="1571555198316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/num_array/medium/three_sum_15" />
@@ -134,21 +155,22 @@
     <session id="-1904280748">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="log" value="1" />
-          <entry key="py" value="248" />
+          <entry key="py" value="263" />
           <entry key="symlink" value="2" />
           <entry key="txt" value="13" />
           <entry key="wrong_ans" value="2" />
@@ -157,39 +179,30 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="248" />
+          <entry key="Python" value="263" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="117" />
-          <entry key="py" value="53080" />
+          <entry key="dummy" value="120" />
+          <entry key="py" value="57850" />
           <entry key="txt" value="1349" />
           <entry key="wrong_ans" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1472" />
-          <entry key="Python" value="53079" />
+          <entry key="PLAIN_TEXT" value="1475" />
+          <entry key="Python" value="57849" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57642627">
+    <splitter split-orientation="horizontal" split-proportion="0.5871905">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/compare_version.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1650">
-                  <caret line="75" column="27" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/test_compare_versions.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -204,30 +217,72 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/string_handle/medium/word_break_139/word_break_OA_with_dp.py">
+            <entry file="file://$PROJECT_DIR$/string_handle/medium/restore_ip_93/restore_ip.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-60">
-                  <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+                <state relative-caret-position="379">
+                  <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#943#1982#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py">
+            <entry file="file://$PROJECT_DIR$/graph/hard/bus_routes_815/bus_routes_815.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="531">
-                  <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+                <state relative-caret-position="509">
+                  <caret line="93" column="44" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
+                  <folding>
+                    <marker date="1572190228606" expanded="true" signature="1176:1327" ph="..." />
+                    <marker date="1572190228606" expanded="true" signature="1655:1672" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_OA_01.py">
+            <entry file="file://$PROJECT_DIR$/string_handle/medium/phone_num_comb_17/test_phone_num_comb.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="139898">
-                  <caret line="43" column="11" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="11" />
+                <state relative-caret-position="374">
+                  <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
                   <folding>
-                    <element signature="e#179#194#0" expanded="true" />
+                    <element signature="e#179#210#0" expanded="true" />
+                    <marker date="1572160291163" expanded="true" signature="344:349" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/builtins.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="224">
+                  <caret line="3754" column="6" selection-start-line="3754" selection-start-column="6" selection-end-line="3754" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/string_handle/medium/restore_ip_93/test_restore_ip.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="924">
+                  <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+                  <folding>
+                    <element signature="e#179#210#0" expanded="true" />
+                    <marker date="1572151166037" expanded="true" signature="334:339" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="748">
+                  <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+                  <folding>
+                    <element signature="e#179#237#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -240,11 +295,10 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="462">
-                  <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+                <state relative-caret-position="264">
+                  <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
                   <folding>
-                    <element signature="e#178#244#0" expanded="true" />
-                    <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
+                    <marker date="1572001026324" expanded="true" signature="154:159" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -253,7 +307,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="403">
+                <state relative-caret-position="902">
                   <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
                 </state>
               </provider>
@@ -262,20 +316,33 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/utils/bsearch/bisearch.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
+                <state relative-caret-position="308">
                   <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="443">
+                <state relative-caret-position="536">
                   <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
                   <folding>
                     <element signature="e#179#237#0" expanded="true" />
-                    <marker date="1571561361309" expanded="true" signature="299:727" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/graph/hard/bus_routes_815/test_bus_routes_815.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="356">
+                  <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#179#210#0" expanded="true" />
+                    <marker date="1572189256629" expanded="true" signature="331:336" ph="..." />
+                    <marker date="1572189256629" expanded="true" signature="879:888" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -293,7 +360,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_OA_01.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="62">
+                <state relative-caret-position="770">
                   <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
                   <folding>
                     <element signature="e#179#194#0" expanded="true" />
@@ -328,6 +395,7 @@
       <find>True</find>
       <find>[1, 15, 7, 9, 2, 5, 10]</find>
       <find>['11110', '11010', '11000', '00000']</find>
+      <find>bus_num</find>
     </findStrings>
     <replaceStrings>
       <replace>head.get_list_value()</replace>
@@ -343,18 +411,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dp/easy/range_sum_query/srcs/my_answer.py" />
-        <option value="$PROJECT_DIR$/dp/easy/climbing_stairs/srcs/my_answer.py" />
-        <option value="$PROJECT_DIR$/dp/easy/climbing_stairs/tests/test_my_answer.py" />
-        <option value="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/tests/test_my_answer.py" />
-        <option value="$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/srcs/my_answer.py" />
-        <option value="$PROJECT_DIR$/dp/easy/house_robber/tests/test_my_answer.py" />
-        <option value="$PROJECT_DIR$/dp/easy/house_robber/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_my_answer.py" />
         <option value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests/test_official_answer_with_divide_and_conquer.py" />
         <option value="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/offical_answer_with_divide_and_conquer.py" />
-        <option value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py" />
         <option value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/dsu/medium/accounts_merge/srcs/my_answer.py" />
         <option value="$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py" />
@@ -394,6 +454,14 @@
         <option value="$PROJECT_DIR$/string_handle/medium/word_break_139/test_my_answer.py" />
         <option value="$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py" />
         <option value="$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py" />
+        <option value="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer_1.py" />
+        <option value="$PROJECT_DIR$/string_handle/medium/restore_ip_93/test_restore_ip.py" />
+        <option value="$PROJECT_DIR$/string_handle/medium/restore_ip_93/restore_ip.py" />
+        <option value="$PROJECT_DIR$/string_handle/medium/phone_num_comb/test_phone_num_comb.py" />
+        <option value="$PROJECT_DIR$/string_handle/medium/phone_num_comb/phone_num_comb.py" />
+        <option value="$PROJECT_DIR$/graph/hard/bus_routes_815/test_bus_routes_815.py" />
+        <option value="$PROJECT_DIR$/graph/hard/bus_routes_815/bus_routes_815.py" />
       </list>
     </option>
   </component>
@@ -404,10 +472,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
-    <option name="width" value="1295" />
-    <option name="height" value="735" />
+    <option name="x" value="549" />
+    <option name="y" value="41" />
+    <option name="width" value="1940" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -418,8 +486,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -443,16 +509,40 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="graph" type="462c0819:PsiDirectoryNode" />
               <item name="hard" type="462c0819:PsiDirectoryNode" />
-              <item name="dungeon_game_174" type="462c0819:PsiDirectoryNode" />
+              <item name="bus_routes_815" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="string_handle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="string_handle" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="1402888915" type="70582d5e:PySkeletonsNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,22 +550,22 @@
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/Python/Python36/Scripts/flake8.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python\pycharmWorkspace\leetcode\num_array\medium\three_sum_15" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\array\medium\three_sum_15" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium\surrounded_regions_130" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\dp\easy\max_sum_of_subarray\tests" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\dp\easy\max_sum_of_subarray\srcs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\adding_two_nums\tests" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\adding_two_nums\srcs" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\easy\two_num_sum\srcs" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\tests\easy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\pycharmWorkspace\leetcode\graph\hard\bus_routes_815" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\graph\hard\swim_in_rising_pool\srcs" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\num_array\medium\three_sum_15" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\array\medium\three_sum_15" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium\surrounded_regions_130" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -490,96 +580,110 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Twisted Trial for test_my_answer.TestWordBreak">
-    <configuration name="Twisted Trial for num_array.medium.three_sum_15.test_OA_01.TestThreeSum" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Twisted Trial for test_bus_routes_815.TestBusRoutes">
+    <configuration name="bus_routes_815 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/hard/bus_routes_815" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph/hard/bus_routes_815/bus_routes_815.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bus_routes_815" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/hard/bus_routes_815" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\pycharmWorkspace\leetcode\graph\hard\bus_routes_815\bus_routes_815_wa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for string_handle.medium.phone_num_comb_17.test_phone_num_comb.TestPhoneNumCom" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/num_array/medium/three_sum_15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_handle/medium/phone_num_comb_17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;num_array.medium.three_sum_15.test_OA_01.TestThreeSum&quot;" />
+      <option name="_new_target" value="&quot;string_handle.medium.phone_num_comb_17.test_phone_num_comb.TestPhoneNumCom&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_OA_01.TestThreeSum" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/num_array/medium/three_sum_15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/hard/bus_routes_815" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_OA_01.TestThreeSum&quot;" />
+      <option name="_new_target" value="&quot;test_bus_routes_815.TestBusRoutes&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_my_answer.TestWordBreak" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes.test_3" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_handle/medium/word_break_139" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/hard/bus_routes_815" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_my_answer.TestWordBreak&quot;" />
+      <option name="_new_target" value="&quot;test_bus_routes_815.TestBusRoutes.test_3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Twisted Trial in test_OA_01.py" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/num_array/medium/three_sum_15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/num_array/medium/three_sum_15/test_OA_01.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Twisted Trial in test_three_sum_my_TA.py" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/num_array/medium/three_sum_15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/num_array/medium/three_sum_15/test_three_sum_my_TA.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Twisted Trial for num_array.medium.three_sum_15.test_OA_01.TestThreeSum" />
-      <item itemvalue="Python tests.Twisted Trial in test_three_sum_my_TA.py" />
-      <item itemvalue="Python tests.Twisted Trial in test_OA_01.py" />
-      <item itemvalue="Python tests.Twisted Trial for test_OA_01.TestThreeSum" />
-      <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestWordBreak" />
+      <item itemvalue="Python tests.Twisted Trial for string_handle.medium.phone_num_comb_17.test_phone_num_comb.TestPhoneNumCom" />
+      <item itemvalue="Python.bus_routes_815" />
+      <item itemvalue="Python tests.Twisted Trial for test_bus_routes_815.TestBusRoutes" />
+      <item itemvalue="Python tests.Twisted Trial for test_bus_routes_815.TestBusRoutes.test_3" />
+      <item itemvalue="Python.bus_routes_815 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Twisted Trial for test_my_answer.TestWordBreak" />
-        <item itemvalue="Python tests.Twisted Trial in test_three_sum_my_TA.py" />
-        <item itemvalue="Python tests.Twisted Trial for test_OA_01.TestThreeSum" />
-        <item itemvalue="Python tests.Twisted Trial in test_OA_01.py" />
-        <item itemvalue="Python tests.Twisted Trial for num_array.medium.three_sum_15.test_OA_01.TestThreeSum" />
+        <item itemvalue="Python tests.Twisted Trial for test_bus_routes_815.TestBusRoutes" />
+        <item itemvalue="Python.bus_routes_815 (1)" />
+        <item itemvalue="Python tests.Twisted Trial for test_bus_routes_815.TestBusRoutes.test_3" />
+        <item itemvalue="Python.bus_routes_815" />
+        <item itemvalue="Python tests.Twisted Trial for string_handle.medium.phone_num_comb_17.test_phone_num_comb.TestPhoneNumCom" />
       </list>
     </recent_temporary>
   </component>
@@ -597,55 +701,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Twisted_Trial_in_test_three_sum_0_py - 2019.10.20 at 12h 49m 09s.xml">
-      <configuration name="Twisted Trial in test_three_sum_0.py" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes_test_3 - 2019.10.27 at 15h 59m 55s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes.test_3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_in_test_three_sum_0_py - 2019.10.20 at 12h 50m 28s.xml">
-      <configuration name="Twisted Trial in test_three_sum_0.py" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 06m 21s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_in_test_OA_01_py - 2019.10.20 at 12h 50m 30s.xml">
-      <configuration name="Twisted Trial in test_OA_01.py" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 07m 26s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_OA_01_TestThreeSum - 2019.10.20 at 14h 54m 47s.xml">
-      <configuration name="Twisted Trial for test_OA_01.TestThreeSum" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 09m 19s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_OA_01_TestThreeSum - 2019.10.20 at 14h 57m 33s.xml">
-      <configuration name="Twisted Trial for test_OA_01.TestThreeSum" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 10m 40s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_OA_01_TestThreeSum - 2019.10.20 at 15h 02m 15s.xml">
-      <configuration name="Twisted Trial for test_OA_01.TestThreeSum" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 11m 19s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_OA_01_TestThreeSum - 2019.10.20 at 15h 05m 58s.xml">
-      <configuration name="Twisted Trial for test_OA_01.TestThreeSum" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 12m 00s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_OA_01_TestThreeSum - 2019.10.20 at 15h 07m 03s.xml">
-      <configuration name="Twisted Trial for test_OA_01.TestThreeSum" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 14m 31s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_in_test_three_sum_0_py - 2019.10.20 at 15h 08m 41s.xml">
-      <configuration name="Twisted Trial in test_three_sum_0.py" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 20m 40s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestWordBreak - 2019.10.20 at 15h 46m 20s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestWordBreak" configurationId="tests" />
+    <history-entry file="Twisted_Trial_for_test_bus_routes_815_TestBusRoutes - 2019.10.27 at 23h 24m 18s.xml">
+      <configuration name="Twisted Trial for test_bus_routes_815.TestBusRoutes" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22066738" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26049516" />
       <window_info id="Unicode Browser" order="1" weight="0.32992464" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.23085585" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.861141" weight="0.4921171" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7761033" weight="0.20045045" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.85844994" visible="true" weight="0.10810811" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7761033" weight="0.37387386" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.13885899" side_tool="true" visible="true" weight="0.23198198" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14155005" side_tool="true" weight="0.3828829" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
@@ -754,6 +858,11 @@
           <line>103</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/string_handle/medium/phone_num_comb_17/phone_num_comb.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -818,76 +927,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/srcs/offical_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="70" column="29" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/divisor_game/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/range_sum_query/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" selection-start-line="45" selection-end-line="47" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/climbing_stairs/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/climbing_stairs/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="22" column="3" selection-start-line="11" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/climbing_staris_with_min_cost/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/easy/house_robber/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="8" selection-start-line="15" selection-end-line="27" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests/test_offical_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="6" selection-start-line="11" selection-end-line="36" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dp/easy/max_sum_of_subarray/srcs/my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -955,13 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
           <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -1040,17 +1072,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="e#178#244#0" expanded="true" />
-            <marker date="1570371803159" expanded="true" signature="309:314" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1086,47 +1107,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#470#512#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum_1.py" />
     <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_three_sum_my_TA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6223">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#179#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_OA_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139898">
-          <caret line="43" column="11" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="11" />
-          <folding>
-            <element signature="e#179#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/bsearch/bisearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1137,12 +1122,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/compare_version.py">
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/word_break/_trial_temp.lock/symlink" />
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/word_break_139/test_my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="75" column="27" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="27" />
+        <state relative-caret-position="132">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/srcs/my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding>
+            <element signature="e#1028#1041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <marker date="1572001026324" expanded="true" signature="154:159" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/bsearch/bisearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/compare_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_OA_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="e#179#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/word_break_139/word_break_OA_with_dp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/restore_ip_93/test_restore_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+          <folding>
+            <element signature="e#179#210#0" expanded="true" />
+            <marker date="1572151166037" expanded="true" signature="334:339" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="3754" column="6" selection-start-line="3754" selection-start-column="6" selection-end-line="3754" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/phone_num_comb_17/test_phone_num_comb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#179#210#0" expanded="true" />
+            <marker date="1572160291163" expanded="true" signature="344:349" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/phone_num_comb_17/phone_num_comb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/restore_ip_93/restore_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+          <folding>
+            <element signature="e#943#1982#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="e#179#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/bus_routes_815/bus_routes_815_wa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/bus_routes_815/test_bus_routes_815_wa.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/test_compare_versions.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1155,41 +1279,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string_handle/medium/word_break/_trial_temp.lock/symlink">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string_handle/medium/word_break_139/test_my_answer.py">
+    <entry file="file://$PROJECT_DIR$/graph/hard/bus_routes_815/test_bus_routes_815.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="356">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="32" />
           <folding>
-            <element signature="e#178#193#0" expanded="true" />
+            <element signature="e#179#210#0" expanded="true" />
+            <marker date="1572189256629" expanded="true" signature="331:336" ph="..." />
+            <marker date="1572189256629" expanded="true" signature="879:888" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string_handle/medium/word_break_139/word_break_OA_with_dp.py">
+    <entry file="file://$PROJECT_DIR$/graph/hard/bus_routes_815/bus_routes_815.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        <state relative-caret-position="509">
+          <caret line="93" column="44" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
           <folding>
-            <element signature="e#179#237#0" expanded="true" />
-            <marker date="1571561361309" expanded="true" signature="299:727" ph="..." />
+            <marker date="1572190228606" expanded="true" signature="1176:1327" ph="..." />
+            <marker date="1572190228606" expanded="true" signature="1655:1672" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
         </state>
       </provider>
     </entry>
