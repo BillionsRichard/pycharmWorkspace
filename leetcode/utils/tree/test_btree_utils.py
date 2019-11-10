@@ -11,8 +11,8 @@
 """
 import unittest
 
-from utils.tree.tree_utils import TreeUtils as TU
-from utils.tree.tree_node import TreeNode
+from utils.tree.btree_utils import TreeUtils as TU
+from utils.tree.btree_node import TreeNode
 
 
 class TestTree(unittest.TestCase):
@@ -157,3 +157,86 @@ class TestTree(unittest.TestCase):
         r2.right.right = TreeNode(0)
 
         self.assertTrue(TU.is_equal_trees(r1, r2))
+
+    def test_btree_lvl_order_1(self):
+        r1 = None
+        exp = []
+        act = TU.lvl_order(r1)
+        self.assertEqual(exp, act)
+
+    def test_btree_lvl_order_2(self):
+        r1 = TreeNode(0)
+
+        exp = [0]
+        act = TU.lvl_order(r1)
+        self.assertEqual(exp, act)
+
+    def test_btree_lvl_order_3(self):
+        r1 = TreeNode(0)
+        r1.left = TreeNode(1)
+
+        exp = [0, 1]
+        act = TU.lvl_order(r1)
+        self.assertEqual(exp, act)
+
+    def test_btree_lvl_order_4(self):
+        r1 = TreeNode(0)
+        r1.right = TreeNode(1)
+
+        exp = [0, 1]
+        act = TU.lvl_order(r1)
+        self.assertEqual(exp, act)
+
+    def test_btree_lvl_order_5(self):
+        r1 = TreeNode(0)
+        r1.left = TreeNode(1)
+        r1.right = TreeNode(2)
+
+        exp = [0, 1, 2]
+        act = TU.lvl_order(r1)
+        self.assertEqual(exp, act)
+
+    def test_btree_lvl_order_6(self):
+        r1 = TreeNode(0)
+        r1.left = TreeNode(1)
+        r1.right = TreeNode(2)
+
+        r1.left.left = TreeNode(3)
+        r1.left.left.right = TreeNode(4)
+
+        r1.right.left = TreeNode(5)
+
+        exp = [0, 1, 2, 3, 5, 4]
+        act = TU.lvl_order(r1)
+        self.assertEqual(exp, act)
+
+    def test_btree_lvl_order_7(self):
+        r1 = TreeNode(0)
+        r1.left = TreeNode(1)
+        r1.right = TreeNode(2)
+
+        r1.left.left = TreeNode(3)
+        r1.left.right = TreeNode(5)
+        r1.left.left.right = TreeNode(7)
+
+        r1.right.right = TreeNode(4)
+        r1.right.right.left = TreeNode(8)
+
+        exp = [0, 1, 2, 3, 5, 4, 7, 8]
+        act = TU.lvl_order(r1)
+        self.assertEqual(exp, act)
+
+    def test_btree_to_string_8(self):
+        r1 = TreeNode(0)
+        r1.left = TreeNode(1)
+        r1.right = TreeNode(2)
+
+        r1.left.left = TreeNode(3)
+        r1.left.right = TreeNode(5)
+        r1.left.left.right = TreeNode(7)
+
+        r1.right.right = TreeNode(4)
+        r1.right.right.left = TreeNode(8)
+
+        act = TU.to_string(r1)
+        print(act)

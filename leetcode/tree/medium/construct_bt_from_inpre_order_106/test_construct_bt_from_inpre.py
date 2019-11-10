@@ -15,7 +15,7 @@ from tree.medium.construct_bt_from_inpre_order_106 \
     .construct_bt_from_inpre_order_106 import Solution
 from tree.medium.construct_bt_from_inpre_order_106 \
     .construct_bt_from_inpre_order_106 import TreeNode
-from utils.tree.tree_utils import TreeUtils as TU
+from utils.tree.btree_utils import TreeUtils as TU
 
 
 class TestConstructBtFromInPre(unittest.TestCase):

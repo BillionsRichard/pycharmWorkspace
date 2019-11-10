@@ -9,8 +9,10 @@
 @software: PyCharm 
 @time: 2019/10/20 16:28 
 """
-from graph.hard.dungeon_game_174.my_answer import Solution
 import unittest
+
+from graph.hard.dungeon_game_174.my_answer import Solution
+
 
 class TestMinHealthValue(unittest.TestCase):
     def setUp(self):
@@ -34,4 +36,3 @@ class TestMinHealthValue(unittest.TestCase):
         exp = 7
         act = Solution().calculateMinimumHP(dungeon)
         self.assertEqual(exp, act)
-

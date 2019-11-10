@@ -9,7 +9,6 @@
 @software: PyCharm 
 @time: 2019/11/10 10:20 
 """
-from pprint import pprint as pp
 
 
 # Definition for a binary tree node.

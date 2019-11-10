@@ -9,7 +9,7 @@
 @software: PyCharm 
 @time: 2019/11/10 10:52 
 """
-from utils.tree.tree_node import TreeNode
+from utils.tree.btree_node import TreeNode
 
 
 class TreeUtils(object):
@@ -49,14 +49,44 @@ class TreeUtils(object):
         return post_order_vals
 
     @staticmethod
+    def lvl_order(root: TreeNode):
+        """BFS a tree with root.
+
+        :param root:
+        :return:
+        """
+        from collections import deque
+        if not root:
+            return []
+
+        lvl_order_vals = []
+        lvl_nodes_queue = deque()
+        lvl_nodes_queue.append(root)
+
+        while lvl_nodes_queue:
+            lvl_node = lvl_nodes_queue.popleft()
+            if lvl_node:
+                lvl_order_vals.append(lvl_node.val)
+
+                lvl_nodes_queue.append(lvl_node.left)
+                lvl_nodes_queue.append(lvl_node.right)
+
+        return lvl_order_vals
+
+    @staticmethod
     def to_string(root: TreeNode):
         if not root:
             return 'Empty tree'
 
-        return 'In order:{}\nPre order:{}\nPost order:{}'.format(
+        return 'In order:\t\t{}\n' \
+               'Pre order:\t\t{}\n' \
+               'Post order:\t\t{}\n' \
+               'Lll order:\t\t{}' \
+               ''.format(
             TreeUtils.in_order(root),
             TreeUtils.pre_order(root),
-            TreeUtils.post_order(root)
+            TreeUtils.post_order(root),
+            TreeUtils.lvl_order(root)
         )
 
     @staticmethod
