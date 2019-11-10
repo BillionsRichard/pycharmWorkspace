@@ -17,6 +17,31 @@ class TreeUtils(object):
         self.root = root
 
     @staticmethod
+    def in_order_iter(root: TreeNode) -> list:
+        if not root:
+            return []
+
+        in_order_vals = []
+        stack = [root]
+        top = stack[-1]
+        while top.left:
+            stack.append(top.left)
+            top = stack[-1]
+
+        # 没有左子树
+        while stack:
+            top = stack.pop()
+            in_order_vals.append(top.val)
+            if top.right:
+                stack.append(top.right)
+                top = stack[-1]
+                while top.left:
+                    stack.append(top.left)
+                    top = stack[-1]
+
+        return in_order_vals
+
+    @staticmethod
     def in_order(root: TreeNode) -> list:
         if not root:
             return []
@@ -81,7 +106,7 @@ class TreeUtils(object):
         return 'In order:\t\t{}\n' \
                'Pre order:\t\t{}\n' \
                'Post order:\t\t{}\n' \
-               'Lll order:\t\t{}' \
+               'Lvl order:\t\t{}' \
                ''.format(
             TreeUtils.in_order(root),
             TreeUtils.pre_order(root),

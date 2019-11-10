@@ -1,13 +1,13 @@
-# encoding: utf-8  
+# encoding: utf-8
 
-""" 
-@version: v1.0 
+"""
+@version: v1.0
 @author: Richard
-@license: Apache Licence  
-@contact: billions.richard@qq.com 
-@site:  
-@software: PyCharm 
-@time: 2019/11/10 17:11 
+@license: Apache Licence
+@contact: billions.richard@qq.com
+@site:
+@software: PyCharm
+@time: 2019/11/10 17:11
 """
 
 

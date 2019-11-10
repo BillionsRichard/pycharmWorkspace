@@ -23,7 +23,7 @@ class TestTree(unittest.TestCase):
     def test_traverse_1(self):
         r = TreeNode(0)
         pre_order, in_order, post_order = [0], [0], [0]
-        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order(
+        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order_iter(
             r), TU.post_order(r)
 
         self.assertEqual(pre_order, act_pre)
@@ -34,7 +34,7 @@ class TestTree(unittest.TestCase):
         r = TreeNode(0)
         r.left = TreeNode(1)
         pre_order, in_order, post_order = [0, 1], [1, 0], [1, 0]
-        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order(r), \
+        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order_iter(r), \
                                     TU.post_order(r)
 
         self.assertEqual(pre_order, act_pre)
@@ -45,7 +45,7 @@ class TestTree(unittest.TestCase):
         r = TreeNode(0)
         r.right = TreeNode(1)
         pre_order, in_order, post_order = [0, 1], [0, 1], [1, 0]
-        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order(
+        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order_iter(
             r), TU.post_order(r)
 
         self.assertEqual(pre_order, act_pre)
@@ -58,7 +58,7 @@ class TestTree(unittest.TestCase):
         r.right = TreeNode(2)
 
         pre_order, in_order, post_order = [0, 1, 2], [1, 0, 2], [1, 2, 0]
-        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order(
+        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order_iter(
             r), TU.post_order(r)
 
         self.assertEqual(pre_order, act_pre)
@@ -78,7 +78,7 @@ class TestTree(unittest.TestCase):
         pre_order, in_order, post_order = ([0, 1, 3, 4, 2, 6],
                                            [3, 1, 4, 0, 2, 6],
                                            [3, 4, 1, 6, 2, 0])
-        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order(
+        act_pre, act_in, act_post = TU.pre_order(r), TU.in_order_iter(
             r), TU.post_order(r)
 
         self.assertEqual(pre_order, act_pre)
@@ -101,7 +101,7 @@ class TestTree(unittest.TestCase):
                                            [3, 5, 1, 4, 0, 2, 7, 6],
                                            [5, 3, 4, 1, 7, 6, 2, 0])
         act_pre, act_in, act_post = \
-            TU.pre_order(root), TU.in_order(root), TU.post_order(root)
+            TU.pre_order(root), TU.in_order_iter(root), TU.post_order(root)
 
         self.assertEqual(pre_order, act_pre)
         self.assertEqual(in_order, act_in)
