@@ -7,11 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dc914e3-fd1c-4534-b88d-3bef8fad9283" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hard/lfu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/lfu/lfu_cache_460.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lru_cache/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lru_cache/lru_cache_146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lru_cache/lru_cache_146_OA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lru_cache/lru_cache_146_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lru_cache/test_lru_cache_146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/max_of_sliding_window_239/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/max_of_sliding_window_239/max_of_sliding_window_239.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue/max_of_sliding_window_239/test_max_of_sliding_window_239.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/kth_small_ele_in_bst_230.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/test_kth_small_ele_in_bst_230.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hadoop-book" beforeDir="false" afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/medium/max_area_of_islands_695/max_area_of_islands_695.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/medium/max_area_of_islands_695/max_area_of_islands_695.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/medium/max_area_of_islands_695/test_max_area_of_islands_695.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/medium/max_area_of_islands_695/test_max_area_of_islands_695.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/tree/btree_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tree/btree_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/tree/test_btree_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tree/test_btree_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/_trial_temp-1.lock/symlink" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/_trial_temp-1/_trial_marker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/_trial_temp-2/_trial_marker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/_trial_temp.lock/symlink" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +46,13 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestInsertIntoBinaryTree.coverage" NAME="Twisted Trial for test_my_answer.TestInsertIntoBinaryTree Coverage Results" MODIFIED="1569932322259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/insert_into_bt/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_list_TestListNode.coverage" NAME="Twisted Trial for test_list.TestListNode Coverage Results" MODIFIED="1567937158956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/adding_two_nums/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_q_and_ordered_dict.coverage" NAME="a_with_q_and_ordered_dict Coverage Results" MODIFIED="1568353080401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_max_of_sliding_window_239_TestMaxOfSlidingWindow_test_1.coverage" NAME="Twisted Trial for test_max_of_sliding_window_239.TestMaxOfSlidingWindow.test_1 Coverage Results" MODIFIED="1575116243820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/queue/max_of_sliding_window_239" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestSurroundedRegions.coverage" NAME="Twisted Trial for graph.medium.surrounded_regions_130.test_my_answer_with_bfs.TestSurroundedRegions Coverage Results" MODIFIED="1570958569897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary__1_.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary (1) Coverage Results" MODIFIED="1570094456217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_offical_answer_TestMaxSumOfPartitionedArray_test_2.coverage" NAME="Twisted Trial for test_offical_answer.TestMaxSumOfPartitionedArray.test_2 Coverage Results" MODIFIED="1570115410438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/medium/max_sum_of_partitioned_array/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_3.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_3 Coverage Results" MODIFIED="1569986342863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestRangeSumBST_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestRangeSumBST.test_1 Coverage Results" MODIFIED="1569913501513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/range_sum_of_bst/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_lru_cache_146_TestLruCache.coverage" NAME="Twisted Trial for test_lru_cache_146.TestLruCache Coverage Results" MODIFIED="1573959905896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/lru_cache" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_btree_utils_TestTree_test_btree_lvl_order_1.coverage" NAME="Twisted Trial for test_btree_utils.TestTree.test_btree_lvl_order_1 Coverage Results" MODIFIED="1573373081179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/tree" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_official_answer_with_divide_and_conquer_TestMaxSumOfSubArray.coverage" NAME="Twisted Trial for test_official_answer_with_divide_and_conquer.TestMaxSumOfSubArray Coverage Results" MODIFIED="1570242470072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp/easy/max_sum_of_subarray/tests" />
     <SUITE FILE_PATH="coverage/leetcode$a_with_ordered_dict_optimize.coverage" NAME="a_with_ordered_dict_optimize Coverage Results" MODIFIED="1568377783887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard/smallest_range/srcs" />
@@ -95,6 +112,7 @@
     <SUITE FILE_PATH="coverage/leetcode$q_with_no_cache.coverage" NAME="q_with_no_cache Coverage Results" MODIFIED="1568452017327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/map_analysis/srcs" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_1.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_1 Coverage Results" MODIFIED="1570092921966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/regions_cut_by_slashes/tests" />
     <SUITE FILE_PATH="coverage/leetcode$bus_routes_815.coverage" NAME="bus_routes_815 Coverage Results" MODIFIED="1572162502723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/bus_routes_815" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_kth_small_ele_in_bst_230_TestKthSmallElementInBst_test_2.coverage" NAME="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_2 Coverage Results" MODIFIED="1575120265755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_btree_utils_TestTree_test_btree_to_string_8.coverage" NAME="Twisted Trial for test_btree_utils.TestTree.test_btree_to_string_8 Coverage Results" MODIFIED="1573395594763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/tree" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr_test_3.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr.test_3 Coverage Results" MODIFIED="1567910926287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree__1_.coverage" NAME="Twisted Trial for test_a.TestIsSameTree (1) Coverage Results" MODIFIED="1569137427957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
@@ -125,8 +143,10 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_answer_TestRemoveNCharsToBeSubStr.coverage" NAME="Twisted Trial for test_answer.TestRemoveNCharsToBeSubStr Coverage Results" MODIFIED="1567910957022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/srcs/medium/substr_with_removing_n_chars/tests" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_btree_utils_TestTree_test_btree_lvl_order_2.coverage" NAME="Twisted Trial for test_btree_utils.TestTree.test_btree_lvl_order_2 Coverage Results" MODIFIED="1573373614569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/tree" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMaxLevelSum.coverage" NAME="Twisted Trial for test_my_answer.TestMaxLevelSum Coverage Results" MODIFIED="1569936055335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/max_level_sum_of_bt/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_kth_small_ele_in_bst_230_TestKthSmallElementInBst.coverage" NAME="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst Coverage Results" MODIFIED="1575120281219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_bsearch_TestMyBsearch_test_17.coverage" NAME="Twisted Trial for test_bsearch.TestMyBsearch.test_17 Coverage Results" MODIFIED="1571539721137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/bsearch" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_TestIsSameTree_test_1.coverage" NAME="Twisted Trial for test_a.TestIsSameTree.test_1 Coverage Results" MODIFIED="1569123836653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/same_tree/tests" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_kth_small_ele_in_bst_230_TestKthSmallElementInBst_test_1.coverage" NAME="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_1 Coverage Results" MODIFIED="1575120080960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestWordBreak.coverage" NAME="Twisted Trial for test_my_answer.TestWordBreak Coverage Results" MODIFIED="1571557578767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_handle/medium/word_break_139" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestFindItinerary_test_5.coverage" NAME="Twisted Trial for test_my_answer.TestFindItinerary.test_5 Coverage Results" MODIFIED="1569988210384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/reconstruct_itinerary/tests" />
     <SUITE FILE_PATH="coverage/leetcode$a.coverage" NAME="a Coverage Results" MODIFIED="1568386221628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy/find_learned_words_len/srcs" />
@@ -149,6 +169,7 @@
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestNumIslands__1_.coverage" NAME="Twisted Trial for test_my_answer.TestNumIslands (1) Coverage Results" MODIFIED="1570933619698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/medium/surrounded_regions_130" />
     <SUITE FILE_PATH="coverage/leetcode$heap_demo01.coverage" NAME="heap_demo01 Coverage Results" MODIFIED="1568383150065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reivew/data_structure/heap" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_OA_01_TestThreeSum.coverage" NAME="Twisted Trial for test_OA_01.TestThreeSum Coverage Results" MODIFIED="1571555198316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/num_array/medium/three_sum_15" />
+    <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_lru_cache_146_TestLruCache_test_5.coverage" NAME="Twisted Trial for test_lru_cache_146.TestLruCache.test_5 Coverage Results" MODIFIED="1573959844723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium/lru_cache" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_my_answer_TestMinHealthValue.coverage" NAME="Twisted Trial for test_my_answer.TestMinHealthValue Coverage Results" MODIFIED="1573374336325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph/hard/dungeon_game_174" />
     <SUITE FILE_PATH="coverage/leetcode$Twisted_Trial_for_test_a_iter_TestIsSymmetricTree_test_2.coverage" NAME="Twisted Trial for test_a_iter.TestIsSymmetricTree.test_2 Coverage Results" MODIFIED="1569139084295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree/easy/symmetric_tree/tests" />
   </component>
@@ -171,7 +192,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="log" value="1" />
-          <entry key="py" value="278" />
+          <entry key="py" value="298" />
           <entry key="symlink" value="2" />
           <entry key="txt" value="13" />
           <entry key="wrong_ans" value="2" />
@@ -180,91 +201,137 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="278" />
+          <entry key="Python" value="298" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="140" />
-          <entry key="py" value="66425" />
+          <entry key="dummy" value="142" />
+          <entry key="py" value="69840" />
           <entry key="txt" value="1349" />
           <entry key="wrong_ans" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1495" />
-          <entry key="Python" value="66424" />
+          <entry key="PLAIN_TEXT" value="1497" />
+          <entry key="Python" value="69839" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.81271595">
+    <splitter split-orientation="horizontal" split-proportion="0.5963365">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py">
+            <entry file="file://$PROJECT_DIR$/medium/lru_cache/lru_cache_146.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                <state relative-caret-position="671">
+                  <caret line="35" selection-start-line="35" selection-end-line="35" />
                   <folding>
-                    <element signature="e#179#194#0" expanded="true" />
+                    <marker date="1573962004401" expanded="true" signature="414:424" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/graph/medium/max_area_of_islands_695/max_area_of_islands_695.py">
+            <entry file="file://$PROJECT_DIR$/medium/lru_cache/test_lru_cache_146.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/utils/tree/btree_node.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/utils/tree/test_btree_utils.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-4356">
-                  <caret line="24" column="27" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="27" />
+                <state relative-caret-position="220">
+                  <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
                   <folding>
-                    <element signature="e#179#194#0" expanded="true" />
-                    <marker date="1573397387793" expanded="true" signature="326:384" ph="..." />
+                    <marker date="1573959794649" expanded="true" signature="276:281" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/medium/lru_cache/lru_cache_146_opt.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1254">
+                  <caret line="57" column="30" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="72" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/hard/lfu/lfu_cache_460.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+                  <folding>
+                    <marker date="1573985133784" expanded="true" signature="275:314" ph="..." />
+                    <marker date="1573985133784" expanded="true" signature="396:461" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://C:/Program Files (x86)/Python36-32/Lib/collections/__init__.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="172">
+                  <caret line="178" selection-start-line="178" selection-end-line="178" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/queue/max_of_sliding_window_239/max_of_sliding_window_239.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="241">
+                  <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#170#193#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/utils/tree/btree_utils.py">
+            <entry file="file://$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/kth_small_ele_in_bst_230.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-924">
-                  <caret line="21" column="20" selection-start-line="20" selection-end-line="41" selection-end-column="28" />
+                <state relative-caret-position="169">
+                  <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/tree/medium/construct_bt_from_inpre_order_106/test_construct_bt_from_inpre.py">
+            <entry file="file://$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/test_kth_small_ele_in_bst_230.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="232">
-                  <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+                <state relative-caret-position="280">
+                  <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
                   <folding>
-                    <element signature="e#179#194#0" expanded="true" />
-                    <marker date="1573373024379" expanded="true" signature="515:939" ph="..." />
+                    <element signature="e#171#253#0" expanded="true" />
+                    <marker date="1575120265700" expanded="true" signature="416:421" ph="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/queue/max_of_sliding_window_239/test_max_of_sliding_window_239.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+                  <folding>
+                    <element signature="e#170#248#0" expanded="true" />
+                    <marker date="1575116243729" expanded="true" signature="313:318" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/_collections.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="161">
+                  <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -272,54 +339,24 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+        <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
+            <entry file="file://$PROJECT_DIR$/hard/lfu/lfu_cache_460.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+                <state relative-caret-position="341">
+                  <caret line="33" column="22" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="20" />
                   <folding>
-                    <marker date="1572001026324" expanded="true" signature="154:159" ph="..." />
+                    <marker date="1573985133784" expanded="true" signature="275:314" ph="..." />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="902">
-                  <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/utils/bsearch/bisearch.py">
+            <entry file="file://$PROJECT_DIR$/medium/lru_cache/lru_cache_146_OA.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="331">
-                  <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/compare_version.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1716">
-                  <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_OA_01.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="770">
-                  <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-                  <folding>
-                    <element signature="e#179#194#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="169">
+                  <caret line="32" column="19" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -370,17 +407,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer_with_bfs.py" />
-        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer_with_bfs_1.py" />
-        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs_1.py" />
-        <option value="$PROJECT_DIR$/graph/medium/surrounded_regions_130/graph.txt" />
-        <option value="$PROJECT_DIR$/hard/n_queens/wrong_ans" />
-        <option value="$PROJECT_DIR$/hard/n_queens/my_answer.py" />
-        <option value="$PROJECT_DIR$/string/medium/word_break/my_answer.py" />
-        <option value="$PROJECT_DIR$/string/medium/word_break/test_my_answer.py" />
-        <option value="$PROJECT_DIR$/string_handle/medium/compare_versions/test_compare_versions.py" />
-        <option value="$PROJECT_DIR$/string_handle/medium/compare_versions/compare_version.py" />
-        <option value="$PROJECT_DIR$/array/medium/three_sum_15/test_three_sum.py" />
         <option value="$PROJECT_DIR$/array/medium/three_sum_15/three_sum.py" />
         <option value="$PROJECT_DIR$/num_array/medium/three_sum_15/test_my_bsearch.py" />
         <option value="$PROJECT_DIR$/utils/bsearch/bisearch.py" />
@@ -421,6 +447,17 @@
         <option value="$PROJECT_DIR$/graph/medium/max_area_of_islands_695/test_max_area_of_islands_695.py" />
         <option value="$PROJECT_DIR$/utils/tree/test_btree_utils.py" />
         <option value="$PROJECT_DIR$/utils/tree/btree_utils.py" />
+        <option value="$PROJECT_DIR$/medium/lru_cache/test_lru_cache_146.py" />
+        <option value="$PROJECT_DIR$/medium/lru_cache/lru_cache_146.py" />
+        <option value="$PROJECT_DIR$/medium/lru_cache/lru_cache_146_opt.py" />
+        <option value="$PROJECT_DIR$/medium/lru_cache/lru_cache_146_OA.py" />
+        <option value="$PROJECT_DIR$/medium/lru_cache/lru_cache_460.py" />
+        <option value="$PROJECT_DIR$/hard/lfu/lfu_cache_460.py" />
+        <option value="$PROJECT_DIR$/queue/max_of_sliding_window_239/test_max_of_sliding_window_239.py" />
+        <option value="$PROJECT_DIR$/queue/max_of_sliding_window_239/max_of_sliding_window_239.py" />
+        <option value="$PROJECT_DIR$/queue/max_of_sliding_window_239/max_of_sliding_window_239_dp.py" />
+        <option value="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/kth_small_ele_in_bst_230.py" />
+        <option value="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/test_kth_small_ele_in_bst_230.py" />
       </list>
     </option>
   </component>
@@ -431,9 +468,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="32" />
-    <option name="y" value="29" />
-    <option name="width" value="1934" />
+    <option name="x" value="-4" />
+    <option name="y" value="68" />
+    <option name="width" value="1940" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -455,44 +492,20 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
-              <item name="dungeon_game_174" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="max_area_of_islands_695" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="kth_small_ele_in_bst_230" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -515,6 +528,14 @@
               <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="Python36-32" type="462c0819:PsiDirectoryNode" />
               <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\Python36-32\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Python36-32" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -547,18 +568,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\pycharmWorkspace\leetcode\hard\lfu" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\adding_two_nums\tests" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\medium\adding_two_nums\srcs" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\srcs\easy\two_num_sum\srcs" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\tests\easy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\pycharmWorkspace\leetcode\queue\max_of_sliding_window_239" />
+      <recent name="D:\Python\pycharmWorkspace\leetcode\medium\lru_cache" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\graph\hard\bus_routes_815" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\graph\hard\swim_in_rising_pool\srcs" />
       <recent name="D:\Python\pycharmWorkspace\leetcode\num_array\medium\three_sum_15" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\array\medium\three_sum_15" />
-      <recent name="D:\Python\pycharmWorkspace\leetcode\graph\medium\surrounded_regions_130" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -573,96 +594,96 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Twisted Trial for test_btree_utils.TestTree">
-    <configuration name="Twisted Trial for test_btree_utils.TestTree" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst">
+    <configuration name="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_btree_utils.TestTree&quot;" />
+      <option name="_new_target" value="&quot;test_kth_small_ele_in_bst_230.TestKthSmallElementInBst&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_btree_utils.TestTree.test_btree_to_string_8" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_btree_utils.TestTree.test_btree_to_string_8&quot;" />
+      <option name="_new_target" value="&quot;test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_btree_utils.TestTree.test_traverse_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_2" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_btree_utils.TestTree.test_traverse_1&quot;" />
+      <option name="_new_target" value="&quot;test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_lvl_order_nt_429.TestLvlOrderNTree" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_lru_cache_146.TestLruCache" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree/medium/lvl_order_traverse_n_ary_tree_429" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium/lru_cache" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lvl_order_nt_429.TestLvlOrderNTree&quot;" />
+      <option name="_new_target" value="&quot;test_lru_cache_146.TestLruCache&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Twisted Trial for test_max_area_of_islands_695.TestMaxAreaOfIslands" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="Twisted Trial for test_max_of_sliding_window_239.TestMaxOfSlidingWindow.test_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph/medium/max_area_of_islands_695" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue/max_of_sliding_window_239" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_max_area_of_islands_695.TestMaxAreaOfIslands&quot;" />
+      <option name="_new_target" value="&quot;test_max_of_sliding_window_239.TestMaxOfSlidingWindow.test_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Twisted Trial for test_lvl_order_nt_429.TestLvlOrderNTree" />
-      <item itemvalue="Python tests.Twisted Trial for test_max_area_of_islands_695.TestMaxAreaOfIslands" />
-      <item itemvalue="Python tests.Twisted Trial for test_btree_utils.TestTree.test_btree_to_string_8" />
-      <item itemvalue="Python tests.Twisted Trial for test_btree_utils.TestTree.test_traverse_1" />
-      <item itemvalue="Python tests.Twisted Trial for test_btree_utils.TestTree" />
+      <item itemvalue="Python tests.Twisted Trial for test_lru_cache_146.TestLruCache" />
+      <item itemvalue="Python tests.Twisted Trial for test_max_of_sliding_window_239.TestMaxOfSlidingWindow.test_1" />
+      <item itemvalue="Python tests.Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_1" />
+      <item itemvalue="Python tests.Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_2" />
+      <item itemvalue="Python tests.Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Twisted Trial for test_btree_utils.TestTree" />
-        <item itemvalue="Python tests.Twisted Trial for test_btree_utils.TestTree.test_traverse_1" />
-        <item itemvalue="Python tests.Twisted Trial for test_btree_utils.TestTree.test_btree_to_string_8" />
-        <item itemvalue="Python tests.Twisted Trial for test_max_area_of_islands_695.TestMaxAreaOfIslands" />
-        <item itemvalue="Python tests.Twisted Trial for test_lvl_order_nt_429.TestLvlOrderNTree" />
+        <item itemvalue="Python tests.Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst" />
+        <item itemvalue="Python tests.Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_2" />
+        <item itemvalue="Python tests.Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_1" />
+        <item itemvalue="Python tests.Twisted Trial for test_max_of_sliding_window_239.TestMaxOfSlidingWindow.test_1" />
+        <item itemvalue="Python tests.Twisted Trial for test_lru_cache_146.TestLruCache" />
       </list>
     </recent_temporary>
   </component>
@@ -680,58 +701,58 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Twisted_Trial_for_test_btree_utils_TestTree - 2019.11.10 at 16h 22m 21s.xml">
-      <configuration name="Twisted Trial for test_btree_utils.TestTree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_my_answer_TestMinHealthValue - 2019.11.10 at 16h 25m 39s.xml">
-      <configuration name="Twisted Trial for test_my_answer.TestMinHealthValue" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_lvl_order_nt_429_TestLvlOrderNTree - 2019.11.10 at 16h 45m 52s.xml">
-      <configuration name="Twisted Trial for test_lvl_order_nt_429.TestLvlOrderNTree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_max_area_of_islands_695_TestMaxAreaOfIslands - 2019.11.10 at 18h 18m 43s.xml">
-      <configuration name="Twisted Trial for test_max_area_of_islands_695.TestMaxAreaOfIslands" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_max_area_of_islands_695_TestMaxAreaOfIslands - 2019.11.10 at 18h 21m 33s.xml">
-      <configuration name="Twisted Trial for test_max_area_of_islands_695.TestMaxAreaOfIslands" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_max_area_of_islands_695_TestMaxAreaOfIslands - 2019.11.10 at 18h 27m 18s.xml">
-      <configuration name="Twisted Trial for test_max_area_of_islands_695.TestMaxAreaOfIslands" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_btree_utils_TestTree_test_btree_to_string_8 - 2019.11.10 at 22h 19m 56s.xml">
-      <configuration name="Twisted Trial for test_btree_utils.TestTree.test_btree_to_string_8" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_btree_utils_TestTree_test_traverse_1 - 2019.11.10 at 22h 49m 15s.xml">
-      <configuration name="Twisted Trial for test_btree_utils.TestTree.test_traverse_1" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Twisted_Trial_for_test_btree_utils_TestTree_test_traverse_1 - 2019.11.10 at 22h 49m 49s.xml">
-      <configuration name="Twisted Trial for test_btree_utils.TestTree.test_traverse_1" configurationId="tests" />
-    </history-entry>
     <history-entry file="Twisted_Trial_for_test_btree_utils_TestTree - 2019.11.10 at 22h 49m 57s.xml">
       <configuration name="Twisted Trial for test_btree_utils.TestTree" configurationId="tests" />
     </history-entry>
+    <history-entry file="Twisted_Trial_for_test_lru_cache_146_TestLruCache - 2019.11.17 at 11h 03m 17s.xml">
+      <configuration name="Twisted Trial for test_lru_cache_146.TestLruCache" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_lru_cache_146_TestLruCache - 2019.11.17 at 11h 03m 36s.xml">
+      <configuration name="Twisted Trial for test_lru_cache_146.TestLruCache" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_lru_cache_146_TestLruCache_test_5 - 2019.11.17 at 11h 04m 57s.xml">
+      <configuration name="Twisted Trial for test_lru_cache_146.TestLruCache.test_5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_lru_cache_146_TestLruCache - 2019.11.17 at 11h 05m 07s.xml">
+      <configuration name="Twisted Trial for test_lru_cache_146.TestLruCache" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_max_of_sliding_window_239_TestMaxOfSlidingWindow_test_1 - 2019.11.30 at 20h 17m 26s.xml">
+      <configuration name="Twisted Trial for test_max_of_sliding_window_239.TestMaxOfSlidingWindow.test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_kth_small_ele_in_bst_230_TestKthSmallElementInBst_test_1 - 2019.11.30 at 21h 20m 41s.xml">
+      <configuration name="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_kth_small_ele_in_bst_230_TestKthSmallElementInBst_test_1 - 2019.11.30 at 21h 21m 22s.xml">
+      <configuration name="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_kth_small_ele_in_bst_230_TestKthSmallElementInBst_test_2 - 2019.11.30 at 21h 24m 27s.xml">
+      <configuration name="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst.test_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_kth_small_ele_in_bst_230_TestKthSmallElementInBst - 2019.11.30 at 21h 24m 43s.xml">
+      <configuration name="Twisted Trial for test_kth_small_ele_in_bst_230.TestKthSmallElementInBst" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22820237" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15128902" />
       <window_info id="Unicode Browser" order="1" weight="0.32992464" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.23085585" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.83423036" visible="true" weight="0.2849099" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.77556515" weight="0.47522524" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8229308" weight="0.26041666" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7750269" weight="0.4707207" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.16576965" side_tool="true" visible="true" weight="0.2849099" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.1770692" weight="0.23065476" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -739,23 +760,23 @@
       <window_info anchor="right" id="SciView" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22066738" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15128902" />
       <window_info id="Unicode Browser" order="1" weight="0.32992464" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15878378" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1936937" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4994618" weight="0.23085585" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8229308" visible="true" weight="0.26041666" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7750269" weight="0.4707207" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.1770692" weight="0.23065476" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -847,6 +868,11 @@
           <line>170</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/medium/lru_cache/test_lru_cache_146.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -911,102 +937,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_bad_answer_with_dfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="65" column="20" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_bad_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer_with_bfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/graph.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/n_queens/wrong_ans">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/number_of_islands_200/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/n_queens/my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <marker date="1570983000633" expanded="true" signature="285:290" ph="..." />
-            <marker date="1570983000633" expanded="true" signature="1183:2458" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_my_bsearch.py" />
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/test_my_answer_with_bfs_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/surrounded_regions_130/my_answer_with_bfs_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/two_num_sum/srcs/two_num_sum_eq_tgt_num1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/bsearch/test_bsearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="137" column="15" selection-start-line="137" selection-start-column="15" selection-end-line="137" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/OA_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum_1.py" />
     <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/test_three_sum_my_TA.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1034,6 +964,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+          <folding>
+            <element signature="e#1028#1041#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1044,30 +977,6 @@
           <folding>
             <element signature="e#1028#1041#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <marker date="1572001026324" expanded="true" signature="154:159" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/compare_version.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1085,13 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="3754" column="6" selection-start-line="3754" selection-start-column="6" selection-end-line="3754" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1131,13 +1033,6 @@
             <element signature="e#179#210#0" expanded="true" />
             <marker date="1572160291163" expanded="true" signature="344:349" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/bsearch/bisearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1183,17 +1078,6 @@
           <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <marker date="1572794870500" expanded="true" signature="611:878" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/medium/construct_bt_from_inpre_order_106/test_construct_bt_from_inpre.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
-          <folding>
-            <element signature="e#179#194#0" expanded="true" />
-            <marker date="1573373024379" expanded="true" signature="515:939" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1255,6 +1139,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graph/medium/max_area_of_islands_695/max_area_of_islands_695.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/tree/test_btree_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#179#194#0" expanded="true" />
+            <marker date="1573397387793" expanded="true" signature="326:384" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/graph/hard/dungeon_game_174/test_my_answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1265,35 +1167,181 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/tree/btree_node.py">
+    <entry file="file://$PROJECT_DIR$/tree/medium/construct_bt_from_inpre_order_106/test_construct_bt_from_inpre.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/medium/max_area_of_islands_695/max_area_of_islands_695.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/tree/test_btree_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4356">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="1056">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
           <folding>
             <element signature="e#179#194#0" expanded="true" />
-            <marker date="1573397387793" expanded="true" signature="326:384" ph="..." />
+            <marker date="1573373024379" expanded="true" signature="515:939" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_handle/medium/compare_versions/compare_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/num_array/medium/three_sum_15/three_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/tree/btree_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924">
-          <caret line="21" column="20" selection-start-line="20" selection-end-line="41" selection-end-column="28" />
+        <state relative-caret-position="792">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/tree/btree_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/bsearch/bisearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/hard/swim_in_rising_pool/tests/test_my_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <marker date="1572001026324" expanded="true" signature="154:159" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="523" column="4" selection-start-line="523" selection-start-column="4" selection-end-line="523" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/lru_cache/lru_cache_146.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1573962004401" expanded="true" signature="414:424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/lru_cache/test_lru_cache_146.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <marker date="1573959794649" expanded="true" signature="276:281" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/lru_cache/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/lru_cache/lru_cache_146_opt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/lru_cache/lru_cache_146_OA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hard/lfu/lfu_cache_460.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding>
+            <marker date="1573985133784" expanded="true" signature="275:314" ph="..." />
+            <marker date="1573985133784" expanded="true" signature="396:461" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="3674" column="8" selection-start-line="3674" selection-start-column="8" selection-end-line="3674" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1402888915/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/max_of_sliding_window_239/test_max_of_sliding_window_239.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#170#248#0" expanded="true" />
+            <marker date="1575116243729" expanded="true" signature="313:318" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/max_of_sliding_window_239/max_of_sliding_window_239_dp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/max_of_sliding_window_239/max_of_sliding_window_239.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="e#170#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/test_kth_small_ele_in_bst_230.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+          <folding>
+            <element signature="e#171#253#0" expanded="true" />
+            <marker date="1575120265700" expanded="true" signature="416:421" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/medium/kth_small_ele_in_bst_230/kth_small_ele_in_bst_230.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
