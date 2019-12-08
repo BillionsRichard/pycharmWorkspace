@@ -9,7 +9,7 @@
 @software: PyCharm
 @time: 2019/11/30 20:15
 """
-from queue.max_of_sliding_window_239.max_of_sliding_window_239 import Solution
+from queue_structure.max_of_sliding_window_239.max_of_sliding_window_239 import Solution
 import unittest
 
 class TestMaxOfSlidingWindow(unittest.TestCase):

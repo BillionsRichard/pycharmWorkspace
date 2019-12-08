@@ -11,7 +11,7 @@
 """
 from pprint import pprint as pp
 import heapq
-"""Heap queue algorithm (a.k.a. priority queue).
+"""Heap queue_structure algorithm (a.k.a. priority queue_structure).
 
 Heaps are arrays for which a[k] <= a[2*k+1] and a[k] <= a[2*k+2] for
 all k, counting elements from 0.  For the sake of comparison,
