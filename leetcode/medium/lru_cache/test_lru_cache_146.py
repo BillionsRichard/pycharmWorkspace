@@ -12,10 +12,13 @@
 from medium.lru_cache.lru_cache_146 import LRUCache
 import unittest
 
+
 class TestLruCache(unittest.TestCase):
-    def setUp(self):pass
-    def tearDown(self):pass
+    def setUp(self): pass
+
+    def tearDown(self): pass
+
     def test_5(self):
         c = LRUCache(1)
-        c.put(2,1)
+        c.put(2, 1)
         self.assertEqual(1, c.get(2))
