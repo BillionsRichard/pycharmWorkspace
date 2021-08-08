@@ -14,9 +14,9 @@ import pytest
 
 
 @pytest.fixture(scope="package", autouse=True)
-def st_empty_env():
-    print("初始化---目录甲")
+def st_usr_mgr():
+    print("初始化---user_mgr")
 
     yield
 
-    print("清除---目录甲")
+    print("清除---user_mgr")
